@@ -3,61 +3,91 @@ library(rvest)
 library(xml2)
 library(rebus)
 
-incident_pages <- df$incident[1:5]
-df_gun <-
+# extractors
+geolocation_regex <- DGT %R% DGT %R% DOT %R% DGT %R% DGT %R% optional(DGT) %R% optional(DGT) %R% ", " %R% optional("-") %R%
+        DGT %R% DGT %R% optional(DGT) %R% DOT %R% DGT %R% optional(DGT) %R% optional(DGT) %R% optional(DGT)
+congressional_district_regex <- "Congressional District: " %R% DGT %R% optional(DGT)
+assault_weapon_regex <- "Assault weapon"
+rifle_ar15_regex <- "AR-15"
+handgun_regex <- or("H", "h") %R% "andgun"
+handgun_9mm_regex <- "9mm"
+
+#necessary to exlude las vegas because indident report is pdf not html
+df_exlude_vegas <- subset(df, victims < 500)
+df_vegas <- subset(df, victims >= 500)
+incident_pages <- df_exlude_vegas$incident
+
+geolocation <-
         map_df(incident_pages, function(i) {
                 cat(".")
                 page <- read_html(i, encoding = "utf-8")
-                gun_node <- html_node(page, "#block-system-main > div:nth-child(6) > ul > li:nth-child(1)")
-                gun_node2 <- html_node(page, "#block-system-main > div:nth-child(5) > ul > li:nth-child(1)")
+                gun_node <- html_node(page, "#block-system-main")
                 gun <- html_text(gun_node)
-                gun2 <- html_text(gun_node2)
-                
-                data.frame(gun, gun2, stringsAsFactors = FALSE)
+                geolocation <- str_extract(gun, geolocation_regex)
+                data.frame(geolocation, stringsAsFactors = FALSE)
         })
 
-test <- read_html("http://www.gunviolencearchive.org/incident/476321", package = "xml2") %>%
-        xml_find_all("//div") %>%
-        xml_attrs("block-system-main")
-test
 
-# //*[@id="block-system-main"]/div[7]/text()[1]
-xml_text(test)
+assault <-
+        map_df(incident_pages, function(i) {
+                cat(".")
+                page <- read_html(i, encoding = "utf-8")
+                gun_node <- html_node(page, "#block-system-main")
+                gun <- html_text(gun_node)
+                assault_weapon <- str_extract(gun, assault_weapon_regex)
+                data.frame(assault_weapon, stringsAsFactors = FALSE)
+        })
 
-# geolocation extractor
-gun_type_regex <- DGT %R% DGT %R% DOT %R% DGT %R% DGT %R% DGT %R% DGT %R% ", " %R% optional("-") %R%
-                        DGT %R% DGT %R% DOT %R% DGT %R% DGT %R% DGT %R% DGT
-str_extract(test , gun_type_regex)
-gun_type_regex
-?one_or_more
-#Congressional district extractor
-congressional_district_regex <- "Congressional District: " %R% DGT %R% optional(DGT)
-str_view(test, congressional_district_regex)
-Geolocation: 29.9304, -90.0959
-Congressional District: 2
-Guns Involved
-Type: 223 Rem [AR-15]
-Type: Handgun
-?read_html
+rifle_ar15 <-
+        map_df(incident_pages, function(i) {
+                cat(".")
+                page <- read_html(i, encoding = "utf-8")
+                gun_node <- html_node(page, "#block-system-main")
+                gun <- html_text(gun_node)
+                rifle <- str_extract(gun, rifle_ar15_regex)
+                data.frame(rifle, stringsAsFactors = FALSE)
+        })
 
-?xml_find_all
-# Find all rev nodes anywhere in document
-rev_nodes <- xml_find_all(rev_xml, "//rev")
+handgun <-
+        map_df(incident_pages, function(i) {
+                cat(".")
+                page <- read_html(i, encoding = "utf-8")
+                gun_node <- html_node(page, "#block-system-main")
+                gun <- html_text(gun_node)
+                handgun_general <- str_extract(gun, handgun_regex)
+                data.frame(handgun_general, stringsAsFactors = FALSE)
+        })
 
-# Use xml_text() to get text from rev_nodes
-xml_text(rev_nodes)
+handgun_9mm <-
+        map_df(incident_pages, function(i) {
+                cat(".")
+                page <- read_html(i, encoding = "utf-8")
+                gun_node <- html_node(page, "#block-system-main")
+                gun <- html_text(gun_node)
+                handgun_specific <- str_extract(gun, handgun_9mm_regex)
+                data.frame(handgun_specific, stringsAsFactors = FALSE)
+        })
 
+congressional <-
+        map_df(incident_pages, function(i) {
+                cat(".")
+                page <- read_html(i, encoding = "utf-8")
+                gun_node <- html_node(page, "#block-system-main")
+                gun <- html_text(gun_node)
+                congresional_district <- str_extract(gun, congressional_district_regex)
+                data.frame(congresional_district, stringsAsFactors = FALSE)
+        })
 
+df_add <- bind_cols(df_exlude_vegas, geolocation, congressional, assault, rifle_ar15, handgun, handgun_9mm)
 
-###other stuff
-resp_xml <- rev_history("Hadley Wickham", format = "xml")
+df_vegas$geolocation <- "36.0919,-115.1751"
+df_vegas$congresional_district <- "Congressional District: 1"
+df_vegas$assault_weapon <- "Assault weapon"
+df_vegas$rifle <- "AR-15"
+df_vegas$handgun_general <- "Handgun"
+df_vegas$handgun_specific <- "9mm"
 
-# Check response is XML 
-http_type(resp_xml)
+df_scrape <- bind_rows(df_add, df_vegas)
 
-# Examine returned text with content()
-rev_text <- content(resp_xml, as = "text")
-rev_text
-
-# Turn rev_text into an XML document
-rev_xml <- read_xml(rev_text)
+write_csv(df_add, "df_scrape_excl_vegas.csv")
+write_csv(df_scrape, "df_scrape_incl_vegas.csv")
