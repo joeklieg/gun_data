@@ -1,17 +1,17 @@
 library(tidyverse)
 library(mapdata)
 
-import <- read_csv("df_scrape_incl_vegas.csv")
+import <- read_csv("df_scrape_excl_vegas_v2.csv")
 
 congress_clean <- DGT %R% optional(DGT)
 
-import$congresional_district <- str_extract(test, congress_clean)
-import$assault_rifle <- (!is.na(import$assault_weapon) | !is.na(import$rifle))
+import$congresional_district <- str_extract(df_clean, congress_clean)
+import$assault_rifle <- (!is.na(import$rifle_type))
 import$handgun <- (!is.na(import$handgun_general) | !is.na(import$handgun_specific))
 
 
 df_clean <- import %>%
-        select(date:city, geolocation:congresional_district, assault_rifle:handgun)
+        select(date:city, geolocation:congressional_district, assault_rifle:handgun)
 
 
 df_clean_assault <- subset(df_clean, assault_rifle == TRUE & victims < 500)

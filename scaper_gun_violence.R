@@ -2,15 +2,71 @@
 # pulls data for for mass shooting incidents in 2014-2018
 
 library(tidyverse)
+library(lubridate)
 library(rvest)
 library(rebus)
 
-BASE_URL <- "http://www.gunviolencearchive.org/reports/mass-shooting?year=[enter_year]&page="
+
+BASE_URLS <- paste0("http://www.gunviolencearchive.org/reports/mass-shooting?year=", 2014:2018, "&page=")
 incident_url <- "http://www.gunviolencearchive.org"
-pages <- 0:10 #enter the page ranges served by GVA for that year
+pages <- 0:15 #enter the page ranges served by GVA for that year
+
+df <- data.frame()
+path <- list()
+
+for (year in 2014:2018) {
+     df[year,] <-
+             map_df(pages, function(i) {
+                     cat(".")
+                     path[year,] <- paste0("http://www.gunviolencearchive.org/reports/mass-shooting?year=", year, "&page=", i)
+                     page <- read_html(path[year,], encoding = "utf-8")
+                     incident <- html_nodes(page, "tr:nth-child(n)")
+                     incident_regex <- "/" %R% "incident" %R% "/" %R%
+                             DGT %R% DGT %R% DGT %R% DGT %R% DGT %R% DGT %R% optional(DGT)
+                     incident_extract <- na.omit(str_extract(incident, incident_regex))
+                     incident_extract <- paste0(incident_url, incident_extract)
+                     table <- html_table(page)
+                     
+                     data.frame(table,
+                                incident_extract,
+                                stringsAsFactors=FALSE)
+                     
+             })
+}
+        
+for (j in seq_along(BASE_URLS))
+        BASE_URL[j] <- BASE_URLS[j]
+        
+}
+
+for (j in seq_along(BASE_URLS)) {
+        BASE_URL[j] <- BASE_URLS[j]
+        df <-
+                map_df(pages, function(i) {
+                        cat(".")
+                        path <- paste0(BASE_URL[j], i)
+                        page <- read_html(path, encoding = "utf-8")
+                        incident <- html_nodes(page, "tr:nth-child(n)")
+                        incident_regex <- "/" %R% "incident" %R% "/" %R%
+                                DGT %R% DGT %R% DGT %R% DGT %R% DGT %R% DGT %R% optional(DGT)
+                        incident_extract <- na.omit(str_extract(incident, incident_regex))
+                        incident_extract <- paste0(incident_url, incident_extract)
+                        table <- html_table(page)
+                        
+                        data.frame(table,
+                                   incident_extract,
+                                   stringsAsFactors=FALSE)
+                        
+                })
+}
+
+
+BASE_URL_2013 <- "http://www.gunviolencearchive.org/reports/mass-shootings/2012?page="
+
+
 
 df <-
-        map_df(pages, function(i) {
+        map2_df(pages, BASE_URLS, function(i) {
         cat(".")
         path <- paste0(BASE_URL, i)
         page <- read_html(path, encoding = "utf-8")
@@ -27,27 +83,35 @@ df <-
 
   })
 
+
 names(df) <- c("date", "state", "city", "address", "killed", "injured", "details", "incident")
 df <- select(df, date, state, city, address, killed, injured, incident)
+df$date <- mdy(df$date)
 
 # manual files from interactive session
-write_csv(df, "mass_shootings_[enter_year].csv")
+write_csv(df, "mass_shootings_2013.csv")
 
 # regex extractors
 geolocation_regex <- DGT %R% DGT %R% DOT %R% DGT %R% DGT %R% optional(DGT) %R% optional(DGT) %R% ", " %R% optional("-") %R%
         DGT %R% DGT %R% optional(DGT) %R% DOT %R% DGT %R% optional(DGT) %R% optional(DGT) %R% optional(DGT)
 congressional_district_regex <- "Congressional District: " %R% DGT %R% optional(DGT)
 assault_weapon_regex <- "Assault weapon"
-rifle_ar15_regex <- "AR-15"
+rifle_type_regex <- or("AR-15", "AK-47")
+other_rifle_regex <- or("22 LR", "300 Win", "30-30 Win", "30-06 Spr", "308 Win")
+shotgun_regex <- or("12 gauge", "16 gauge", "20 gauge", "28 gauge", "410 gauge")
 handgun_regex <- or("H", "h") %R% "andgun"
-handgun_9mm_regex <- "9mm"
+handgun_type_regex <- or(DGT %R% DGT %R% optional(DGT) %R% SPACE %R% "Auto",
+                         DGT %R% DGT %R% SPACE %R% "SW",
+                         DGT %R% DGT %R% SPACE %R% "LR",
+                         DGT %R% DGT %R% SPACE %R% "Mag",
+                         DGT %R% DGT %R% SPACE %R% "Spl",
+                         DGT %R% optional(DGT) %R% "mm")
 
 # necessary to exlude las vegas because indident report is pdf not html
 # also necessary because it is a statistical outlier
-df_exlude_vegas <- subset(df, victims < 500)
-df_vegas <- subset(df, victims >= 500)
 
-incident_pages <- df_exlude_vegas$incident
+
+incident_pages <- df$incident
 
 geolocation <-
         map_df(incident_pages, function(i) {
