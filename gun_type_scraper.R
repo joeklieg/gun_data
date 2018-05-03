@@ -3,19 +3,27 @@ library(rvest)
 library(xml2)
 library(rebus)
 
+import <- read_csv("df_scrape_excl_vegas.csv")
 # extractors
 geolocation_regex <- DGT %R% DGT %R% DOT %R% DGT %R% DGT %R% optional(DGT) %R% optional(DGT) %R% ", " %R% optional("-") %R%
         DGT %R% DGT %R% optional(DGT) %R% DOT %R% DGT %R% optional(DGT) %R% optional(DGT) %R% optional(DGT)
 congressional_district_regex <- "Congressional District: " %R% DGT %R% optional(DGT)
 assault_weapon_regex <- "Assault weapon"
-rifle_ar15_regex <- "AR-15"
+rifle_type_regex <- or("AR-15", "AK-47")
+other_rifle_regex <- or("22 LR", "300 Win", "30-30 Win", "30-06 Spr", "308 Win")
+shotgun_regex <- or("12 gauge", "16 gauge", "20 gauge", "28 gauge", "410 gauge")
 handgun_regex <- or("H", "h") %R% "andgun"
-handgun_9mm_regex <- "9mm"
+handgun_type_regex <- or(DGT %R% DGT %R% optional(DGT) %R% SPACE %R% "Auto",
+                         DGT %R% DGT %R% SPACE %R% "SW",
+                         DGT %R% DGT %R% SPACE %R% "LR",
+                         DGT %R% DGT %R% SPACE %R% "Mag",
+                         DGT %R% DGT %R% SPACE %R% "Spl",
+                         DGT %R% optional(DGT) %R% "mm")
 
+# gun types: AR-15, AK-47, 25 Auto, 40 SW, 9mm, 45 SW,
 #necessary to exlude las vegas because indident report is pdf not html
-df_exlude_vegas <- subset(df, victims < 500)
-df_vegas <- subset(df, victims >= 500)
-incident_pages <- df_exlude_vegas$incident
+
+incident_pages <- df$incident
 
 geolocation <-
         map_df(incident_pages, function(i) {
@@ -27,27 +35,35 @@ geolocation <-
                 data.frame(geolocation, stringsAsFactors = FALSE)
         })
 
-
-assault <-
+rifle_type <-
         map_df(incident_pages, function(i) {
                 cat(".")
                 page <- read_html(i, encoding = "utf-8")
                 gun_node <- html_node(page, "#block-system-main")
                 gun <- html_text(gun_node)
-                assault_weapon <- str_extract(gun, assault_weapon_regex)
-                data.frame(assault_weapon, stringsAsFactors = FALSE)
+                rifle_type <- str_extract(gun, rifle_type_regex)
+                data.frame(rifle_type, stringsAsFactors = FALSE)
         })
 
-rifle_ar15 <-
+other_rifle_type <-
         map_df(incident_pages, function(i) {
                 cat(".")
                 page <- read_html(i, encoding = "utf-8")
                 gun_node <- html_node(page, "#block-system-main")
                 gun <- html_text(gun_node)
-                rifle <- str_extract(gun, rifle_ar15_regex)
-                data.frame(rifle, stringsAsFactors = FALSE)
+                other_rifle_type <- str_extract(gun, other_rifle_regex)
+                data.frame(other_rifle_type, stringsAsFactors = FALSE)
         })
 
+shotgun_type <-
+        map_df(incident_pages, function(i) {
+                cat(".")
+                page <- read_html(i, encoding = "utf-8")
+                gun_node <- html_node(page, "#block-system-main")
+                gun <- html_text(gun_node)
+                shotgun_type <- str_extract(gun, shotgun_regex)
+                data.frame(shotgun_type, stringsAsFactors = FALSE)
+        })
 handgun <-
         map_df(incident_pages, function(i) {
                 cat(".")
@@ -58,14 +74,14 @@ handgun <-
                 data.frame(handgun_general, stringsAsFactors = FALSE)
         })
 
-handgun_9mm <-
+handgun_type <-
         map_df(incident_pages, function(i) {
                 cat(".")
                 page <- read_html(i, encoding = "utf-8")
                 gun_node <- html_node(page, "#block-system-main")
                 gun <- html_text(gun_node)
-                handgun_specific <- str_extract(gun, handgun_9mm_regex)
-                data.frame(handgun_specific, stringsAsFactors = FALSE)
+                handgun_type <- str_extract(gun, handgun_type_regex)
+                data.frame(handgun_type, stringsAsFactors = FALSE)
         })
 
 congressional <-
@@ -74,11 +90,13 @@ congressional <-
                 page <- read_html(i, encoding = "utf-8")
                 gun_node <- html_node(page, "#block-system-main")
                 gun <- html_text(gun_node)
-                congresional_district <- str_extract(gun, congressional_district_regex)
-                data.frame(congresional_district, stringsAsFactors = FALSE)
+                congressional_district <- str_extract(gun, congressional_district_regex)
+                data.frame(congressional_district, stringsAsFactors = FALSE)
         })
 
-df_add <- bind_cols(df_exlude_vegas, geolocation, congressional, assault, rifle_ar15, handgun, handgun_9mm)
+df_add <- bind_cols(df, geolocation, congressional, rifle_type, handgun, handgun_type, shotgun_type, other_rifle_type)
+df_scrape <- select(df_add, -c(address, assault_weapon, rifle, shotgun_type, other_rifle_type))
+df_scrape <- select(df_scrape, date:congresional_district, rifle_type, everything())
 
 df_vegas$geolocation <- "36.0919,-115.1751"
 df_vegas$congresional_district <- "Congressional District: 1"
@@ -87,7 +105,11 @@ df_vegas$rifle <- "AR-15"
 df_vegas$handgun_general <- "Handgun"
 df_vegas$handgun_specific <- "9mm"
 
-df_scrape <- bind_rows(df_add, df_vegas)
+df_scrape <- df_scrape %>% rename(congressional_district = congresional_district)
+congress_clean <- DGT %R% optional(DGT)
 
-write_csv(df_add, "df_scrape_excl_vegas.csv")
-write_csv(df_scrape, "df_scrape_incl_vegas.csv")
+df_scrape$congressional_district <- str_extract(df_scrape$congressional_district, congress_clean)
+
+
+write_csv(df_add, "df_scrape_2013.csv")
+write_csv(df_scrape, "df_scrape_excl_vegas_v2.csv")

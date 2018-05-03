@@ -1,0 +1,1109 @@
+date,killed,injured,victims,state,city,incident,geolocation,congressional_district,rifle_type,handgun_general,handgun_specific,handgun_type
+2015-12-31,0,6,6,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/476321,"29.9304, -90.0959",2,NA,NA,NA,NA
+2015-12-27,0,4,4,Tennessee,Jackson,http://www.gunviolencearchive.org/incident/473882,"35.6486, -88.8176",8,NA,NA,NA,NA
+2015-12-26,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/472268,"40.014, -75.1215",13,NA,NA,NA,NA
+2015-12-25,0,4,4,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/471867,"30.3329, -81.6394",5,NA,NA,NA,NA
+2015-12-25,0,4,4,Alabama,Mobile,http://www.gunviolencearchive.org/incident/471860,"30.6714, -88.2254",1,NA,NA,NA,NA
+2015-12-21,0,4,4,California,San Leandro,http://www.gunviolencearchive.org/incident/469468,"37.7096, -122.135",13,NA,Handgun,NA,NA
+2015-12-20,1,4,5,North Carolina,Wilmington,http://www.gunviolencearchive.org/incident/468968,"34.2289, -77.9346",3,NA,NA,NA,NA
+2015-12-20,1,4,5,Florida,Miami (Goulds),http://www.gunviolencearchive.org/incident/468787,"25.5658, -80.3866",26,NA,NA,NA,NA
+2015-12-20,0,4,4,Florida,Miami-dade (county),http://www.gunviolencearchive.org/incident/469614,"25.9278, -80.1862",24,NA,NA,NA,NA
+2015-12-13,1,3,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/464665,"33.9879, -118.282",37,NA,Handgun,NA,NA
+2015-12-13,0,4,4,California,Huntington Beach,http://www.gunviolencearchive.org/incident/464945,"33.7116, -117.991",48,NA,NA,NA,NA
+2015-12-12,0,4,4,Georgia,Savannah,http://www.gunviolencearchive.org/incident/464002,"32.0668, -81.0977",1,NA,NA,NA,NA
+2015-12-12,1,3,4,Illinois,Lovejoy (Brooklyn),http://www.gunviolencearchive.org/incident/465117,"38.657, -90.1685",12,NA,NA,NA,380 Auto
+2015-12-11,1,3,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/463642,"39.3483, -76.6751",7,NA,NA,NA,NA
+2015-12-11,0,4,4,Pennsylvania,Pittsburgh (Mount Oliver),http://www.gunviolencearchive.org/incident/463734,"40.4159, -79.9875",14,NA,NA,NA,NA
+2015-12-08,1,3,4,Ohio,Cincinnati (Fairmount),http://www.gunviolencearchive.org/incident/461476,"39.1497, -84.5615",1,NA,NA,NA,NA
+2015-12-06,1,3,4,Louisiana,Raceland,http://www.gunviolencearchive.org/incident/460049,"29.7193, -90.6093",6,NA,NA,NA,NA
+2015-12-06,2,3,5,Nebraska,Omaha,http://www.gunviolencearchive.org/incident/460386,"41.3138, -96.0814",2,NA,NA,NA,NA
+2015-12-02,16,19,35,California,San Bernardino,http://www.gunviolencearchive.org/incident/456893,"34.0758, -117.277",31,AR-15,NA,9mm,9mm
+2015-12-02,1,3,4,Georgia,Savannah,http://www.gunviolencearchive.org/incident/457037,"32.0607, -81.1",1,NA,NA,NA,NA
+2015-11-29,0,5,5,Illinois,Kankakee,http://www.gunviolencearchive.org/incident/455394,"41.1193, -87.8576",2,NA,NA,NA,NA
+2015-11-27,3,9,12,Colorado,Colorado Springs,http://www.gunviolencearchive.org/incident/454059,"38.8767, -104.847",5,AK-47,NA,NA,NA
+2015-11-27,2,2,4,California,Sacramento,http://www.gunviolencearchive.org/incident/455684,"38.495, -121.41",7,NA,NA,NA,NA
+2015-11-24,0,4,4,South Carolina,Horry (county),http://www.gunviolencearchive.org/incident/454788,"33.8706, -79.1407",7,NA,NA,NA,NA
+2015-11-23,4,1,5,Ohio,Columbus,http://www.gunviolencearchive.org/incident/452007,"39.9533, -83.0662",3,NA,NA,NA,NA
+2015-11-23,0,5,5,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/452120,"44.9861, -93.3045",5,NA,NA,NA,NA
+2015-11-22,0,4,4,Texas,Brownsville,http://www.gunviolencearchive.org/incident/453317,"25.9248, -97.4317",34,NA,NA,NA,NA
+2015-11-22,0,4,4,Washington,Seattle,http://www.gunviolencearchive.org/incident/451338,"47.6141, -122.321",7,NA,NA,NA,NA
+2015-11-22,0,5,5,New York,Newburgh,http://www.gunviolencearchive.org/incident/451305,"41.5004, -74.0187",18,NA,NA,NA,NA
+2015-11-22,1,3,4,South Carolina,North Charleston,http://www.gunviolencearchive.org/incident/452362,"32.8805, -79.9861",6,NA,Handgun,NA,NA
+2015-11-22,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/451349,"41.8666, -87.6902",7,NA,NA,NA,NA
+2015-11-22,0,17,17,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/451495,"29.9748, -90.0372",2,NA,NA,NA,NA
+2015-11-21,1,3,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/451057,"39.3058, -76.6419",7,NA,NA,NA,NA
+2015-11-20,1,3,4,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/450505,"40.4314, -79.9356",14,NA,NA,NA,NA
+2015-11-18,0,5,5,California,Fresno,http://www.gunviolencearchive.org/incident/449814,"36.7214, -119.8",16,NA,NA,NA,NA
+2015-11-16,3,1,4,Alabama,Cherokee (county),http://www.gunviolencearchive.org/incident/448653,"34.2313, -85.6933",3,NA,NA,NA,NA
+2015-11-15,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/448286,"40.0483, -75.1602",2,NA,NA,NA,NA
+2015-11-15,5,0,5,Texas,Tennessee Colony,http://www.gunviolencearchive.org/incident/448419,NA,NA,NA,NA,NA,NA
+2015-11-14,0,4,4,Pennsylvania,Johnstown,http://www.gunviolencearchive.org/incident/447462,"40.3432, -78.8837",12,NA,NA,NA,NA
+2015-11-13,4,1,5,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/446996,"30.4653, -81.6075",4,NA,NA,NA,NA
+2015-11-09,2,2,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/444458,"39.7729, -86.123",7,NA,NA,NA,NA
+2015-11-08,1,3,4,Iowa,Des Moines,http://www.gunviolencearchive.org/incident/443821,"41.6398, -93.625",3,NA,NA,NA,NA
+2015-11-08,0,4,4,Michigan,Warren,http://www.gunviolencearchive.org/incident/444168,"42.4494, -82.9825",9,NA,NA,NA,NA
+2015-11-07,1,3,4,Colorado,Denver,http://www.gunviolencearchive.org/incident/443652,"39.7148, -104.99",1,NA,NA,NA,NA
+2015-11-06,0,4,4,California,Bakersfield,http://www.gunviolencearchive.org/incident/444406,"35.3506, -118.99",21,NA,NA,NA,NA
+2015-11-03,2,3,5,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/441681,"30.3475, -81.6927",5,NA,NA,NA,NA
+2015-11-02,4,0,4,South Carolina,Pendleton,http://www.gunviolencearchive.org/incident/440743,"34.6474, -82.748",3,NA,NA,NA,NA
+2015-10-28,1,3,4,Louisiana,Houma,http://www.gunviolencearchive.org/incident/438651,"29.595, -90.7305",1,NA,NA,NA,NA
+2015-10-27,0,5,5,Texas,Fort Worth,http://www.gunviolencearchive.org/incident/437836,"32.6706, -97.3452",33,NA,NA,NA,NA
+2015-10-26,0,5,5,Indiana,Evansville,http://www.gunviolencearchive.org/incident/437323,"37.9819, -87.5537",8,NA,NA,NA,NA
+2015-10-25,0,5,5,North Carolina,Four Oaks,http://www.gunviolencearchive.org/incident/436202,"35.3651, -78.3554",7,NA,NA,NA,NA
+2015-10-25,1,4,5,Arizona,Phoenix,http://www.gunviolencearchive.org/incident/436234,"33.4067, -112.065",7,NA,NA,NA,NA
+2015-10-25,0,5,5,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/436240,"38.8327, -76.988",1,NA,NA,NA,NA
+2015-10-24,0,4,4,South Carolina,Bamberg,http://www.gunviolencearchive.org/incident/436219,"33.3011, -81.0339",6,NA,NA,NA,NA
+2015-10-22,1,3,4,Tennessee,Nashville,http://www.gunviolencearchive.org/incident/435144,"36.167, -86.8286",5,NA,Handgun,NA,NA
+2015-10-19,0,6,6,Illinois,Calumet City,http://www.gunviolencearchive.org/incident/433146,"41.6294, -87.5509",2,NA,NA,NA,NA
+2015-10-18,0,4,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/432711,"29.9772, -90.0112",2,NA,NA,NA,NA
+2015-10-17,0,4,4,Indiana,Elkhart,http://www.gunviolencearchive.org/incident/432072,"41.6901, -85.9667",2,NA,NA,NA,NA
+2015-10-17,1,4,5,Florida,Fort Myers,http://www.gunviolencearchive.org/incident/432466,"26.6439, -81.8705",19,NA,NA,NA,NA
+2015-10-12,0,4,4,Georgia,Decatur,http://www.gunviolencearchive.org/incident/429410,"33.7369, -84.2243",4,NA,NA,NA,NA
+2015-10-10,0,6,6,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/428215,"35.0697, -89.8568",9,NA,NA,NA,NA
+2015-10-10,0,4,4,North Carolina,Charlotte,http://www.gunviolencearchive.org/incident/428247,"35.2143, -80.8897",12,NA,NA,NA,NA
+2015-10-10,1,3,4,Illinois,Peoria,http://www.gunviolencearchive.org/incident/429614,"40.7171, -89.6011",17,NA,NA,NA,NA
+2015-10-09,1,3,4,Arizona,Flagstaff,http://www.gunviolencearchive.org/incident/427621,"35.1893, -111.649",1,NA,Handgun,NA,NA
+2015-10-06,0,5,5,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/426256,"39.2919, -76.6489",7,NA,NA,NA,NA
+2015-10-02,1,4,5,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/424224,"39.3463, -76.6884",7,NA,NA,NA,NA
+2015-10-01,10,9,19,Oregon,Roseburg,http://www.gunviolencearchive.org/incident/423223,"43.2628, -123.28",4,AR-15,Handgun,NA,NA
+2015-09-28,0,5,5,Ohio,Cincinnati (Evanston),http://www.gunviolencearchive.org/incident/421650,"39.1374, -84.472",1,NA,NA,NA,NA
+2015-09-28,3,2,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/422064,"41.8184, -87.6338",7,NA,NA,NA,NA
+2015-09-28,2,3,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/422035,"41.7977, -87.6529",7,NA,NA,NA,NA
+2015-09-28,0,4,4,Ohio,Dayton,http://www.gunviolencearchive.org/incident/422020,"39.7583, -84.2354",10,NA,NA,NA,NA
+2015-09-27,0,10,10,Georgia,Greenville,http://www.gunviolencearchive.org/incident/421014,"33.0312, -84.7298",3,NA,Handgun,NA,NA
+2015-09-27,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/421358,"41.7994, -87.6638",7,NA,NA,NA,NA
+2015-09-27,0,4,4,Missouri,Kansas City,http://www.gunviolencearchive.org/incident/420855,"39.0913, -94.562",5,NA,NA,NA,NA
+2015-09-25,0,4,4,Illinois,Danville,http://www.gunviolencearchive.org/incident/426559,"40.1402, -87.6022",15,NA,NA,NA,NA
+2015-09-24,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/419718,"41.8015, -87.6502",7,NA,NA,NA,NA
+2015-09-23,0,5,5,Louisiana,Shreveport,http://www.gunviolencearchive.org/incident/419250,"32.5491, -93.8241",4,NA,NA,NA,NA
+2015-09-23,0,4,4,Florida,Fort Myers,http://www.gunviolencearchive.org/incident/418964,"26.6471, -81.8401",19,NA,NA,NA,NA
+2015-09-23,1,3,4,Georgia,Norcross,http://www.gunviolencearchive.org/incident/419826,"33.9105, -84.1744",7,NA,NA,NA,NA
+2015-09-20,1,3,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/417284,"40.0307, -75.093",13,NA,NA,NA,NA
+2015-09-20,1,5,6,Illinois,Chicago,http://www.gunviolencearchive.org/incident/416872,"41.7909, -87.6292",7,NA,NA,NA,NA
+2015-09-20,0,6,6,Oklahoma,Tulsa,http://www.gunviolencearchive.org/incident/417013,"36.1771, -95.9225",1,NA,NA,NA,NA
+2015-09-19,1,3,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/416812,"39.8264, -86.1628",7,NA,NA,NA,NA
+2015-09-17,6,0,6,South Dakota,Geddes,http://www.gunviolencearchive.org/incident/418318,"43.3153, -98.6045",1,NA,NA,NA,NA
+2015-09-17,0,4,4,Michigan,Albion,http://www.gunviolencearchive.org/incident/415687,"42.2569, -84.7601",3,NA,NA,9mm,45 Auto
+2015-09-15,0,4,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/414580,"40.7321, -74.1893",10,NA,NA,NA,NA
+2015-09-13,1,5,6,Florida,Ocala,http://www.gunviolencearchive.org/incident/413001,"29.1685, -82.1384",11,NA,NA,NA,NA
+2015-09-12,0,4,4,Louisiana,Shreveport,http://www.gunviolencearchive.org/incident/412996,"32.458, -93.7609",4,NA,NA,NA,NA
+2015-09-12,2,4,6,New York,Rochester,http://www.gunviolencearchive.org/incident/412487,"43.1643, -77.5993",25,NA,NA,NA,NA
+2015-09-12,0,6,6,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/412529,"44.9804, -93.2738",5,NA,NA,NA,NA
+2015-09-12,1,3,4,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/412539,"45.0015, -93.2957",5,NA,NA,NA,NA
+2015-09-11,0,5,5,North Carolina,Charlotte,http://www.gunviolencearchive.org/incident/412557,"35.2392, -80.8457",12,NA,NA,NA,NA
+2015-09-10,5,0,5,Minnesota,Excelsior (Greenwood),http://www.gunviolencearchive.org/incident/412040,"47.6919, -95.4311",7,NA,NA,NA,NA
+2015-09-08,0,4,4,Georgia,Berlin,http://www.gunviolencearchive.org/incident/411888,"31.0691, -83.6237",8,NA,NA,NA,22 LR
+2015-09-08,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/409856,"41.7925, -87.6463",7,NA,NA,NA,NA
+2015-09-07,2,4,6,Indiana,Gary,http://www.gunviolencearchive.org/incident/409732,"41.5971, -87.2256",1,NA,NA,NA,NA
+2015-09-07,0,4,4,Colorado,Denver,http://www.gunviolencearchive.org/incident/409601,"39.7538, -104.995",1,NA,NA,NA,NA
+2015-09-05,1,3,4,North Carolina,Charlotte,http://www.gunviolencearchive.org/incident/408449,"35.1607, -80.9106",12,NA,NA,NA,NA
+2015-09-05,0,4,4,Florida,Daytona Beach,http://www.gunviolencearchive.org/incident/408276,"29.2131, -81.0295",6,NA,NA,NA,NA
+2015-09-05,1,3,4,Nevada,Las Vegas,http://www.gunviolencearchive.org/incident/409101,"36.0924, -115.029",3,NA,NA,NA,NA
+2015-09-05,0,4,4,Missouri,Columbia,http://www.gunviolencearchive.org/incident/408256,"38.9673, -92.3187",4,NA,NA,NA,NA
+2015-08-30,1,4,5,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/404167,"35.1495, -90.049",9,NA,NA,NA,NA
+2015-08-29,3,2,5,Tennessee,Bristol,http://www.gunviolencearchive.org/incident/404238,"36.5738, -82.0968",1,AR-15,NA,NA,NA
+2015-08-29,1,3,4,Texas,Tyler,http://www.gunviolencearchive.org/incident/405133,"32.3899, -95.2897",1,AR-15,NA,NA,NA
+2015-08-28,1,3,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/403069,"40.6591, -73.9602",9,NA,NA,NA,NA
+2015-08-27,2,2,4,California,Salinas,http://www.gunviolencearchive.org/incident/403669,"36.6551, -121.658",20,NA,NA,NA,NA
+2015-08-26,2,2,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/402113,"41.8757, -87.702",7,NA,NA,NA,NA
+2015-08-26,0,4,4,Minnesota,Minneapolis (Brooklyn Center),http://www.gunviolencearchive.org/incident/401884,"45.0459, -93.3271",5,NA,NA,NA,NA
+2015-08-26,2,2,4,Florida,West Palm Beach,http://www.gunviolencearchive.org/incident/402051,"26.7318, -80.0595",20,NA,NA,NA,NA
+2015-08-25,1,3,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/402108,"29.9618, -90.1112",2,NA,NA,NA,NA
+2015-08-23,1,7,8,California,Modesto,http://www.gunviolencearchive.org/incident/400091,"37.6454, -121.023",10,NA,NA,NA,NA
+2015-08-22,0,4,4,Florida,Orlando (Pine Hills),http://www.gunviolencearchive.org/incident/399883,"28.5382, -81.3481",10,NA,NA,NA,NA
+2015-08-22,3,1,4,New Mexico,Roswell,http://www.gunviolencearchive.org/incident/399564,"33.3814, -104.518",2,NA,NA,NA,NA
+2015-08-21,0,8,8,North Carolina,Durham,http://www.gunviolencearchive.org/incident/399212,"36.0297, -78.8777",1,NA,NA,NA,NA
+2015-08-21,2,5,7,Ohio,Cincinnati,http://www.gunviolencearchive.org/incident/399367,"39.1595, -84.3908",2,NA,NA,NA,NA
+2015-08-20,2,2,4,Texas,Grulla (La Grulla),http://www.gunviolencearchive.org/incident/398975,"26.2787, -98.6457",28,NA,NA,NA,NA
+2015-08-19,3,4,7,New York,Rochester,http://www.gunviolencearchive.org/incident/398361,"43.1402, -77.6359",25,AK-47,NA,NA,22 LR
+2015-08-16,0,6,6,Texas,Fort Worth,http://www.gunviolencearchive.org/incident/395844,"32.6336, -97.3723",6,NA,NA,NA,NA
+2015-08-16,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/395757,"41.9025, -87.7612",7,NA,NA,NA,NA
+2015-08-16,0,5,5,South Carolina,Bennettsville,http://www.gunviolencearchive.org/incident/395718,"34.6583, -79.6927",7,NA,NA,NA,NA
+2015-08-15,1,3,4,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/395837,"40.4475, -80.0743",14,NA,NA,NA,NA
+2015-08-15,0,4,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/395694,"33.991, -118.3",37,NA,NA,NA,NA
+2015-08-15,1,3,4,South Carolina,Orangeburg,http://www.gunviolencearchive.org/incident/395549,"33.4788, -80.9084",6,NA,NA,NA,NA
+2015-08-10,0,4,4,California,Long Beach,http://www.gunviolencearchive.org/incident/392131,"33.779, -118.171",47,NA,NA,NA,NA
+2015-08-09,1,3,4,Mississippi,Forest,http://www.gunviolencearchive.org/incident/391263,"32.3708, -89.4567",3,NA,NA,NA,NA
+2015-08-09,1,3,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/391219,"42.4248, -82.965",14,NA,NA,NA,NA
+2015-08-09,0,4,4,Missouri,Kansas City,http://www.gunviolencearchive.org/incident/391014,"39.0551, -94.5931",5,NA,NA,NA,NA
+2015-08-08,2,3,5,North Carolina,Gastonia,http://www.gunviolencearchive.org/incident/390914,"35.1922, -81.2406",10,NA,Handgun,NA,NA
+2015-08-08,1,11,12,Arkansas,Blytheville,http://www.gunviolencearchive.org/incident/390774,"35.9194, -89.8967",1,NA,NA,NA,NA
+2015-08-08,8,0,8,Texas,Houston,http://www.gunviolencearchive.org/incident/390526,"29.9199, -95.452",18,NA,NA,NA,NA
+2015-08-07,4,0,4,Vermont,Barre (Berlin),http://www.gunviolencearchive.org/incident/390050,"44.1984, -72.5351",NA,NA,NA,NA,NA
+2015-08-06,0,4,4,South Carolina,Columbia,http://www.gunviolencearchive.org/incident/389057,"34.0124, -81.0111",6,NA,NA,NA,NA
+2015-08-04,1,4,5,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/389149,"38.672, -90.2691",1,NA,NA,NA,NA
+2015-08-03,0,5,5,New York,Brooklyn,http://www.gunviolencearchive.org/incident/387194,"40.6756, -74.0096",7,NA,NA,NA,40 SW
+2015-08-02,0,9,9,New York,Brooklyn,http://www.gunviolencearchive.org/incident/385779,"40.6655, -73.8675",8,NA,NA,NA,NA
+2015-08-02,0,7,7,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/386140,"39.3501, -76.6638",7,NA,NA,NA,NA
+2015-08-02,1,4,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/385824,"41.9051, -87.7461",7,NA,NA,NA,NA
+2015-08-02,0,5,5,Georgia,Savannah,http://www.gunviolencearchive.org/incident/386066,"32.0631, -81.1004",1,NA,NA,NA,NA
+2015-08-02,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/401742,"41.7721, -87.6725",7,NA,NA,NA,NA
+2015-08-01,0,4,4,Florida,Orlando,http://www.gunviolencearchive.org/incident/386937,"28.5324, -81.3079",9,NA,NA,NA,NA
+2015-07-30,0,4,4,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/384662,"40.4583, -79.8886",14,NA,NA,NA,NA
+2015-07-27,0,5,5,Illinois,Rockford,http://www.gunviolencearchive.org/incident/382459,"42.2637, -89.109",17,NA,NA,NA,NA
+2015-07-26,2,3,5,Missouri,Kansas City,http://www.gunviolencearchive.org/incident/381814,"39.1071, -94.5202",5,NA,NA,NA,NA
+2015-07-26,0,4,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/382170,"29.9887, -90.035",2,AR-15,NA,NA,NA
+2015-07-25,0,4,4,Virginia,Hopewell,http://www.gunviolencearchive.org/incident/381433,"37.3058, -77.2941",4,NA,NA,NA,NA
+2015-07-24,2,5,7,Pennsylvania,Erie,http://www.gunviolencearchive.org/incident/382413,"42.108, -80.0763",NA,NA,NA,NA,NA
+2015-07-23,3,9,12,Louisiana,Lafayette,http://www.gunviolencearchive.org/incident/380162,"30.202, -92.0459",3,NA,NA,NA,40 SW
+2015-07-22,5,0,5,Georgia,Suwanee,http://www.gunviolencearchive.org/incident/379166,"34.0802, -84.1272",7,NA,NA,NA,NA
+2015-07-21,1,3,4,Florida,Miami Gardens,http://www.gunviolencearchive.org/incident/378452,"25.9411, -80.2434",24,NA,NA,NA,NA
+2015-07-20,0,6,6,New York,Bronx,http://www.gunviolencearchive.org/incident/377878,"40.8211, -73.9257",15,NA,Handgun,NA,NA
+2015-07-19,0,4,4,Virginia,Suffolk,http://www.gunviolencearchive.org/incident/377189,"36.7257, -76.5677",4,NA,NA,NA,NA
+2015-07-19,0,6,6,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/377047,"38.2436, -85.8024",3,NA,NA,NA,NA
+2015-07-19,0,4,4,North Carolina,Rocky Mount,http://www.gunviolencearchive.org/incident/377181,"35.9457, -77.7581",1,NA,NA,NA,NA
+2015-07-18,0,4,4,California,San Diego,http://www.gunviolencearchive.org/incident/378102,"32.7043, -117.124",51,NA,NA,NA,NA
+2015-07-18,0,5,5,California,Santa Paula,http://www.gunviolencearchive.org/incident/390936,"34.4009, -119.08",26,NA,NA,NA,NA
+2015-07-18,1,4,5,Oregon,Salem,http://www.gunviolencearchive.org/incident/376702,"44.9489, -122.991",5,NA,NA,NA,NA
+2015-07-18,2,2,4,Louisiana,Baton Rouge,http://www.gunviolencearchive.org/incident/377423,"30.4457, -91.171",2,NA,NA,NA,NA
+2015-07-17,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/376211,"41.8848, -87.7359",7,NA,NA,NA,NA
+2015-07-17,0,4,4,Ohio,Cincinnati (Westwood),http://www.gunviolencearchive.org/incident/376203,"39.1436, -84.5789",1,NA,NA,NA,NA
+2015-07-16,6,2,8,Tennessee,Chattanooga,http://www.gunviolencearchive.org/incident/375022,"35.0905, -85.2591",3,AR-15,handgun,9mm,9mm
+2015-07-16,0,5,5,Texas,Dallas,http://www.gunviolencearchive.org/incident/375773,"32.7788, -96.8565",33,NA,NA,9mm,9mm
+2015-07-15,0,5,5,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/374602,"33.7689, -84.4638",5,NA,Handgun,NA,NA
+2015-07-15,1,3,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/375322,"39.3285, -76.6824",7,NA,NA,NA,NA
+2015-07-15,0,7,7,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/375412,"41.5376, -81.6019",11,NA,NA,NA,NA
+2015-07-15,0,4,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/374965,"42.362, -83.2117",13,NA,NA,NA,NA
+2015-07-15,4,1,5,South Carolina,Holly Hill,http://www.gunviolencearchive.org/incident/374630,"33.3467, -80.45",6,NA,NA,NA,NA
+2015-07-14,0,4,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/374292,"38.7227, -90.2361",1,NA,NA,NA,NA
+2015-07-13,0,4,4,California,Norwalk,http://www.gunviolencearchive.org/incident/373993,"33.8844, -118.078",38,NA,NA,NA,NA
+2015-07-13,1,4,5,California,Stockton,http://www.gunviolencearchive.org/incident/373768,"37.9709, -121.291",9,NA,NA,NA,NA
+2015-07-12,2,3,5,Illinois,River Forest,http://www.gunviolencearchive.org/incident/373095,"41.8819, -87.815",7,NA,NA,NA,NA
+2015-07-12,0,4,4,New Jersey,Jersey City,http://www.gunviolencearchive.org/incident/373063,"40.732, -74.0707",10,NA,NA,NA,NA
+2015-07-07,1,3,4,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/370187,"41.4411, -81.5684",11,NA,NA,NA,NA
+2015-07-07,3,1,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/370474,"39.2901, -76.6324",7,NA,NA,NA,NA
+2015-07-05,0,8,8,Louisiana,Shreveport,http://www.gunviolencearchive.org/incident/369014,"32.4801, -93.7804",4,NA,NA,NA,NA
+2015-07-05,0,9,9,Indiana,Fort Wayne,http://www.gunviolencearchive.org/incident/368732,"41.0793, -85.1394",3,NA,NA,NA,NA
+2015-07-05,1,3,4,New Jersey,East Orange,http://www.gunviolencearchive.org/incident/369196,"40.7586, -74.2205",10,NA,NA,NA,NA
+2015-07-04,1,3,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/368867,"38.8519, -76.9775",1,NA,NA,NA,NA
+2015-07-04,0,4,4,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/369410,"38.249, -85.7937",3,NA,NA,NA,NA
+2015-07-04,1,4,5,Massachusetts,Pittsfield,http://www.gunviolencearchive.org/incident/368987,"42.4542, -73.2604",1,NA,NA,NA,NA
+2015-07-04,0,4,4,New York,Syracuse,http://www.gunviolencearchive.org/incident/368995,"43.0334, -76.1612",24,NA,NA,NA,NA
+2015-07-04,0,4,4,Texas,San Antonio,http://www.gunviolencearchive.org/incident/369127,"29.472, -98.526",20,NA,NA,NA,NA
+2015-07-02,1,3,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/367780,NA,NA,NA,NA,NA,NA
+2015-06-29,0,4,4,Florida,Opa Locka,http://www.gunviolencearchive.org/incident/366046,"25.8967, -80.2477",24,NA,NA,NA,NA
+2015-06-28,0,5,5,Michigan,Detroit,http://www.gunviolencearchive.org/incident/365391,"42.416, -82.9902",14,NA,NA,NA,NA
+2015-06-28,0,6,6,Illinois,Venice,http://www.gunviolencearchive.org/incident/367099,"38.6723, -90.1698",12,NA,Handgun,NA,NA
+2015-06-28,0,6,6,Delaware,Harrington,http://www.gunviolencearchive.org/incident/365399,"38.921, -75.5748",0,NA,NA,NA,NA
+2015-06-27,1,3,4,Massachusetts,Taunton,http://www.gunviolencearchive.org/incident/364872,"41.8948, -71.091",4,NA,NA,NA,NA
+2015-06-27,0,4,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/364789,"42.3914, -82.9728",13,NA,NA,NA,NA
+2015-06-24,0,4,4,New York,New York (Manhattan),http://www.gunviolencearchive.org/incident/363418,"40.8107, -73.9373",13,NA,NA,NA,NA
+2015-06-22,0,7,7,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/361948,"39.9974, -75.1172",1,NA,NA,NA,NA
+2015-06-21,0,4,4,Pennsylvania,Pittsburgh (Wilkinsburg),http://www.gunviolencearchive.org/incident/366949,"40.4382, -79.8796",14,NA,NA,NA,NA
+2015-06-21,1,4,5,Kentucky,Lexington,http://www.gunviolencearchive.org/incident/361708,"38.0686, -84.5023",6,NA,NA,NA,NA
+2015-06-20,1,11,12,Michigan,Detroit,http://www.gunviolencearchive.org/incident/361212,"42.3797, -83.1241",13,NA,NA,NA,NA
+2015-06-20,0,4,4,North Carolina,Morven,http://www.gunviolencearchive.org/incident/360895,"34.864, -80.0012",8,NA,NA,NA,NA
+2015-06-20,0,11,11,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/361198,"39.9692, -75.2059",2,NA,Handgun,NA,NA
+2015-06-19,0,4,4,Rhode Island,Woonsocket,http://www.gunviolencearchive.org/incident/361014,"42.0004, -71.5177",1,NA,NA,NA,22 LR
+2015-06-17,9,0,9,South Carolina,Charleston,http://www.gunviolencearchive.org/incident/359830,"32.7876, -79.9332",1,NA,NA,NA,45 Auto
+2015-06-16,0,4,4,Florida,Miami Gardens,http://www.gunviolencearchive.org/incident/359215,"25.9367, -80.2109",24,NA,NA,NA,NA
+2015-06-15,0,4,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/358117,"40.6568, -73.9598",9,NA,NA,NA,NA
+2015-06-14,1,3,4,New Jersey,Camden,http://www.gunviolencearchive.org/incident/357597,"39.9499, -75.0874",1,NA,NA,NA,NA
+2015-06-14,0,4,4,Oklahoma,Tulsa,http://www.gunviolencearchive.org/incident/357667,"36.1809, -95.9096",1,NA,NA,NA,NA
+2015-06-14,0,4,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/357611,"38.648, -90.1962",1,NA,NA,NA,NA
+2015-06-13,1,4,5,Georgia,Fayetteville,http://www.gunviolencearchive.org/incident/357732,"33.5328, -84.4548",13,NA,NA,NA,NA
+2015-06-13,1,3,4,Georgia,Milledgeville,http://www.gunviolencearchive.org/incident/357770,"33.0838, -83.2449",10,NA,NA,NA,NA
+2015-06-13,0,5,5,New York,Bronx,http://www.gunviolencearchive.org/incident/357701,"40.8607, -73.8996",15,NA,NA,NA,40 SW
+2015-06-13,0,4,4,Oklahoma,Oklahoma City,http://www.gunviolencearchive.org/incident/357590,"35.3951, -97.5033",5,NA,NA,NA,NA
+2015-06-13,4,1,5,Ohio,Columbus,http://www.gunviolencearchive.org/incident/357164,"40.0134, -82.9664",3,NA,NA,NA,NA
+2015-06-12,0,4,4,Florida,Allapattah,http://www.gunviolencearchive.org/incident/357220,"25.8092, -80.2361",24,NA,NA,NA,NA
+2015-06-11,1,8,9,Connecticut,Bridgeport,http://www.gunviolencearchive.org/incident/356065,"41.2212, -73.1964",4,NA,NA,NA,NA
+2015-06-11,1,3,4,Texas,Houston,http://www.gunviolencearchive.org/incident/355883,"29.7282, -95.3578",18,NA,NA,NA,NA
+2015-06-10,1,3,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/355644,"33.9579, -118.292",43,NA,NA,NA,NA
+2015-06-09,1,3,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/355267,"38.652, -90.2256",1,NA,NA,NA,NA
+2015-06-07,5,0,5,Montana,Deer Lodge,http://www.gunviolencearchive.org/incident/353854,"46.3991, -112.738",1,NA,NA,NA,45 Auto
+2015-06-06,1,4,5,New York,Buffalo,http://www.gunviolencearchive.org/incident/353536,"42.8361, -78.7502",26,NA,NA,NA,NA
+2015-06-06,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/353037,"41.8823, -87.7588",7,NA,NA,NA,NA
+2015-06-05,0,5,5,Iowa,Davenport,http://www.gunviolencearchive.org/incident/353382,"41.5224, -90.5859",2,NA,NA,NA,NA
+2015-06-05,1,3,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/352779,"29.9653, -90.0658",2,NA,NA,NA,NA
+2015-06-03,3,1,4,New York,Wyandanch,http://www.gunviolencearchive.org/incident/351936,"40.7403, -73.3626",2,NA,NA,NA,NA
+2015-05-31,3,1,4,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/350163,"41.4366, -81.8117",9,NA,Handgun,NA,NA
+2015-05-31,1,3,4,Maryland,Springdale,http://www.gunviolencearchive.org/incident/350021,"38.9376, -76.8467",4,NA,NA,NA,NA
+2015-05-31,0,5,5,Connecticut,New Haven,http://www.gunviolencearchive.org/incident/349976,"41.306, -72.9251",3,NA,handgun,NA,NA
+2015-05-31,3,2,5,Georgia,Conyers,http://www.gunviolencearchive.org/incident/350182,"33.5642, -84.0155",4,AR-15,handgun,NA,"15
+Mag"
+2015-05-30,0,4,4,California,San Diego,http://www.gunviolencearchive.org/incident/349289,"32.7115, -117.105",51,NA,NA,NA,NA
+2015-05-28,0,4,4,Nebraska,Omaha,http://www.gunviolencearchive.org/incident/348606,"41.2053, -96.0441",2,NA,NA,NA,NA
+2015-05-28,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/348620,"41.7812, -87.6703",7,NA,NA,NA,NA
+2015-05-28,1,3,4,Pennsylvania,Chester,http://www.gunviolencearchive.org/incident/348673,"39.8325, -75.3902",1,NA,NA,NA,NA
+2015-05-26,2,2,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/346725,"30.0289, -89.9846",2,NA,NA,NA,NA
+2015-05-25,1,4,5,Illinois,Decatur,http://www.gunviolencearchive.org/incident/346097,"39.8608, -88.9546",13,NA,NA,NA,NA
+2015-05-24,0,5,5,Massachusetts,Brockton,http://www.gunviolencearchive.org/incident/345681,"42.0656, -71.016",8,NA,NA,NA,NA
+2015-05-24,0,7,7,Michigan,Flint,http://www.gunviolencearchive.org/incident/345749,"42.9944, -83.7044",5,NA,NA,NA,NA
+2015-05-24,1,3,4,Alabama,Montgomery,http://www.gunviolencearchive.org/incident/346320,"32.3344, -86.3523",7,NA,NA,NA,NA
+2015-05-24,0,4,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/346179,"38.6419, -90.2144",1,NA,NA,NA,NA
+2015-05-23,2,2,4,California,Fresno,http://www.gunviolencearchive.org/incident/346202,"36.7142, -119.759",16,NA,NA,NA,NA
+2015-05-20,1,3,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/344302,"39.3753, -76.5414",3,NA,NA,NA,NA
+2015-05-18,0,4,4,Missouri,Kinloch,http://www.gunviolencearchive.org/incident/343106,"38.7449, -90.3191",1,NA,NA,NA,NA
+2015-05-18,1,4,5,Florida,Miami,http://www.gunviolencearchive.org/incident/342589,"25.8429, -80.2243",24,NA,NA,NA,NA
+2015-05-17,9,18,27,Texas,Waco,http://www.gunviolencearchive.org/incident/341622,"31.5039, -97.129",17,NA,NA,NA,NA
+2015-05-16,0,5,5,Wisconsin,Milwaukee,http://www.gunviolencearchive.org/incident/341465,"43.077, -87.9485",4,NA,NA,9mm,9mm
+2015-05-16,0,4,4,New York,Rochester,http://www.gunviolencearchive.org/incident/341162,"43.1647, -77.5947",25,NA,NA,NA,NA
+2015-05-16,0,5,5,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/341232,"39.3097, -76.5954",7,NA,NA,NA,NA
+2015-05-12,1,4,5,Maryland,Capitol Heights,http://www.gunviolencearchive.org/incident/340280,"38.8706, -76.9262",4,NA,NA,NA,NA
+2015-05-12,5,0,5,Arizona,Tucson,http://www.gunviolencearchive.org/incident/339229,"32.1299, -111.066",3,NA,NA,9mm,9mm
+2015-05-10,1,4,5,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/337855,"41.4544, -81.7649",9,NA,NA,NA,NA
+2015-05-10,0,4,4,New Jersey,Jersey City,http://www.gunviolencearchive.org/incident/338034,"40.7075, -74.0808",10,NA,NA,NA,NA
+2015-05-10,1,3,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/337767,"40.7314, -74.2099",10,NA,NA,NA,NA
+2015-05-07,0,4,4,Ohio,Cincinnati,http://www.gunviolencearchive.org/incident/335903,"39.1497, -84.5615",1,NA,NA,NA,NA
+2015-05-07,0,4,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/336622,"42.3615, -83.2032",13,AR-15,NA,NA,NA
+2015-05-04,1,3,4,New York,Buffalo,http://www.gunviolencearchive.org/incident/334681,"42.934, -78.8098",26,NA,NA,NA,NA
+2015-05-03,0,4,4,Indiana,South Bend,http://www.gunviolencearchive.org/incident/334033,"41.6578, -86.256",2,NA,NA,NA,NA
+2015-05-03,0,6,6,Texas,Houston,http://www.gunviolencearchive.org/incident/333584,"29.7406, -95.3753",18,NA,NA,NA,NA
+2015-05-03,0,4,4,New York,Bronx,http://www.gunviolencearchive.org/incident/334047,"40.8447, -73.9228",15,NA,NA,NA,NA
+2015-05-03,1,6,7,Ohio,Dayton,http://www.gunviolencearchive.org/incident/333576,"39.7317, -84.2512",10,NA,NA,NA,NA
+2015-05-03,4,1,5,Wisconsin,Menasha,http://www.gunviolencearchive.org/incident/333750,"44.2029, -88.4656",6,NA,handgun,9mm,9mm
+2015-05-01,2,3,5,Wisconsin,Milwaukee,http://www.gunviolencearchive.org/incident/332732,"43.0845, -87.9593",4,NA,NA,NA,NA
+2015-04-27,2,4,6,New York,Brooklyn,http://www.gunviolencearchive.org/incident/330611,"40.6378, -73.9525",9,NA,NA,NA,NA
+2015-04-27,2,2,4,Arizona,Gila Bend,http://www.gunviolencearchive.org/incident/330750,"32.949, -112.707",3,NA,NA,NA,NA
+2015-04-25,0,4,4,New Jersey,Trenton,http://www.gunviolencearchive.org/incident/329463,"40.2218, -74.7606",12,NA,NA,NA,NA
+2015-04-25,1,6,7,New York,Gates,http://www.gunviolencearchive.org/incident/329322,"43.1386, -77.672",25,NA,NA,NA,NA
+2015-04-21,2,3,5,Texas,Killeen,http://www.gunviolencearchive.org/incident/326792,"31.124, -97.7371",31,NA,NA,NA,NA
+2015-04-19,0,4,4,Virginia,Richmond,http://www.gunviolencearchive.org/incident/325862,"37.5547, -77.4366",3,NA,NA,NA,NA
+2015-04-18,0,5,5,Alabama,Montgomery,http://www.gunviolencearchive.org/incident/327341,"32.3573, -86.3358",7,NA,NA,NA,NA
+2015-04-18,0,5,5,Pennsylvania,Williamsport,http://www.gunviolencearchive.org/incident/325445,"41.2409, -77.0031",10,NA,Handgun,NA,NA
+2015-04-18,1,3,4,North Carolina,Lumberton,http://www.gunviolencearchive.org/incident/325166,"34.5993, -79.0342",8,NA,NA,NA,NA
+2015-04-18,0,4,4,North Carolina,Charlotte,http://www.gunviolencearchive.org/incident/325207,"35.2257, -80.9011",12,NA,NA,NA,NA
+2015-04-18,1,3,4,New Jersey,Paterson,http://www.gunviolencearchive.org/incident/325618,"40.9207, -74.1591",9,NA,NA,NA,NA
+2015-04-16,5,0,5,Arizona,Phoenix,http://www.gunviolencearchive.org/incident/324424,"33.6417, -111.989",6,NA,Handgun,NA,NA
+2015-04-07,1,3,4,Georgia,Rome,http://www.gunviolencearchive.org/incident/319808,"34.2652, -85.1587",14,NA,handgun,NA,NA
+2015-04-05,1,3,4,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/318125,"40.4412, -79.9806",14,NA,NA,NA,NA
+2015-04-05,1,4,5,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/318221,"38.2429, -85.8185",3,NA,NA,NA,NA
+2015-04-05,0,5,5,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/318297,"39.8588, -86.2458",7,NA,NA,NA,NA
+2015-04-05,0,4,4,Michigan,Benton Harbor,http://www.gunviolencearchive.org/incident/318531,"42.1156, -86.4336",6,NA,NA,NA,NA
+2015-04-03,0,4,4,Florida,Daytona Beach,http://www.gunviolencearchive.org/incident/317165,"29.2313, -81.0621",6,NA,NA,NA,NA
+2015-04-02,0,5,5,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/316795,"39.2978, -76.6476",7,NA,NA,NA,NA
+2015-03-27,0,7,7,Florida,Panama City Beach,http://www.gunviolencearchive.org/incident/314044,"30.1437, -85.7557",2,NA,NA,NA,40 SW
+2015-03-26,0,4,4,Texas,Amarillo,http://www.gunviolencearchive.org/incident/313304,"35.2446, -101.824",13,NA,NA,NA,NA
+2015-03-24,4,0,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/312119,"39.811, -86.1871",7,NA,NA,NA,NA
+2015-03-23,1,4,5,Tennessee,Clarksville,http://www.gunviolencearchive.org/incident/311922,"36.5367, -87.3488",7,NA,NA,NA,NA
+2015-03-22,1,6,7,New Mexico,Albuquerque,http://www.gunviolencearchive.org/incident/311348,"35.0873, -106.535",1,NA,NA,NA,NA
+2015-03-21,0,4,4,Florida,Tampa,http://www.gunviolencearchive.org/incident/310573,"27.9604, -82.439",14,NA,NA,NA,NA
+2015-03-20,1,5,6,Texas,Lancaster,http://www.gunviolencearchive.org/incident/468151,"32.6116, -96.7888",30,NA,NA,NA,NA
+2015-03-18,1,3,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/308839,"40.7145, -74.2132",10,NA,NA,NA,NA
+2015-03-18,1,5,6,Arizona,Mesa,http://www.gunviolencearchive.org/incident/308728,"33.4152, -111.864",9,NA,NA,NA,NA
+2015-03-17,3,4,7,California,Stockton,http://www.gunviolencearchive.org/incident/308687,"37.9597, -121.296",9,NA,NA,NA,NA
+2015-03-15,0,4,4,California,Compton,http://www.gunviolencearchive.org/incident/307512,"33.8863, -118.257",44,NA,NA,NA,NA
+2015-03-14,0,5,5,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/306897,"33.755, -84.482",5,NA,NA,NA,NA
+2015-03-14,0,4,4,California,Coachella,http://www.gunviolencearchive.org/incident/308201,"33.6747, -116.18",36,NA,NA,NA,NA
+2015-03-13,2,3,5,Mississippi,Brookhaven,http://www.gunviolencearchive.org/incident/305907,"31.561, -90.4451",3,NA,NA,NA,NA
+2015-03-10,0,5,5,Georgia,Columbus,http://www.gunviolencearchive.org/incident/304238,"32.4375, -84.9598",2,NA,NA,NA,NA
+2015-03-09,1,3,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/303659,"41.7018, -87.6549",1,NA,NA,NA,NA
+2015-03-08,1,3,4,South Carolina,Seneca,http://www.gunviolencearchive.org/incident/302786,"34.664, -82.9271",3,NA,Handgun,NA,NA
+2015-03-07,0,4,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/491864,"38.6352, -90.224",1,NA,Handgun,NA,NA
+2015-03-04,3,4,7,California,San Bernardino,http://www.gunviolencearchive.org/incident/300860,NA,NA,NA,NA,NA,NA
+2015-03-01,0,4,4,Florida,Orange County,http://www.gunviolencearchive.org/incident/300660,"28.452, -81.4441",5,NA,NA,NA,NA
+2015-03-01,1,5,6,Michigan,Detroit,http://www.gunviolencearchive.org/incident/299344,"42.4117, -82.9691",14,NA,NA,NA,NA
+2015-02-28,1,3,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/299190,"39.3435, -76.588",7,NA,NA,NA,NA
+2015-02-26,8,1,9,Missouri,Tyrone,http://www.gunviolencearchive.org/incident/298122,"37.1956, -91.9012",8,NA,NA,NA,45 Auto
+2015-02-25,3,1,4,Texas,Houston,http://www.gunviolencearchive.org/incident/297681,"29.6599, -95.3556",9,NA,NA,NA,NA
+2015-02-23,0,4,4,Florida,Daytona Beach,http://www.gunviolencearchive.org/incident/588835,"29.2083, -81.046",6,NA,NA,NA,NA
+2015-02-22,4,1,5,Texas,Killeen,http://www.gunviolencearchive.org/incident/296215,"31.1199, -97.6832",31,NA,NA,NA,NA
+2015-02-22,3,2,5,Georgia,Clarkesville,http://www.gunviolencearchive.org/incident/296121,"34.6357, -83.5978",9,NA,NA,9mm,9mm
+2015-02-22,0,4,4,South Carolina,Charleston,http://www.gunviolencearchive.org/incident/296327,"32.8542, -80.0058",6,NA,NA,NA,NA
+2015-02-20,0,4,4,California,Sacramento,http://www.gunviolencearchive.org/incident/295871,"38.57, -121.491",6,NA,NA,NA,NA
+2015-02-17,1,3,4,Arkansas,Little Rock,http://www.gunviolencearchive.org/incident/295502,"34.677, -92.3196",2,NA,NA,NA,NA
+2015-02-15,0,5,5,California,Long Beach,http://www.gunviolencearchive.org/incident/293883,"33.7837, -118.194",47,NA,NA,NA,NA
+2015-02-09,3,1,4,Florida,New Port Richey,http://www.gunviolencearchive.org/incident/290626,"28.2963, -82.6173",12,NA,NA,NA,NA
+2015-02-08,0,6,6,Tennessee,Friendship,http://www.gunviolencearchive.org/incident/290510,"35.8471, -89.2348",8,NA,NA,NA,NA
+2015-02-07,5,2,7,Georgia,Douglasville,http://www.gunviolencearchive.org/incident/289811,"33.7138, -84.6692",13,NA,NA,NA,45 Auto
+2015-02-06,1,4,5,Oklahoma,Tulsa,http://www.gunviolencearchive.org/incident/290098,"36.1723, -95.9045",1,NA,NA,NA,NA
+2015-02-05,3,3,6,Ohio,Beachwood (Warrensville Heights),http://www.gunviolencearchive.org/incident/289146,"41.4498, -81.4964",11,NA,NA,NA,NA
+2015-02-01,0,6,6,New York,Syracuse,http://www.gunviolencearchive.org/incident/287529,"43.0468, -76.1758",24,NA,handgun,NA,NA
+2015-02-01,1,4,5,New York,New York (Manhattan),http://www.gunviolencearchive.org/incident/287031,"40.8206, -73.9548",13,NA,NA,NA,NA
+2015-01-31,4,0,4,Georgia,Lagrange,http://www.gunviolencearchive.org/incident/286810,"32.9776, -85.142",3,NA,NA,NA,NA
+2015-01-28,1,3,4,Georgia,Dekalb County,http://www.gunviolencearchive.org/incident/285549,"33.6913, -84.1796",4,NA,NA,NA,NA
+2015-01-26,1,3,4,California,Stockton,http://www.gunviolencearchive.org/incident/285123,"37.9307, -121.265",9,NA,NA,NA,NA
+2015-01-24,4,1,5,New York,Arverne (Queens),http://www.gunviolencearchive.org/incident/282956,"40.6557, -73.7508",5,NA,NA,NA,45 Auto
+2015-01-24,3,5,8,Nebraska,Omaha,http://www.gunviolencearchive.org/incident/283041,"41.2767, -95.9637",2,NA,NA,NA,NA
+2015-01-23,0,6,6,Massachusetts,Boston,http://www.gunviolencearchive.org/incident/283115,"42.3243, -71.101",7,NA,NA,NA,NA
+2015-01-20,1,3,4,Tennessee,Clarksville,http://www.gunviolencearchive.org/incident/281663,"36.6134, -87.419",7,NA,NA,NA,NA
+2015-01-19,2,5,7,Texas,San Antonio,http://www.gunviolencearchive.org/incident/281039,"29.4214, -98.4608",35,AK-47,NA,NA,40 SW
+2015-01-13,2,2,4,Illinois,Rockford,http://www.gunviolencearchive.org/incident/278927,"42.2835, -89.1148",17,NA,NA,NA,NA
+2015-01-13,0,5,5,Virginia,Portsmouth,http://www.gunviolencearchive.org/incident/298773,"36.8192, -76.3134",3,NA,NA,NA,NA
+2015-01-11,2,5,7,North Carolina,Hope Mills,http://www.gunviolencearchive.org/incident/276845,"34.9339, -78.8664",2,NA,NA,NA,NA
+2015-01-11,1,3,4,Florida,Lakeland,http://www.gunviolencearchive.org/incident/277480,"28.1425, -81.982",15,NA,NA,NA,NA
+2015-01-11,0,5,5,California,San Jose,http://www.gunviolencearchive.org/incident/276766,"37.2818, -121.839",19,NA,NA,NA,NA
+2015-01-10,2,2,4,Kansas,Wichita,http://www.gunviolencearchive.org/incident/276536,"37.6646, -97.2797",4,NA,NA,NA,NA
+2015-01-09,4,0,4,California,San Francisco,http://www.gunviolencearchive.org/incident/276459,"37.7737, -122.426",12,NA,NA,NA,NA
+2015-01-08,1,3,4,Massachusetts,Boston,http://www.gunviolencearchive.org/incident/275986,"42.3169, -71.0897",7,NA,NA,NA,NA
+2015-01-07,1,3,4,Tennessee,Chattanooga,http://www.gunviolencearchive.org/incident/275064,"35.0403, -85.3182",3,NA,NA,NA,NA
+2015-01-06,1,3,4,Florida,Miami,http://www.gunviolencearchive.org/incident/274867,"25.8315, -80.2188",24,NA,NA,NA,NA
+2015-01-04,2,4,6,Virginia,Roanoke,http://www.gunviolencearchive.org/incident/273535,"37.281, -79.9985",6,NA,NA,NA,NA
+2015-01-04,3,1,4,Texas,Dallas,http://www.gunviolencearchive.org/incident/273397,"32.6799, -96.6111",30,NA,NA,NA,NA
+2015-01-02,1,4,5,Georgia,Savannah,http://www.gunviolencearchive.org/incident/273965,"32.0415, -81.0945",1,NA,NA,NA,NA
+2015-01-01,0,5,5,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/272016,"35.1489, -90.0461",9,NA,NA,NA,NA
+2016-12-31,2,2,4,Georgia,Lenox (El Dorado),http://www.gunviolencearchive.org/incident/740447,"31.3562, -83.4982",8,NA,NA,NA,NA
+2016-12-31,1,3,4,Texas,Houston,http://www.gunviolencearchive.org/incident/738749,"29.738, -95.3788",18,NA,NA,NA,NA
+2016-12-30,0,5,5,Ohio,Mansfield,http://www.gunviolencearchive.org/incident/738041,"40.6728, -82.4973",12,NA,NA,NA,NA
+2016-12-30,2,2,4,Connecticut,Wallingford,http://www.gunviolencearchive.org/incident/738576,"41.4494, -72.8436",3,NA,NA,NA,NA
+2016-12-28,1,4,5,Georgia,Columbus,http://www.gunviolencearchive.org/incident/736690,"32.4649, -84.949",2,NA,NA,NA,NA
+2016-12-25,0,4,4,Alabama,Ozark,http://www.gunviolencearchive.org/incident/735947,"31.4499, -85.6612",2,NA,NA,NA,NA
+2016-12-25,3,4,7,Illinois,Chicago,http://www.gunviolencearchive.org/incident/734157,"41.7383, -87.6039",1,NA,NA,NA,NA
+2016-12-25,1,5,6,New York,Mount Vernon,http://www.gunviolencearchive.org/incident/733599,"40.9125, -73.8365",16,NA,Handgun,NA,NA
+2016-12-24,0,7,7,North Carolina,Madison,http://www.gunviolencearchive.org/incident/732927,"36.3893, -80.0078",6,NA,handgun,NA,NA
+2016-12-24,4,0,4,North Carolina,Wilson,http://www.gunviolencearchive.org/incident/733176,"35.734, -77.8724",1,NA,NA,NA,NA
+2016-12-23,1,3,4,Alabama,Birmingham,http://www.gunviolencearchive.org/incident/732263,"33.5384, -86.7826",7,NA,Handgun,NA,NA
+2016-12-23,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/732574,"41.89, -87.6585",7,NA,NA,NA,NA
+2016-12-17,0,4,4,North Carolina,Charlotte,http://www.gunviolencearchive.org/incident/728286,"35.2578, -80.7963",12,NA,NA,NA,NA
+2016-12-17,5,0,5,Illinois,Chicago (Roseland),http://www.gunviolencearchive.org/incident/727759,"41.7037, -87.6259",2,NA,NA,NA,NA
+2016-12-16,2,2,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/727544,"41.8156, -87.6895",4,NA,NA,NA,NA
+2016-12-16,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/727555,"41.8646, -87.7056",7,NA,NA,NA,NA
+2016-12-12,1,3,4,California,Sacramento,http://www.gunviolencearchive.org/incident/724667,"38.6537, -121.353",6,NA,NA,NA,"16
+Mag"
+2016-12-11,0,4,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/723649,"40.7036, -73.9272",7,NA,NA,NA,NA
+2016-12-11,1,4,5,Florida,Orlando (Pine Hills),http://www.gunviolencearchive.org/incident/723643,"28.596, -81.451",5,NA,NA,NA,NA
+2016-12-11,0,5,5,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/723292,"39.235, -76.6114",2,NA,NA,NA,NA
+2016-12-11,0,4,4,North Carolina,Rocky Mount,http://www.gunviolencearchive.org/incident/725338,"35.9468, -77.7798",1,NA,NA,NA,NA
+2016-12-09,4,0,4,Texas,Channelview,http://www.gunviolencearchive.org/incident/725323,"29.7717, -95.1392",36,NA,NA,NA,NA
+2016-12-09,0,4,4,California,Fresno,http://www.gunviolencearchive.org/incident/722452,"36.7277, -119.803",16,NA,NA,NA,NA
+2016-12-05,4,1,5,New Mexico,Albuquerque,http://www.gunviolencearchive.org/incident/719128,"35.0483, -106.49",1,NA,NA,NA,NA
+2016-12-03,0,6,6,California,Los Angeles,http://www.gunviolencearchive.org/incident/717873,"33.9545, -118.309",43,NA,NA,NA,NA
+2016-12-02,0,6,6,New Jersey,Bloomfield,http://www.gunviolencearchive.org/incident/717616,"40.7701, -74.1891",10,NA,NA,NA,NA
+2016-12-01,1,3,4,California,Clearlake Oaks,http://www.gunviolencearchive.org/incident/716001,"39.0455, -122.628",3,NA,NA,NA,NA
+2016-11-30,2,4,6,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/715101,"39.3205, -76.6771",7,NA,NA,NA,NA
+2016-11-28,1,3,4,Texas,Mission (Palmview),http://www.gunviolencearchive.org/incident/712796,"26.2335, -98.3845",28,NA,NA,9mm,9mm
+2016-11-28,0,4,4,California,Wilmington,http://www.gunviolencearchive.org/incident/712776,"33.7832, -118.272",44,NA,NA,NA,NA
+2016-11-28,0,4,4,California,San Pedro,http://www.gunviolencearchive.org/incident/713445,"33.7424, -118.284",44,NA,NA,NA,NA
+2016-11-27,1,9,10,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/711597,"29.9542, -90.0692",2,NA,NA,NA,NA
+2016-11-27,0,7,7,Missouri,Kansas City,http://www.gunviolencearchive.org/incident/711744,"38.998, -94.5569",5,NA,NA,NA,NA
+2016-11-26,1,5,6,Illinois,Chicago,http://www.gunviolencearchive.org/incident/710732,"41.7354, -87.5532",2,NA,NA,NA,NA
+2016-11-25,0,4,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/710467,"29.9442, -90.0864",2,NA,NA,NA,NA
+2016-11-24,2,4,6,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/709370,"38.2506, -85.827",3,NA,NA,NA,NA
+2016-11-24,1,3,4,New York,Albany,http://www.gunviolencearchive.org/incident/709276,"42.6591, -73.7658",20,NA,NA,NA,NA
+2016-11-23,0,4,4,Mississippi,Olive Branch,http://www.gunviolencearchive.org/incident/708777,"34.9898, -89.7674",1,NA,NA,NA,NA
+2016-11-22,1,4,5,Florida,Clewiston,http://www.gunviolencearchive.org/incident/708392,"26.7371, -80.9531",20,NA,NA,NA,NA
+2016-11-18,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/704568,"41.9116, -87.7512",7,NA,NA,NA,NA
+2016-11-17,1,7,8,Tennessee,Dyersburg,http://www.gunviolencearchive.org/incident/703245,"36.0293, -89.3647",8,NA,NA,NA,NA
+2016-11-13,3,2,5,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/699605,"30.3648, -81.706",5,NA,Handgun,NA,NA
+2016-11-13,0,4,4,Texas,San Antonio,http://www.gunviolencearchive.org/incident/699332,"29.507, -98.3812",28,NA,NA,NA,NA
+2016-11-13,3,2,5,California,San Diego,http://www.gunviolencearchive.org/incident/700232,"32.7478, -117.106",51,NA,Handgun,NA,NA
+2016-11-13,0,4,4,Florida,Orlando,http://www.gunviolencearchive.org/incident/699316,"28.5325, -81.4343",5,NA,NA,NA,NA
+2016-11-12,1,5,6,California,Sacramento,http://www.gunviolencearchive.org/incident/699033,"38.4564, -121.384",7,NA,NA,NA,NA
+2016-11-12,1,3,4,Missouri,Kansas City,http://www.gunviolencearchive.org/incident/700363,"39.0862, -94.5382",5,NA,NA,NA,NA
+2016-11-12,0,5,5,Connecticut,Bridgeport,http://www.gunviolencearchive.org/incident/699303,"41.1926, -73.2146",4,NA,NA,NA,NA
+2016-11-11,0,4,4,Texas,Houston,http://www.gunviolencearchive.org/incident/699863,"29.7169, -95.2832",29,NA,NA,NA,NA
+2016-11-10,1,3,4,Texas,Houston,http://www.gunviolencearchive.org/incident/698383,"29.8671, -95.5636",2,NA,NA,NA,NA
+2016-11-09,0,5,5,Washington,Seattle,http://www.gunviolencearchive.org/incident/696917,"47.6101, -122.338",7,NA,NA,NA,NA
+2016-11-09,1,3,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/697377,"41.8796, -87.711",7,NA,NA,NA,NA
+2016-11-09,0,4,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/696352,"35.061, -90.0037",9,NA,NA,NA,NA
+2016-11-05,1,3,4,Florida,Fort Lauderdale (Lauderhill),http://www.gunviolencearchive.org/incident/693624,"26.1213, -80.187",20,NA,NA,NA,NA
+2016-11-05,0,4,4,Texas,San Antonio,http://www.gunviolencearchive.org/incident/693438,"29.5376, -98.4109",35,NA,NA,NA,NA
+2016-11-05,0,5,5,South Carolina,Myrtle Beach,http://www.gunviolencearchive.org/incident/693401,"33.6933, -78.885",7,NA,NA,NA,NA
+2016-11-05,0,8,8,California,Oakland,http://www.gunviolencearchive.org/incident/693374,"37.8041, -122.27",13,NA,NA,NA,NA
+2016-11-05,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/693290,"41.9694, -87.658",9,NA,NA,NA,NA
+2016-11-04,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/693307,"39.9403, -75.2251",2,NA,NA,NA,NA
+2016-11-03,2,2,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/692020,"41.7935, -87.5804",2,NA,NA,NA,NA
+2016-11-03,2,2,4,New Jersey,Orange,http://www.gunviolencearchive.org/incident/692315,"40.7788, -74.2272",10,NA,NA,NA,NA
+2016-11-02,1,4,5,Arkansas,Little Rock,http://www.gunviolencearchive.org/incident/692025,"34.7279, -92.2659",2,NA,NA,NA,NA
+2016-11-01,1,5,6,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/691113,"35.0063, -89.9592",9,NA,NA,NA,NA
+2016-10-31,0,4,4,Louisiana,Shreveport,http://www.gunviolencearchive.org/incident/689518,"32.4437, -93.7695",4,NA,Handgun,NA,NA
+2016-10-30,0,4,4,Ohio,Toledo,http://www.gunviolencearchive.org/incident/688979,"41.6478, -83.5771",9,NA,NA,NA,NA
+2016-10-30,0,4,4,New York,New York (Manhattan),http://www.gunviolencearchive.org/incident/688841,"40.7197, -73.9829",12,NA,NA,NA,NA
+2016-10-30,2,5,7,New York,Newburgh,http://www.gunviolencearchive.org/incident/688577,"41.502, -74.0104",18,NA,Handgun,NA,NA
+2016-10-30,3,3,6,Maryland,Capitol Heights,http://www.gunviolencearchive.org/incident/689020,"38.8701, -76.8896",4,NA,NA,NA,NA
+2016-10-30,0,5,5,Texas,San Antonio,http://www.gunviolencearchive.org/incident/688592,NA,NA,NA,NA,NA,NA
+2016-10-29,1,3,4,Ohio,Dayton,http://www.gunviolencearchive.org/incident/687940,"39.7772, -84.2521",10,NA,NA,NA,NA
+2016-10-29,0,5,5,California,Los Angeles,http://www.gunviolencearchive.org/incident/689009,"33.9374, -118.219",44,NA,NA,NA,NA
+2016-10-29,0,4,4,California,Riverside,http://www.gunviolencearchive.org/incident/688210,"33.9366, -117.406",41,NA,NA,NA,NA
+2016-10-28,0,6,6,Mississippi,Jackson,http://www.gunviolencearchive.org/incident/688429,"32.3339, -90.1861",2,NA,Handgun,NA,NA
+2016-10-28,0,4,4,Florida,Miami Gardens,http://www.gunviolencearchive.org/incident/687375,"25.9322, -80.2448",24,NA,NA,NA,NA
+2016-10-27,4,0,4,Georgia,Jackson,http://www.gunviolencearchive.org/incident/686312,"33.384, -83.9905",10,NA,NA,NA,NA
+2016-10-25,1,3,4,Ohio,Dayton,http://www.gunviolencearchive.org/incident/685379,"39.7995, -84.2076",10,NA,NA,NA,NA
+2016-10-25,2,3,5,Virginia,Roanoke,http://www.gunviolencearchive.org/incident/684130,"37.2732, -79.9306",6,NA,handgun,9mm,9mm
+2016-10-23,1,5,6,Oklahoma,Wellston,http://www.gunviolencearchive.org/incident/683142,"35.6755, -97.1058",3,AR-15,Handgun,NA,22 LR
+2016-10-22,0,7,7,California,Oakland,http://www.gunviolencearchive.org/incident/682298,"37.7639, -122.175",13,NA,NA,NA,NA
+2016-10-18,0,4,4,California,San Francisco,http://www.gunviolencearchive.org/incident/679290,"37.7196, -122.426",12,NA,NA,NA,NA
+2016-10-17,1,4,5,Illinois,Chicago (Englewood),http://www.gunviolencearchive.org/incident/678438,"41.7721, -87.6725",7,NA,NA,NA,NA
+2016-10-15,0,5,5,Alabama,Mobile,http://www.gunviolencearchive.org/incident/677293,"30.703, -88.0787",1,NA,NA,NA,NA
+2016-10-15,1,5,6,Illinois,Rockford,http://www.gunviolencearchive.org/incident/676686,"42.271, -88.9649",16,NA,NA,NA,NA
+2016-10-15,4,11,15,California,Los Angeles,http://www.gunviolencearchive.org/incident/676663,"34.0274, -118.351",37,NA,NA,NA,NA
+2016-10-14,1,6,7,Illinois,Chicago,http://www.gunviolencearchive.org/incident/676376,"41.8839, -87.7086",7,NA,NA,NA,NA
+2016-10-13,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/675993,"41.8723, -87.6937",7,NA,NA,NA,NA
+2016-10-09,1,8,9,Michigan,Grand Rapids,http://www.gunviolencearchive.org/incident/672203,"42.9125, -85.6209",3,NA,NA,NA,NA
+2016-10-09,1,3,4,California,Sacramento,http://www.gunviolencearchive.org/incident/672217,"38.5982, -121.428",6,NA,NA,NA,NA
+2016-10-08,0,4,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/671717,"40.6322, -74.0272",11,NA,NA,NA,NA
+2016-10-04,3,2,5,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/669777,"29.9673, -90.1019",2,NA,NA,NA,NA
+2016-10-03,0,4,4,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/668407,"44.9804, -93.2713",5,NA,NA,NA,NA
+2016-10-02,1,4,5,Texas,San Antonio,http://www.gunviolencearchive.org/incident/667984,"29.3988, -98.5045",35,NA,NA,NA,NA
+2016-10-01,4,0,4,Illinois,Pembroke Township,http://www.gunviolencearchive.org/incident/668279,"41.086, -87.5391",2,NA,NA,9mm,9mm
+2016-10-01,0,4,4,California,Fresno,http://www.gunviolencearchive.org/incident/668352,"36.7568, -119.771",16,NA,NA,NA,NA
+2016-09-29,1,3,4,California,San Francisco,http://www.gunviolencearchive.org/incident/665995,"37.7849, -122.413",12,NA,NA,NA,NA
+2016-09-26,0,4,4,North Carolina,Winston Salem (Winston-salem),http://www.gunviolencearchive.org/incident/663624,"36.1144, -80.2452",12,NA,handgun,NA,NA
+2016-09-26,0,4,4,Texas,Humble,http://www.gunviolencearchive.org/incident/663789,"30.022, -95.3124",2,NA,NA,NA,NA
+2016-09-26,1,6,7,Texas,Houston,http://www.gunviolencearchive.org/incident/663106,"29.7237, -95.4414",7,AR-15,NA,NA,45 Auto
+2016-09-25,1,3,4,Illinois,Champaign,http://www.gunviolencearchive.org/incident/662548,"40.1102, -88.2354",13,NA,NA,NA,NA
+2016-09-24,0,8,8,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/662342,"39.3048, -76.6082",7,NA,handgun,NA,NA
+2016-09-23,5,0,5,Washington,Burlington,http://www.gunviolencearchive.org/incident/661703,"48.4646, -122.338",2,NA,NA,NA,22 LR
+2016-09-18,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/657854,"39.9833, -75.0838",1,NA,NA,NA,NA
+2016-09-18,1,3,4,Virginia,Lynchburg,http://www.gunviolencearchive.org/incident/657863,"37.4222, -79.1502",6,NA,NA,NA,NA
+2016-09-18,0,4,4,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/658226,"40.4584, -80.0173",14,NA,NA,NA,NA
+2016-09-17,0,6,6,Florida,Miami,http://www.gunviolencearchive.org/incident/659289,"25.5846, -80.3855",26,NA,NA,NA,82 SW
+2016-09-17,1,6,7,Florida,Orlando,http://www.gunviolencearchive.org/incident/657136,"28.5269, -81.4243",5,NA,NA,NA,NA
+2016-09-17,2,2,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/657151,"39.8909, -86.1968",5,NA,NA,NA,NA
+2016-09-17,2,7,9,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/657634,"38.8583, -76.9966",1,NA,NA,NA,NA
+2016-09-16,2,5,7,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/657023,"39.9575, -75.2234",2,NA,NA,9mm,9mm
+2016-09-16,2,2,4,California,Los Angeles (Hollywood),http://www.gunviolencearchive.org/incident/656991,"34.0797, -118.295",28,NA,NA,NA,NA
+2016-09-14,1,3,4,Texas,Humble,http://www.gunviolencearchive.org/incident/655512,"29.9586, -95.3023",18,NA,NA,NA,NA
+2016-09-13,3,2,5,Indiana,Fort Wayne,http://www.gunviolencearchive.org/incident/654087,"41.0803, -85.1155",3,NA,NA,NA,NA
+2016-09-11,3,1,4,Indiana,Fort Wayne,http://www.gunviolencearchive.org/incident/652642,"41.0574, -85.1186",3,NA,NA,NA,NA
+2016-09-11,1,5,6,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/653077,"29.9447, -90.0911",2,NA,NA,NA,NA
+2016-09-11,1,3,4,New Jersey,Jersey City,http://www.gunviolencearchive.org/incident/652759,"40.7332, -74.07",10,NA,NA,NA,NA
+2016-09-11,0,6,6,Missouri,Kansas City,http://www.gunviolencearchive.org/incident/652584,"39.0529, -94.5917",5,NA,NA,NA,NA
+2016-09-11,0,5,5,Michigan,Saginaw,http://www.gunviolencearchive.org/incident/652561,"43.5085, -83.9589",4,NA,NA,NA,NA
+2016-09-11,0,5,5,North Carolina,New Bern,http://www.gunviolencearchive.org/incident/652606,"35.08, -77.0298",3,NA,NA,NA,NA
+2016-09-10,1,3,4,Florida,Miami,http://www.gunviolencearchive.org/incident/652175,"25.809, -80.2516",27,NA,NA,NA,NA
+2016-09-08,4,0,4,Texas,Del Valle,http://www.gunviolencearchive.org/incident/651957,"30.1343, -97.5936",35,NA,NA,NA,NA
+2016-09-08,1,4,5,Arkansas,Hot Springs National Park (Hot Springs),http://www.gunviolencearchive.org/incident/651434,"34.4989, -93.0754",4,NA,NA,NA,NA
+2016-09-05,2,3,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/648884,"41.8723, -87.6937",7,NA,NA,NA,NA
+2016-09-05,0,4,4,Pennsylvania,Reading,http://www.gunviolencearchive.org/incident/648490,"40.3444, -75.9189",16,NA,NA,NA,NA
+2016-09-04,1,10,11,Virginia,Roanoke,http://www.gunviolencearchive.org/incident/647865,"37.2838, -79.9227",6,NA,NA,NA,NA
+2016-09-03,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/646855,"41.9706, -87.6805",5,NA,NA,NA,NA
+2016-09-03,1,3,4,North Carolina,Wilmington,http://www.gunviolencearchive.org/incident/646995,"34.2462, -77.9072",3,NA,NA,NA,NA
+2016-08-30,0,4,4,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/644723,"33.7691, -84.3735",5,AR-15,NA,NA,40 SW
+2016-08-30,0,4,4,Illinois,Chicago (Englewood),http://www.gunviolencearchive.org/incident/643824,"41.7702, -87.6643",7,NA,NA,NA,NA
+2016-08-29,1,5,6,New Jersey,Egg Harbor City,http://www.gunviolencearchive.org/incident/641732,"39.5265, -74.6439",2,AR-15,handgun,NA,NA
+2016-08-29,5,0,5,California,Temecula,http://www.gunviolencearchive.org/incident/684389,"33.5196, -117.032",42,NA,NA,NA,NA
+2016-08-28,0,6,6,Texas,Lubbock,http://www.gunviolencearchive.org/incident/641419,"33.5809, -101.918",19,NA,NA,NA,NA
+2016-08-28,0,4,4,New York,Bronx,http://www.gunviolencearchive.org/incident/640677,"40.8194, -73.9114",15,NA,NA,NA,NA
+2016-08-28,2,2,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/640689,"38.5837, -90.2447",1,NA,NA,NA,NA
+2016-08-28,0,5,5,Alabama,Dadeville,http://www.gunviolencearchive.org/incident/640861,"32.8307, -85.7612",3,NA,NA,NA,NA
+2016-08-27,1,6,7,Alabama,Bessemer (Brighton),http://www.gunviolencearchive.org/incident/640500,"33.4414, -86.951",7,NA,Handgun,NA,NA
+2016-08-27,2,4,6,Florida,Miami,http://www.gunviolencearchive.org/incident/640203,"25.8505, -80.2298",24,NA,NA,NA,NA
+2016-08-25,0,5,5,New Jersey,Bridgeton,http://www.gunviolencearchive.org/incident/640901,"39.4318, -75.2289",2,NA,NA,NA,NA
+2016-08-21,0,13,13,Connecticut,Bridgeport,http://www.gunviolencearchive.org/incident/634787,"41.1981, -73.1753",4,NA,handgun,NA,40 SW
+2016-08-21,0,4,4,Massachusetts,Boston,http://www.gunviolencearchive.org/incident/634889,"42.2911, -71.0888",7,NA,NA,NA,NA
+2016-08-20,0,5,5,Washington,Tacoma,http://www.gunviolencearchive.org/incident/634731,"47.2554, -122.439",6,NA,NA,NA,NA
+2016-08-20,0,4,4,Connecticut,Hamden,http://www.gunviolencearchive.org/incident/634238,"41.3376, -72.9351",3,NA,NA,NA,NA
+2016-08-20,5,0,5,Alabama,Citronelle,http://www.gunviolencearchive.org/incident/634819,"31.05, -88.3088",1,NA,NA,NA,NA
+2016-08-18,0,4,4,Connecticut,Waterbury,http://www.gunviolencearchive.org/incident/632747,"41.5543, -73.0338",5,NA,NA,NA,NA
+2016-08-17,0,4,4,California,Oakland,http://www.gunviolencearchive.org/incident/632753,"37.8153, -122.29",13,NA,NA,NA,NA
+2016-08-14,0,4,4,Virginia,Norfolk,http://www.gunviolencearchive.org/incident/630007,"36.8273, -76.2677",3,NA,NA,NA,NA
+2016-08-14,0,5,5,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/629415,"44.9914, -93.3021",5,NA,NA,NA,NA
+2016-08-13,0,4,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/629663,"33.9828, -118.329",37,NA,NA,NA,NA
+2016-08-13,2,2,4,Wisconsin,Milwaukee,http://www.gunviolencearchive.org/incident/628570,"43.0799, -87.9637",4,NA,NA,NA,NA
+2016-08-13,0,4,4,New York,Richmond Hill,http://www.gunviolencearchive.org/incident/628623,"40.6952, -73.842",5,NA,NA,NA,NA
+2016-08-13,0,4,4,Missouri,Joplin,http://www.gunviolencearchive.org/incident/628635,"37.0713, -94.4943",7,NA,handgun,NA,NA
+2016-08-12,1,3,4,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/628178,"30.368, -81.6548",5,NA,NA,NA,NA
+2016-08-12,1,3,4,Texas,Dallas,http://www.gunviolencearchive.org/incident/627519,"32.8804, -96.6979",32,NA,NA,NA,NA
+2016-08-11,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/627757,"40.0373, -75.1606",2,AR-15,NA,NA,NA
+2016-08-10,0,4,4,Illinois,Evanston,http://www.gunviolencearchive.org/incident/626153,"42.0539, -87.6928",9,NA,NA,NA,NA
+2016-08-10,1,3,4,California,Sacramento,http://www.gunviolencearchive.org/incident/626960,"38.4987, -121.458",6,NA,NA,NA,NA
+2016-08-08,2,2,4,New Mexico,Albuquerque,http://www.gunviolencearchive.org/incident/625735,"35.0786, -106.549",1,NA,NA,NA,NA
+2016-08-08,0,7,7,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/624273,"30.3022, -81.7334",5,NA,NA,NA,NA
+2016-08-07,1,3,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/624156,"33.9866, -118.283",37,NA,NA,NA,NA
+2016-08-07,1,3,4,Mississippi,Vicksburg,http://www.gunviolencearchive.org/incident/624046,"32.3433, -90.8394",2,NA,Handgun,NA,NA
+2016-08-07,2,2,4,Colorado,Arvada,http://www.gunviolencearchive.org/incident/623523,"39.7946, -105.053",7,NA,NA,NA,NA
+2016-08-07,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/623439,"41.7741, -87.7202",3,NA,NA,NA,NA
+2016-08-06,5,0,5,Pennsylvania,Reading (Sinking Spring),http://www.gunviolencearchive.org/incident/623195,"40.33, -76.0256",16,NA,NA,NA,38 Spl
+2016-08-05,1,3,4,Michigan,Pontiac,http://www.gunviolencearchive.org/incident/624057,"42.6377, -83.3116",14,NA,NA,NA,NA
+2016-08-05,2,2,4,California,Perris,http://www.gunviolencearchive.org/incident/622500,"33.83, -117.285",41,NA,NA,NA,NA
+2016-08-04,0,4,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/621232,"35.1614, -90.0277",9,NA,NA,NA,NA
+2016-08-03,1,3,4,Georgia,Decatur,http://www.gunviolencearchive.org/incident/620247,"33.738, -84.2498",4,NA,NA,NA,NA
+2016-08-02,0,4,4,Florida,Hollywood (West Park),http://www.gunviolencearchive.org/incident/619708,"25.9842, -80.2004",24,NA,NA,NA,NA
+2016-08-01,0,4,4,Indiana,Evansville,http://www.gunviolencearchive.org/incident/619408,"37.9644, -87.5498",8,NA,NA,NA,NA
+2016-07-31,3,1,4,Florida,Miami,http://www.gunviolencearchive.org/incident/617789,"25.5776, -80.3789",26,NA,NA,NA,NA
+2016-07-31,1,4,5,Texas,Austin,http://www.gunviolencearchive.org/incident/617607,"30.2678, -97.7407",21,NA,handgun,NA,NA
+2016-07-30,0,5,5,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/617712,"38.6539, -90.2633",1,NA,NA,NA,NA
+2016-07-30,0,5,5,Georgia,Townsend (Eulonia),http://www.gunviolencearchive.org/incident/618321,"31.5211, -81.4329",1,NA,NA,NA,NA
+2016-07-30,3,1,4,Washington,Mukilteo,http://www.gunviolencearchive.org/incident/616948,"47.9005, -122.323",2,AR-15,NA,NA,NA
+2016-07-29,0,7,7,Georgia,Athens,http://www.gunviolencearchive.org/incident/617334,"33.9664, -83.358",10,NA,NA,NA,NA
+2016-07-28,0,5,5,New York,Elmira,http://www.gunviolencearchive.org/incident/615109,"42.0898, -76.8105",23,NA,NA,NA,NA
+2016-07-28,0,4,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/615328,"39.3189, -76.6095",7,NA,NA,NA,NA
+2016-07-28,2,2,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/615024,"41.8013, -87.7141",4,NA,NA,NA,NA
+2016-07-25,2,19,21,Florida,Fort Myers,http://www.gunviolencearchive.org/incident/611479,"26.612, -81.86",19,AR-15,Handgun,NA,10mm
+2016-07-24,1,7,8,Ohio,Hamilton,http://www.gunviolencearchive.org/incident/610584,"39.427, -84.5975",8,AR-15,NA,NA,NA
+2016-07-23,0,4,4,South Carolina,North Charleston,http://www.gunviolencearchive.org/incident/610756,"32.9271, -80.0791",6,NA,NA,NA,NA
+2016-07-23,0,4,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/613805,"40.6658, -73.8711",8,NA,NA,NA,NA
+2016-07-23,2,2,4,Ohio,Cincinnati,http://www.gunviolencearchive.org/incident/610093,"39.1491, -84.5512",1,NA,NA,NA,NA
+2016-07-23,4,1,5,Texas,Bastrop,http://www.gunviolencearchive.org/incident/610379,"30.1029, -97.3288",10,NA,NA,NA,NA
+2016-07-22,0,5,5,Illinois,Kankakee,http://www.gunviolencearchive.org/incident/610402,"41.1219, -87.8536",2,NA,NA,NA,NA
+2016-07-21,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/609402,"41.8128, -87.7522",3,NA,NA,NA,NA
+2016-07-20,0,4,4,California,Fresno,http://www.gunviolencearchive.org/incident/608787,"36.7468, -119.773",16,NA,NA,NA,NA
+2016-07-19,0,4,4,Arkansas,West Memphis,http://www.gunviolencearchive.org/incident/607265,"35.1433, -90.1688",1,NA,NA,NA,NA
+2016-07-17,4,3,7,Louisiana,Baton Rouge,http://www.gunviolencearchive.org/incident/604762,"30.4334, -91.0817",6,AR-15,handgun,9mm,9mm
+2016-07-17,1,3,4,Texas,Houston,http://www.gunviolencearchive.org/incident/605475,"29.8484, -95.3033",18,NA,NA,NA,NA
+2016-07-17,0,4,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/605367,"42.3534, -83.1009",13,NA,NA,NA,NA
+2016-07-16,0,5,5,Texas,Dallas,http://www.gunviolencearchive.org/incident/604459,"32.7154, -96.7141",30,NA,NA,NA,NA
+2016-07-16,0,5,5,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/604275,"41.5036, -81.6538",11,NA,NA,NA,NA
+2016-07-16,0,4,4,California,San Bernardino,http://www.gunviolencearchive.org/incident/605005,"34.1389, -117.31",31,NA,NA,NA,NA
+2016-07-16,1,14,15,California,Bakersfield,http://www.gunviolencearchive.org/incident/604233,"35.3481, -119.036",23,NA,NA,NA,NA
+2016-07-16,0,6,6,Tennessee,Clarksville,http://www.gunviolencearchive.org/incident/604175,"36.5377, -87.3377",7,NA,NA,NA,NA
+2016-07-15,3,1,4,Washington,Woodland,http://www.gunviolencearchive.org/incident/604207,"45.9199, -122.728",3,NA,NA,NA,45 Auto
+2016-07-14,3,1,4,Texas,Crosby,http://www.gunviolencearchive.org/incident/603475,"29.8724, -95.0662",36,NA,NA,NA,NA
+2016-07-14,0,4,4,California,Oakland,http://www.gunviolencearchive.org/incident/603733,"37.8063, -122.298",13,NA,NA,NA,NA
+2016-07-14,1,3,4,Ohio,Akron,http://www.gunviolencearchive.org/incident/603738,"41.0692, -81.5449",11,NA,NA,NA,NA
+2016-07-13,0,5,5,Georgia,Warner Robins,http://www.gunviolencearchive.org/incident/602810,"32.6435, -83.6157",8,NA,NA,NA,05 Mag
+2016-07-13,2,2,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/602765,"38.5905, -90.2344",1,NA,NA,NA,NA
+2016-07-11,0,5,5,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/600798,"39.3101, -76.6466",7,NA,NA,NA,NA
+2016-07-11,0,4,4,Michigan,Jackson,http://www.gunviolencearchive.org/incident/601119,"42.2466, -84.3881",7,NA,handgun,NA,NA
+2016-07-11,3,2,5,Michigan,Saint Joseph,http://www.gunviolencearchive.org/incident/600398,"42.1103, -86.4787",6,NA,NA,NA,57 Mag
+2016-07-11,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/601512,"38.8845, -76.9283",1,NA,NA,NA,NA
+2016-07-07,1,4,5,Tennessee,Bristol,http://www.gunviolencearchive.org/incident/597176,"36.5877, -82.186",1,AR-15,Handgun,NA,NA
+2016-07-07,5,9,14,Texas,Dallas,http://www.gunviolencearchive.org/incident/597756,"32.7793, -96.8052",30,AR-15,handgun,9mm,25 Auto
+2016-07-07,0,4,4,Louisiana,Baton Rouge,http://www.gunviolencearchive.org/incident/597366,"30.4663, -91.1189",2,NA,NA,NA,NA
+2016-07-05,0,4,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/595557,"33.9921, -118.255",40,NA,NA,NA,NA
+2016-07-04,0,4,4,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/595048,"40.4431, -79.9974",14,NA,NA,NA,NA
+2016-07-04,0,4,4,Illinois,Chicago (Englewood),http://www.gunviolencearchive.org/incident/595279,"41.7936, -87.6682",7,NA,NA,NA,NA
+2016-07-04,0,7,7,New York,Brooklyn,http://www.gunviolencearchive.org/incident/595166,"40.682, -73.9176",8,NA,NA,NA,NA
+2016-07-04,0,4,4,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/596159,"41.4817, -81.7615",11,NA,NA,NA,NA
+2016-07-04,3,2,5,Texas,Houston,http://www.gunviolencearchive.org/incident/595069,"29.7565, -95.3806",18,NA,NA,NA,NA
+2016-07-04,2,6,8,Arizona,Phoenix,http://www.gunviolencearchive.org/incident/595482,"33.3921, -112.146",7,AR-15,NA,NA,NA
+2016-07-03,2,3,5,Louisiana,Monroe,http://www.gunviolencearchive.org/incident/594051,"32.5013, -92.1088",5,NA,NA,NA,NA
+2016-07-03,0,4,4,Tennessee,Chattanooga,http://www.gunviolencearchive.org/incident/594480,"35.0656, -85.2517",3,NA,NA,NA,NA
+2016-06-30,1,4,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/592724,"41.7211, -87.6581",1,NA,NA,NA,NA
+2016-06-29,5,0,5,Nevada,Las Vegas,http://www.gunviolencearchive.org/incident/592207,"36.1958, -115.224",4,NA,NA,NA,NA
+2016-06-28,1,3,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/591975,"33.9064, -118.265",44,NA,NA,NA,NA
+2016-06-28,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/591294,"41.8567, -87.709",7,NA,NA,NA,NA
+2016-06-27,3,1,4,Oregon,Woodburn,http://www.gunviolencearchive.org/incident/589488,"45.1457, -122.785",5,NA,NA,NA,NA
+2016-06-26,0,4,4,South Carolina,Bennettsville,http://www.gunviolencearchive.org/incident/590233,"34.5849, -79.6713",7,NA,NA,NA,NA
+2016-06-26,1,4,5,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/588867,"33.7112, -84.3495",5,NA,NA,NA,NA
+2016-06-26,1,3,4,Texas,Houston,http://www.gunviolencearchive.org/incident/589165,"29.7128, -95.487",7,NA,NA,NA,NA
+2016-06-26,0,4,4,Texas,Corpus Christi,http://www.gunviolencearchive.org/incident/588918,"27.7741, -97.4214",27,NA,Handgun,NA,NA
+2016-06-26,0,5,5,North Carolina,Charlotte,http://www.gunviolencearchive.org/incident/589159,"35.2253, -80.8848",12,NA,NA,NA,NA
+2016-06-25,2,5,7,Texas,Fort Worth,http://www.gunviolencearchive.org/incident/587755,"32.7442, -97.2918",33,NA,NA,NA,NA
+2016-06-25,0,4,4,Virginia,Norfolk,http://www.gunviolencearchive.org/incident/589470,"36.8282, -76.2786",3,NA,NA,NA,NA
+2016-06-25,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/587983,"41.686, -87.6569",1,NA,NA,NA,NA
+2016-06-24,0,4,4,Kansas,Kansas City,http://www.gunviolencearchive.org/incident/589046,"39.1233, -94.6161",3,NA,NA,NA,NA
+2016-06-24,0,5,5,Connecticut,Hartford,http://www.gunviolencearchive.org/incident/587735,"41.7792, -72.6831",1,NA,NA,NA,NA
+2016-06-24,3,2,5,Maryland,District Heights,http://www.gunviolencearchive.org/incident/587769,"38.8454, -76.878",4,NA,NA,NA,NA
+2016-06-22,3,1,4,Washington,Olympia,http://www.gunviolencearchive.org/incident/585821,"47.0538, -122.741",10,NA,Handgun,NA,NA
+2016-06-22,1,4,5,Georgia,Dekalb (county),http://www.gunviolencearchive.org/incident/586122,"33.8116, -84.1882",4,NA,NA,NA,NA
+2016-06-22,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/586058,"41.8819, -87.7038",7,NA,NA,NA,NA
+2016-06-21,0,4,4,New Jersey,Willingboro,http://www.gunviolencearchive.org/incident/586044,"40.031, -74.8924",3,NA,NA,NA,NA
+2016-06-21,2,2,4,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/585615,"38.2091, -85.77",3,NA,NA,NA,NA
+2016-06-19,0,4,4,Virginia,Roanoke,http://www.gunviolencearchive.org/incident/583631,"37.2858, -79.9747",6,NA,NA,NA,NA
+2016-06-18,1,3,4,Virginia,Exmore,http://www.gunviolencearchive.org/incident/583584,"37.5318, -75.823",2,NA,NA,NA,NA
+2016-06-18,2,2,4,Georgia,Waycross,http://www.gunviolencearchive.org/incident/583537,"31.2201, -82.3634",1,NA,NA,NA,NA
+2016-06-18,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/583362,"41.7519, -87.554",2,NA,NA,NA,NA
+2016-06-14,0,4,4,Delaware,Wilmington,http://www.gunviolencearchive.org/incident/580848,"39.7408, -75.5646",1,NA,NA,NA,NA
+2016-06-14,1,3,4,California,Oakland,http://www.gunviolencearchive.org/incident/580791,"37.8033, -122.27",13,NA,NA,NA,NA
+2016-06-13,0,4,4,California,Fresno,http://www.gunviolencearchive.org/incident/579517,"36.735, -119.739",16,NA,NA,NA,NA
+2016-06-13,0,5,5,New York,Brooklyn,http://www.gunviolencearchive.org/incident/579786,"40.6427, -73.9226",9,NA,Handgun,NA,NA
+2016-06-13,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/580279,"41.8749, -87.706",7,NA,NA,NA,NA
+2016-06-12,50,53,103,Florida,Orlando,http://www.gunviolencearchive.org/incident/577157,"28.5195, -81.3767",5,AR-15,NA,9mm,9mm
+2016-06-11,5,0,5,New Mexico,Roswell,http://www.gunviolencearchive.org/incident/577574,"33.4196, -104.518",2,NA,NA,NA,NA
+2016-06-11,0,4,4,Minnesota,Webster,http://www.gunviolencearchive.org/incident/578238,"44.5298, -93.3729",1,NA,NA,NA,NA
+2016-06-11,1,3,4,California,Stockton,http://www.gunviolencearchive.org/incident/577938,"37.9874, -121.291",9,NA,NA,NA,NA
+2016-06-11,3,2,5,California,Panorama City,http://www.gunviolencearchive.org/incident/577073,"34.2248, -118.454",29,NA,NA,NA,NA
+2016-06-11,1,3,4,North Carolina,Charlotte,http://www.gunviolencearchive.org/incident/576774,"35.3242, -80.7105",12,NA,NA,NA,NA
+2016-06-09,0,4,4,Florida,Fort Walton Beach,http://www.gunviolencearchive.org/incident/575607,"30.462, -86.649",1,NA,NA,NA,NA
+2016-06-08,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/574850,"38.8964, -77.0403",1,NA,NA,NA,NA
+2016-06-08,1,3,4,Massachusetts,Boston,http://www.gunviolencearchive.org/incident/574753,"42.3735, -71.0661",7,NA,NA,NA,NA
+2016-06-06,0,4,4,California,Visalia,http://www.gunviolencearchive.org/incident/573327,"36.3306, -119.311",22,NA,NA,NA,NA
+2016-06-05,0,4,4,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/575061,"44.9863, -93.2982",5,NA,NA,NA,NA
+2016-06-05,3,3,6,Florida,Cape Coral,http://www.gunviolencearchive.org/incident/572696,"26.6037, -81.9908",19,NA,NA,NA,NA
+2016-06-05,2,4,6,Arizona,Phoenix,http://www.gunviolencearchive.org/incident/572766,"33.5558, -112.113",9,NA,NA,NA,NA
+2016-06-05,0,4,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/572513,"40.5767, -73.9837",8,NA,NA,NA,NA
+2016-06-04,3,1,4,Colorado,Denver,http://www.gunviolencearchive.org/incident/571859,"39.7674, -104.923",1,NA,NA,NA,NA
+2016-05-31,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/569225,"41.8937, -87.7089",7,NA,NA,NA,NA
+2016-05-31,0,4,4,Indiana,Fort Wayne,http://www.gunviolencearchive.org/incident/569189,"41.1059, -85.0571",3,NA,NA,NA,NA
+2016-05-30,0,5,5,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/568528,"39.3412, -76.609",7,NA,NA,NA,38 Spl
+2016-05-30,0,5,5,California,Sacramento,http://www.gunviolencearchive.org/incident/568745,"38.5131, -121.463",6,NA,NA,NA,NA
+2016-05-29,0,4,4,Nevada,Las Vegas,http://www.gunviolencearchive.org/incident/567788,"36.172, -115.141",1,NA,Handgun,NA,NA
+2016-05-29,0,6,6,New Jersey,Trenton,http://www.gunviolencearchive.org/incident/567673,"40.2294, -74.7632",12,NA,NA,NA,NA
+2016-05-29,0,4,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/567494,"39.7623, -86.1583",7,NA,NA,NA,NA
+2016-05-29,2,6,8,Texas,Houston,http://www.gunviolencearchive.org/incident/567614,"29.7727, -95.5745",7,AR-15,Handgun,NA,NA
+2016-05-23,0,5,5,New Jersey,Newark,http://www.gunviolencearchive.org/incident/564470,"40.7404, -74.2215",10,NA,NA,NA,NA
+2016-05-22,0,4,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/563829,"29.9613, -90.1235",2,NA,NA,NA,NA
+2016-05-22,1,3,4,California,Stockton,http://www.gunviolencearchive.org/incident/563514,"37.9623, -121.288",9,NA,NA,NA,NA
+2016-05-22,0,4,4,Tennessee,Nashville,http://www.gunviolencearchive.org/incident/563751,"36.1401, -86.7638",5,NA,NA,NA,NA
+2016-05-21,1,3,4,Georgia,Jackson,http://www.gunviolencearchive.org/incident/563630,"33.2598, -84.0274",10,NA,NA,NA,NA
+2016-05-18,0,4,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/561912,"39.8181, -86.1217",7,NA,NA,NA,NA
+2016-05-17,3,1,4,South Carolina,Ravenel,http://www.gunviolencearchive.org/incident/560782,"32.7849, -80.2037",6,NA,NA,NA,NA
+2016-05-15,0,4,4,Indiana,Evansville,http://www.gunviolencearchive.org/incident/559194,"37.9812, -87.5567",8,NA,NA,NA,NA
+2016-05-15,5,0,5,Georgia,Moultrie,http://www.gunviolencearchive.org/incident/565244,"31.2124, -83.8518",8,NA,NA,NA,NA
+2016-05-14,0,5,5,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/559042,"33.749, -84.388",5,NA,NA,NA,NA
+2016-05-14,1,3,4,West Virginia,Charleston,http://www.gunviolencearchive.org/incident/558796,"38.3767, -81.6749",2,NA,NA,NA,NA
+2016-05-11,1,4,5,Alabama,Birmingham,http://www.gunviolencearchive.org/incident/557589,"33.5313, -86.8143",7,NA,NA,NA,NA
+2016-05-11,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/557479,"41.7639, -87.6249",1,NA,NA,NA,NA
+2016-05-08,1,3,4,Texas,Austin,http://www.gunviolencearchive.org/incident/555126,"30.3546, -97.7047",35,NA,NA,NA,NA
+2016-05-06,1,4,5,Michigan,Detroit,http://www.gunviolencearchive.org/incident/555873,"42.416, -82.9897",14,NA,NA,NA,NA
+2016-05-06,1,3,4,Alabama,Montgomery,http://www.gunviolencearchive.org/incident/555886,"32.3757, -86.3333",2,NA,NA,NA,NA
+2016-05-06,3,3,6,Maryland,Bethesda,http://www.gunviolencearchive.org/incident/554133,"39.0224, -77.1485",6,NA,Handgun,NA,NA
+2016-05-05,2,6,8,Louisiana,Shreveport,http://www.gunviolencearchive.org/incident/553803,"32.5389, -93.7635",4,NA,NA,NA,NA
+2016-05-05,1,3,4,Florida,Miami,http://www.gunviolencearchive.org/incident/554027,"25.7937, -80.2306",27,NA,NA,NA,NA
+2016-05-04,1,7,8,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/553570,"44.9952, -93.3057",5,NA,Handgun,NA,NA
+2016-05-01,0,5,5,Tennessee,Murfreesboro,http://www.gunviolencearchive.org/incident/551053,"35.8314, -86.349",4,NA,NA,NA,NA
+2016-04-29,0,4,4,Missouri,Saint Louis (Ferguson),http://www.gunviolencearchive.org/incident/550445,"38.7521, -90.315",1,NA,NA,NA,NA
+2016-04-29,0,5,5,California,Oakland,http://www.gunviolencearchive.org/incident/550619,"37.8226, -122.277",13,NA,NA,NA,NA
+2016-04-27,2,2,4,Louisiana,Baton Rouge,http://www.gunviolencearchive.org/incident/549507,"30.4903, -91.0872",6,NA,NA,NA,NA
+2016-04-27,3,1,4,Mississippi,Kilmichael,http://www.gunviolencearchive.org/incident/549071,"33.435, -89.5726",2,NA,NA,NA,NA
+2016-04-26,1,4,5,Maryland,District Heights (Forestville),http://www.gunviolencearchive.org/incident/548333,"38.8432, -76.8954",4,NA,NA,NA,NA
+2016-04-25,0,4,4,Tennessee,Nashville,http://www.gunviolencearchive.org/incident/547639,"36.1664, -86.7807",5,NA,Handgun,NA,NA
+2016-04-25,0,5,5,Florida,Miami,http://www.gunviolencearchive.org/incident/547827,"25.8383, -80.2242",24,NA,NA,NA,NA
+2016-04-24,0,5,5,Virginia,Halifax,http://www.gunviolencearchive.org/incident/546760,"36.7755, -78.9208",5,NA,NA,NA,NA
+2016-04-24,2,3,5,Illinois,Chicago (Englewood),http://www.gunviolencearchive.org/incident/547319,"41.7696, -87.6739",7,NA,NA,NA,NA
+2016-04-24,0,4,4,Colorado,Denver,http://www.gunviolencearchive.org/incident/546818,"39.748, -105.001",1,NA,NA,NA,NA
+2016-04-23,1,3,4,Nevada,Las Vegas,http://www.gunviolencearchive.org/incident/546581,"36.1548, -115.019",4,NA,NA,NA,NA
+2016-04-23,3,1,4,Alabama,Auburn,http://www.gunviolencearchive.org/incident/546244,"32.5873, -85.6088",3,NA,NA,NA,NA
+2016-04-23,1,4,5,Kansas,Topeka,http://www.gunviolencearchive.org/incident/546550,"38.9988, -95.687",2,NA,NA,NA,NA
+2016-04-23,0,4,4,New York,New York (Manhattan),http://www.gunviolencearchive.org/incident/546258,"40.8209, -73.9452",13,NA,NA,NA,NA
+2016-04-22,8,0,8,Ohio,Piketon,http://www.gunviolencearchive.org/incident/545525,"39.0201, -83.275",2,NA,NA,NA,NA
+2016-04-22,6,0,6,Georgia,Appling,http://www.gunviolencearchive.org/incident/546022,"33.5989, -82.2244",10,NA,NA,NA,NA
+2016-04-21,0,4,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/545501,"39.3325, -76.545",2,NA,NA,NA,NA
+2016-04-19,1,4,5,Alabama,Blountsville,http://www.gunviolencearchive.org/incident/543441,"34.1597, -86.4686",4,NA,NA,NA,40 SW
+2016-04-19,1,3,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/544080,"41.7974, -87.6915",4,NA,NA,NA,NA
+2016-04-19,1,4,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/543132,"41.7414, -87.6584",1,NA,NA,NA,NA
+2016-04-18,1,3,4,California,Long Beach,http://www.gunviolencearchive.org/incident/543244,"33.7879, -118.176",47,NA,NA,NA,NA
+2016-04-17,3,1,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/541996,"40.0016, -75.1402",2,NA,NA,NA,NA
+2016-04-17,1,3,4,South Carolina,Pelzer,http://www.gunviolencearchive.org/incident/543102,"34.6459, -82.4371",3,NA,NA,NA,NA
+2016-04-17,1,6,7,Texas,Edinburg,http://www.gunviolencearchive.org/incident/543108,"26.3058, -98.1924",15,NA,NA,NA,NA
+2016-04-16,1,4,5,Michigan,Detroit,http://www.gunviolencearchive.org/incident/542259,"42.3882, -83.0742",13,NA,NA,NA,NA
+2016-04-16,2,4,6,Florida,Orlando,http://www.gunviolencearchive.org/incident/541987,"28.5329, -81.3937",5,NA,handgun,NA,NA
+2016-04-16,0,4,4,Alabama,Enterprise,http://www.gunviolencearchive.org/incident/542362,"31.3036, -85.8152",2,NA,NA,NA,NA
+2016-04-10,1,3,4,Wisconsin,Milwaukee,http://www.gunviolencearchive.org/incident/537825,"43.1183, -88.0061",4,NA,NA,NA,NA
+2016-04-10,0,4,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/537820,"33.9628, -118.267",43,NA,NA,NA,NA
+2016-04-09,0,4,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/537311,"35.0724, -89.8635",9,NA,NA,NA,NA
+2016-04-09,0,4,4,Alabama,Anniston,http://www.gunviolencearchive.org/incident/539705,"33.6636, -85.8501",3,NA,NA,NA,NA
+2016-04-09,0,4,4,New Mexico,Albuquerque,http://www.gunviolencearchive.org/incident/537085,"35.0558, -106.627",1,NA,NA,NA,NA
+2016-04-07,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/535927,"41.7674, -87.5709",2,NA,NA,NA,NA
+2016-03-31,0,4,4,Illinois,Chicago (Englewood),http://www.gunviolencearchive.org/incident/532604,"41.7704, -87.657",7,NA,NA,NA,NA
+2016-03-25,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/528614,"41.8832, -87.738",7,NA,NA,NA,NA
+2016-03-25,0,4,4,Colorado,Denver,http://www.gunviolencearchive.org/incident/529488,"39.7123, -104.89",1,NA,NA,NA,NA
+2016-03-21,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/526380,"41.8824, -87.7687",7,NA,NA,NA,NA
+2016-03-19,1,4,5,Florida,Plantation,http://www.gunviolencearchive.org/incident/525464,"26.125, -80.3096",22,NA,NA,NA,NA
+2016-03-19,2,2,4,Alabama,Wetumpka,http://www.gunviolencearchive.org/incident/525301,"32.5382, -86.214",2,NA,NA,NA,NA
+2016-03-15,0,5,5,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/523044,"33.7766, -84.4565",5,NA,NA,NA,NA
+2016-03-13,0,4,4,Florida,Fort Myers,http://www.gunviolencearchive.org/incident/522122,"26.5769, -81.8674",19,NA,NA,NA,NA
+2016-03-12,0,4,4,Oregon,Portland,http://www.gunviolencearchive.org/incident/521821,"45.5191, -122.497",3,NA,NA,NA,NA
+2016-03-12,0,4,4,California,Oakland,http://www.gunviolencearchive.org/incident/521074,"37.7765, -122.236",13,NA,NA,NA,NA
+2016-03-11,2,2,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/520767,"42.3715, -83.1075",13,NA,Handgun,NA,NA
+2016-03-11,0,5,5,New Jersey,Trenton,http://www.gunviolencearchive.org/incident/520290,"40.2386, -74.777",12,NA,NA,NA,NA
+2016-03-09,5,3,8,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/519541,"40.4385, -79.8722",14,AR-15,NA,NA,40 SW
+2016-03-08,2,3,5,Texas,San Antonio,http://www.gunviolencearchive.org/incident/518266,"29.434, -98.4642",35,NA,NA,NA,NA
+2016-03-07,0,4,4,Louisiana,Lafayette,http://www.gunviolencearchive.org/incident/517895,"30.2496, -92.0248",3,NA,NA,NA,NA
+2016-03-07,5,0,5,Kansas,Kansas City,http://www.gunviolencearchive.org/incident/518436,"39.0476, -94.6699",3,AK-47,NA,NA,NA
+2016-03-06,1,6,7,Massachusetts,Chelsea,http://www.gunviolencearchive.org/incident/517058,"42.397, -71.0318",7,NA,NA,NA,NA
+2016-03-06,0,4,4,Georgia,Roswell,http://www.gunviolencearchive.org/incident/517114,"34.0228, -84.3619",6,NA,NA,NA,NA
+2016-03-06,1,8,9,California,Compton,http://www.gunviolencearchive.org/incident/517073,"33.8678, -118.239",44,NA,NA,NA,NA
+2016-03-05,0,4,4,Kansas,Wichita,http://www.gunviolencearchive.org/incident/516758,"37.6856, -97.3287",4,NA,NA,NA,NA
+2016-03-04,1,3,4,Ohio,Columbus,http://www.gunviolencearchive.org/incident/516341,"39.9864, -82.9801",3,NA,NA,NA,NA
+2016-02-28,0,5,5,Michigan,Detroit,http://www.gunviolencearchive.org/incident/513549,"42.3594, -83.1384",13,NA,NA,NA,NA
+2016-02-28,1,3,4,California,Riverside (Jurupa Valley),http://www.gunviolencearchive.org/incident/513640,"33.9882, -117.523",41,NA,NA,NA,NA
+2016-02-27,2,2,4,Virginia,Woodbridge (Lake Ridge),http://www.gunviolencearchive.org/incident/512880,"38.6697, -77.3524",11,NA,NA,NA,NA
+2016-02-26,5,0,5,Washington,Belfair,http://www.gunviolencearchive.org/incident/512073,"47.5033, -122.931",6,NA,handgun,NA,380 Auto
+2016-02-25,4,14,18,Kansas,Hesston,http://www.gunviolencearchive.org/incident/511436,"38.1368, -97.4268",4,AR-15,NA,NA,40 SW
+2016-02-23,5,0,5,Arizona,Glendale,http://www.gunviolencearchive.org/incident/509897,"33.5927, -112.163",8,NA,NA,NA,NA
+2016-02-23,0,4,4,Florida,Daytona Beach,http://www.gunviolencearchive.org/incident/510769,"29.2089, -81.0451",6,AK-47,Handgun,NA,NA
+2016-02-21,1,3,4,Missouri,Hazelwood,http://www.gunviolencearchive.org/incident/508879,"38.7736, -90.3626",1,NA,NA,NA,NA
+2016-02-21,0,5,5,Texas,Houston,http://www.gunviolencearchive.org/incident/509707,"29.6872, -95.3438",18,NA,NA,NA,NA
+2016-02-20,1,3,4,Florida,Tampa,http://www.gunviolencearchive.org/incident/508341,"28.0805, -82.4283",15,NA,NA,NA,NA
+2016-02-20,6,2,8,Michigan,Kalamazoo,http://www.gunviolencearchive.org/incident/508640,"42.2354, -85.676",6,NA,NA,9mm,9mm
+2016-02-20,2,3,5,Mississippi,Iuka,http://www.gunviolencearchive.org/incident/508113,"34.7543, -88.1406",1,NA,NA,NA,NA
+2016-02-20,1,3,4,Alabama,Bessemer,http://www.gunviolencearchive.org/incident/508356,"33.3731, -86.9759",7,NA,Handgun,NA,NA
+2016-02-20,0,4,4,Florida,Orlando,http://www.gunviolencearchive.org/incident/508510,"28.537, -81.389",5,NA,NA,NA,NA
+2016-02-19,4,0,4,Missouri,Edgerton,http://www.gunviolencearchive.org/incident/590221,"39.4922, -94.6372",6,NA,NA,NA,NA
+2016-02-19,1,3,4,California,Vallejo,http://www.gunviolencearchive.org/incident/507998,"38.0883, -122.245",5,NA,NA,NA,NA
+2016-02-14,1,3,4,Texas,Houston,http://www.gunviolencearchive.org/incident/504879,"29.6742, -95.2657",29,NA,Handgun,NA,NA
+2016-02-14,0,5,5,Alabama,Eutaw (Union),http://www.gunviolencearchive.org/incident/505420,"32.9921, -87.9156",7,NA,NA,NA,NA
+2016-02-13,0,4,4,Louisiana,Marrero,http://www.gunviolencearchive.org/incident/504996,"29.8773, -90.1087",2,NA,NA,9mm,9mm
+2016-02-07,2,4,6,Mississippi,Pass Christian,http://www.gunviolencearchive.org/incident/501256,"30.3226, -89.2447",4,NA,NA,NA,NA
+2016-02-07,2,10,12,Florida,Orlando,http://www.gunviolencearchive.org/incident/501233,"28.4541, -81.4646",10,NA,NA,NA,NA
+2016-02-07,1,7,8,New York,Rochester,http://www.gunviolencearchive.org/incident/501168,"43.1634, -77.622",25,NA,NA,9mm,9mm
+2016-02-07,0,4,4,Illinois,Chicago (Englewood),http://www.gunviolencearchive.org/incident/501349,"41.776, -87.6462",1,NA,NA,NA,NA
+2016-02-06,1,3,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/501267,"33.9164, -118.271",44,NA,NA,NA,NA
+2016-02-06,0,4,4,Florida,Apopka,http://www.gunviolencearchive.org/incident/500629,"28.6658, -81.5031",5,NA,NA,NA,NA
+2016-02-06,2,6,8,Florida,Tampa,http://www.gunviolencearchive.org/incident/500556,"28.0216, -82.4512",14,NA,NA,NA,NA
+2016-02-03,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/499422,"38.8612, -76.9839",1,NA,NA,NA,NA
+2016-01-30,3,5,8,Arizona,Glendale,http://www.gunviolencearchive.org/incident/495940,"33.5166, -112.203",7,NA,NA,NA,NA
+2016-01-27,6,0,6,Virginia,Chesapeake,http://www.gunviolencearchive.org/incident/494378,"36.7921, -76.3293",4,NA,NA,NA,NA
+2016-01-26,2,3,5,Washington,Seattle,http://www.gunviolencearchive.org/incident/493536,"47.5903, -122.323",7,NA,NA,NA,45 Auto
+2016-01-25,1,4,5,California,Perris,http://www.gunviolencearchive.org/incident/493085,"33.7849, -117.229",41,NA,NA,NA,NA
+2016-01-23,2,2,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/491312,"33.9655, -118.265",40,AR-15,NA,NA,NA
+2016-01-17,1,3,4,Virginia,Ware Neck (Gloucester Courthouse),http://www.gunviolencearchive.org/incident/486728,"37.4001, -76.4373",1,NA,NA,NA,NA
+2016-01-11,1,4,5,Delaware,Wilmington,http://www.gunviolencearchive.org/incident/483750,"39.7351, -75.5672",1,NA,NA,NA,NA
+2016-01-08,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/481849,"38.8904, -76.9799",1,NA,NA,NA,NA
+2016-01-08,1,4,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/481900,"41.8609, -87.7055",7,NA,NA,NA,NA
+2016-01-07,1,3,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/481429,"35.2336, -89.9363",9,NA,NA,NA,NA
+2016-01-06,3,1,4,Florida,Lakeland,http://www.gunviolencearchive.org/incident/479613,"28.0503, -81.9133",15,NA,NA,NA,NA
+2017-12-31,2,6,8,Colorado,Littleton (Highlands Ranch),http://www.gunviolencearchive.org/incident/1017372,"39.566, -104.945",6,AR-15,NA,NA,NA
+2017-12-31,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/1017422,"42.0194, -87.6892",9,NA,NA,NA,NA
+2017-12-31,4,0,4,New Jersey,Long Branch,http://www.gunviolencearchive.org/incident/1018118,"40.2927, -74.0028",6,AR-15,NA,NA,NA
+2017-12-27,2,2,4,Nevada,Las Vegas,http://www.gunviolencearchive.org/incident/1015666,"36.1754, -115.094",1,NA,NA,NA,NA
+2017-12-26,0,5,5,Florida,Miami,http://www.gunviolencearchive.org/incident/1015336,"25.8533, -80.2277",24,NA,NA,NA,NA
+2017-12-24,0,5,5,Mississippi,Vicksburg,http://www.gunviolencearchive.org/incident/1013983,"32.3517, -90.8828",2,NA,NA,NA,NA
+2017-12-24,1,4,5,Alabama,Troy,http://www.gunviolencearchive.org/incident/1014052,"31.809, -85.96",2,NA,handgun,NA,NA
+2017-12-23,1,3,4,Louisiana,Eunice,http://www.gunviolencearchive.org/incident/1014971,"30.4941, -92.4153",4,NA,NA,NA,NA
+2017-12-23,0,4,4,Alabama,Birmingham,http://www.gunviolencearchive.org/incident/1013377,"33.5091, -86.822",7,NA,NA,NA,NA
+2017-12-21,0,4,4,Louisiana,Lafayette,http://www.gunviolencearchive.org/incident/1012704,"30.2493, -92.0348",3,NA,NA,NA,NA
+2017-12-21,1,3,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/1011953,"39.9181, -75.228",NA,NA,NA,NA,NA
+2017-12-16,0,4,4,Mississippi,Mc Cool (Mccool),http://www.gunviolencearchive.org/incident/1009629,"33.1716, -89.4366",2,NA,NA,NA,NA
+2017-12-15,0,5,5,California,Pacoima,http://www.gunviolencearchive.org/incident/1008310,"34.2659, -118.417",29,AR-15,NA,NA,NA
+2017-12-13,1,3,4,Ohio,Columbus,http://www.gunviolencearchive.org/incident/1007054,"39.9241, -82.99",3,NA,NA,NA,NA
+2017-12-12,0,4,4,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/1006150,"38.2389, -85.7836",3,NA,NA,NA,NA
+2017-12-12,0,4,4,Texas,Garland,http://www.gunviolencearchive.org/incident/1006446,"32.9244, -96.606",32,NA,NA,NA,NA
+2017-12-09,0,4,4,Massachusetts,Boston,http://www.gunviolencearchive.org/incident/1004454,"42.327, -71.0691",7,NA,NA,NA,NA
+2017-12-06,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/1002514,"41.9663, -87.6581",9,NA,NA,NA,NA
+2017-12-04,2,2,4,Pennsylvania,Pittsburgh,http://www.gunviolencearchive.org/incident/1001566,"40.4632, -79.8935",14,NA,NA,NA,NA
+2017-12-03,1,3,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/1000479,"35.1402, -90.039",9,NA,NA,NA,NA
+2017-12-02,0,4,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/999969,"42.3586, -83.0654",13,NA,NA,NA,NA
+2017-11-30,1,4,5,Michigan,Detroit,http://www.gunviolencearchive.org/incident/998843,"42.4081, -82.9936",14,NA,NA,NA,NA
+2017-11-24,1,5,6,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/995015,"41.4807, -81.6025",11,NA,NA,NA,NA
+2017-11-24,1,6,7,Mississippi,Brookhaven,http://www.gunviolencearchive.org/incident/994323,"31.5732, -90.4432",3,NA,NA,NA,NA
+2017-11-18,0,4,4,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/991017,"45.0205, -93.294",NA,NA,NA,NA,NA
+2017-11-17,0,4,4,Louisiana,New Iberia,http://www.gunviolencearchive.org/incident/990974,"30.0113, -91.8413",3,NA,NA,NA,NA
+2017-11-16,0,7,7,Georgia,Columbus,http://www.gunviolencearchive.org/incident/989838,"32.4742, -84.9713",2,NA,NA,NA,NA
+2017-11-14,6,12,18,California,Corning,http://www.gunviolencearchive.org/incident/987611,"40.0187, -122.393",1,AR-15,NA,NA,45 Auto
+2017-11-14,2,2,4,California,Richmond,http://www.gunviolencearchive.org/incident/988824,"37.9779, -122.314",11,NA,NA,NA,NA
+2017-11-12,0,7,7,Indiana,Gary,http://www.gunviolencearchive.org/incident/986236,"41.595, -87.2835",1,NA,NA,NA,NA
+2017-11-12,0,5,5,California,Fresno,http://www.gunviolencearchive.org/incident/987134,"36.6823, -119.735",21,NA,NA,NA,NA
+2017-11-12,2,2,4,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/986816,"33.7537, -84.3905",5,NA,NA,NA,NA
+2017-11-11,1,3,4,Texas,Dallas,http://www.gunviolencearchive.org/incident/985582,"32.7663, -96.7715",30,NA,NA,NA,NA
+2017-11-11,1,5,6,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/986092,"29.9603, -90.0221",NA,NA,NA,NA,NA
+2017-11-11,1,5,6,North Carolina,Fayetteville,http://www.gunviolencearchive.org/incident/985832,"35.0736, -78.9269",8,NA,NA,NA,NA
+2017-11-10,0,4,4,Ohio,Dayton (Trotwood),http://www.gunviolencearchive.org/incident/984822,"39.749, -84.2923",10,NA,NA,NA,NA
+2017-11-09,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/984455,"39.9824, -75.1743",2,NA,NA,NA,NA
+2017-11-05,27,20,47,Texas,Sutherland Springs,http://www.gunviolencearchive.org/incident/980577,"29.2733, -98.0564",28,AR-15,NA,9mm,9mm
+2017-11-04,0,4,4,Texas,Austin,http://www.gunviolencearchive.org/incident/980269,"30.3712, -97.6924",35,AR-15,NA,NA,NA
+2017-11-04,0,4,4,Ohio,Youngstown,http://www.gunviolencearchive.org/incident/980192,"41.071, -80.6579",13,NA,NA,NA,NA
+2017-11-04,1,3,4,California,Santa Monica,http://www.gunviolencearchive.org/incident/980060,"34.0125, -118.496",33,NA,NA,NA,NA
+2017-11-03,0,4,4,Minnesota,Minneapolis,http://www.gunviolencearchive.org/incident/979651,"44.9591, -93.26",NA,NA,NA,NA,NA
+2017-11-03,0,4,4,California,Gardena,http://www.gunviolencearchive.org/incident/980258,"33.8839, -118.276",44,NA,NA,NA,NA
+2017-11-03,0,4,4,New York,Buffalo,http://www.gunviolencearchive.org/incident/980004,"42.9336, -78.808",26,NA,NA,NA,NA
+2017-11-03,1,4,5,Louisiana,Lacombe,http://www.gunviolencearchive.org/incident/980401,"30.3093, -89.9429",1,NA,NA,NA,NA
+2017-10-29,1,3,4,Texas,Austin,http://www.gunviolencearchive.org/incident/975600,"30.3201, -97.7199",10,NA,NA,NA,NA
+2017-10-28,0,4,4,Ohio,Toledo,http://www.gunviolencearchive.org/incident/975817,"41.6613, -83.5227",9,NA,NA,NA,NA
+2017-10-28,1,3,4,Virginia,Petersburg,http://www.gunviolencearchive.org/incident/974704,"37.2285, -77.4036",4,NA,NA,NA,NA
+2017-10-27,0,6,6,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/974051,"38.2409, -85.7836",3,NA,NA,NA,NA
+2017-10-27,0,4,4,California,San Francisco,http://www.gunviolencearchive.org/incident/974411,"37.7799, -122.432",12,NA,NA,NA,NA
+2017-10-23,2,2,4,California,Clearlake Oaks,http://www.gunviolencearchive.org/incident/966895,NA,NA,NA,Handgun,NA,NA
+2017-10-22,0,4,4,Connecticut,Hartford,http://www.gunviolencearchive.org/incident/966153,"41.7464, -72.6733",1,NA,NA,NA,NA
+2017-10-22,2,7,9,Alabama,Lanett,http://www.gunviolencearchive.org/incident/966178,"32.8489, -85.2056",3,NA,NA,NA,40 SW
+2017-10-21,0,4,4,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/965077,"30.4847, -81.6222",4,NA,NA,NA,NA
+2017-10-21,0,4,4,Tennessee,Nashville,http://www.gunviolencearchive.org/incident/965756,"36.1408, -86.7875",5,NA,NA,NA,NA
+2017-10-21,0,4,4,Pennsylvania,Chester,http://www.gunviolencearchive.org/incident/965251,"39.8471, -75.3826",NA,AR-15,Handgun,NA,NA
+2017-10-21,0,4,4,Florida,Tampa,http://www.gunviolencearchive.org/incident/965066,"27.9782, -82.4566",NA,NA,NA,NA,NA
+2017-10-18,3,3,6,Maryland,Edgewood,http://www.gunviolencearchive.org/incident/962359,"39.452, -76.31",NA,NA,handgun,NA,380 Auto
+2017-10-17,0,4,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/962155,"40.6516, -73.9527",9,NA,NA,NA,NA
+2017-10-16,1,3,4,Mississippi,Meridian,http://www.gunviolencearchive.org/incident/962623,"32.3606, -88.7168",3,NA,NA,NA,NA
+2017-10-15,2,2,4,Texas,Houston,http://www.gunviolencearchive.org/incident/960036,"29.7162, -95.4917",7,NA,NA,NA,NA
+2017-10-15,1,3,4,Arizona,Phoenix,http://www.gunviolencearchive.org/incident/959126,"33.5082, -112.29",3,NA,NA,NA,NA
+2017-10-12,2,2,4,California,Aliso Viejo,http://www.gunviolencearchive.org/incident/957980,"33.5677, -117.736",48,NA,NA,NA,NA
+2017-10-11,4,0,4,Ohio,Pedro,http://www.gunviolencearchive.org/incident/957562,"38.7083, -82.6423",6,NA,NA,NA,NA
+2017-10-10,0,4,4,California,San Francisco,http://www.gunviolencearchive.org/incident/956942,"37.751, -122.413",12,NA,NA,NA,NA
+2017-10-09,0,5,5,Texas,Houston,http://www.gunviolencearchive.org/incident/955268,NA,NA,NA,NA,NA,NA
+2017-10-07,0,4,4,Arizona,Phoenix,http://www.gunviolencearchive.org/incident/954428,"33.4798, -112.246",3,NA,NA,NA,NA
+2017-10-06,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/953156,"41.7484, -87.6649",1,NA,NA,NA,NA
+2017-10-05,4,0,4,Arizona,Casa Grande,http://www.gunviolencearchive.org/incident/952720,"32.8854, -111.757",1,NA,NA,NA,NA
+2017-10-03,0,4,4,Florida,Miami,http://www.gunviolencearchive.org/incident/952220,"25.834, -80.2305",24,NA,NA,NA,NA
+2017-10-01,3,2,5,Kansas,Lawrence,http://www.gunviolencearchive.org/incident/945990,"38.9655, -95.2357",2,NA,NA,NA,NA
+2017-09-30,1,3,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/946138,"35.1072, -90.0359",9,NA,NA,NA,NA
+2017-09-28,1,3,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/944448,"29.9814, -90.0643",2,NA,NA,NA,NA
+2017-09-26,0,4,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/942522,"35.1742, -89.9727",9,NA,Handgun,NA,NA
+2017-09-26,2,2,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/942830,"39.3166, -76.5784",7,NA,NA,NA,NA
+2017-09-26,1,3,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/942628,"40.0433, -75.1775",2,NA,NA,NA,NA
+2017-09-24,0,4,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/941144,"39.2367, -76.6037",2,NA,NA,NA,NA
+2017-09-24,1,3,4,New Jersey,Mays Landing,http://www.gunviolencearchive.org/incident/941257,NA,NA,NA,NA,NA,NA
+2017-09-24,1,8,9,Tennessee,Antioch,http://www.gunviolencearchive.org/incident/940554,"36.0465, -86.583",5,NA,NA,NA,22 LR
+2017-09-24,0,4,4,New York,Syracuse,http://www.gunviolencearchive.org/incident/940644,"43.0483, -76.1317",24,NA,Handgun,NA,NA
+2017-09-23,1,4,5,California,Bakersfield,http://www.gunviolencearchive.org/incident/939834,"35.3658, -119.042",23,NA,NA,NA,NA
+2017-09-23,0,5,5,Illinois,Danville,http://www.gunviolencearchive.org/incident/940068,"40.1303, -87.6273",15,NA,NA,NA,NA
+2017-09-23,2,2,4,Connecticut,Hartford,http://www.gunviolencearchive.org/incident/940142,"41.782, -72.6954",1,NA,NA,NA,NA
+2017-09-20,0,5,5,Indiana,Gary,http://www.gunviolencearchive.org/incident/939482,"41.5755, -87.3906",1,NA,NA,NA,NA
+2017-09-17,1,3,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/936028,"42.3498, -83.0905",13,NA,NA,NA,NA
+2017-09-17,1,4,5,Virginia,Petersburg,http://www.gunviolencearchive.org/incident/935928,"37.2166, -77.4053",4,NA,NA,NA,NA
+2017-09-16,0,8,8,South Carolina,Columbia,http://www.gunviolencearchive.org/incident/934036,"34.0012, -81.0383",6,NA,NA,NA,NA
+2017-09-13,1,3,4,Washington,Rockford,http://www.gunviolencearchive.org/incident/932181,"47.5164, -117.193",5,AR-15,Handgun,NA,NA
+2017-09-13,0,4,4,Pennsylvania,York,http://www.gunviolencearchive.org/incident/932906,"39.9574, -76.7231",4,NA,NA,NA,NA
+2017-09-13,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/932619,"39.9973, -75.1332",1,NA,NA,NA,NA
+2017-09-13,1,5,6,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/932526,"35.168, -90.0251",9,NA,NA,NA,NA
+2017-09-10,1,3,4,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/930266,"29.9736, -90.0584",2,NA,NA,NA,NA
+2017-09-10,9,1,10,Texas,Plano,http://www.gunviolencearchive.org/incident/930569,"33.056, -96.7261",3,NA,NA,NA,NA
+2017-09-09,0,4,4,Alabama,Selma,http://www.gunviolencearchive.org/incident/931139,"32.3945, -87.0287",7,NA,NA,NA,NA
+2017-09-06,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/928380,"41.8814, -87.6941",7,NA,NA,NA,NA
+2017-09-04,0,4,4,Illinois,Bellwood,http://www.gunviolencearchive.org/incident/927277,"41.8742, -87.8784",7,NA,NA,NA,NA
+2017-09-03,2,3,5,California,Inglewood,http://www.gunviolencearchive.org/incident/926766,"33.9444, -118.357",43,NA,NA,NA,NA
+2017-09-02,0,4,4,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/925809,"38.1806, -85.6219",3,NA,NA,NA,NA
+2017-09-02,1,3,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/925436,"41.7428, -87.6672",1,NA,NA,NA,NA
+2017-08-28,2,4,6,New Mexico,Clovis,http://www.gunviolencearchive.org/incident/922184,"34.4047, -103.205",3,NA,Handgun,NA,NA
+2017-08-27,1,4,5,California,Sacramento,http://www.gunviolencearchive.org/incident/921733,"38.4751, -121.482",NA,NA,NA,NA,NA
+2017-08-27,1,3,4,Indiana,Evansville,http://www.gunviolencearchive.org/incident/921653,"37.9729, -87.5612",8,NA,NA,NA,NA
+2017-08-25,0,4,4,Florida,Gainesville,http://www.gunviolencearchive.org/incident/921289,NA,NA,NA,NA,NA,NA
+2017-08-24,4,0,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/920513,"38.754, -90.201",1,NA,NA,NA,NA
+2017-08-22,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/918204,"41.8859, -87.7655",7,NA,NA,NA,NA
+2017-08-21,0,4,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/917793,"40.7154, -74.2221",10,NA,NA,NA,NA
+2017-08-21,1,3,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/918061,"40.7324, -74.2122",10,NA,NA,NA,NA
+2017-08-21,1,3,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/917713,"39.3273, -76.6575",7,NA,NA,NA,NA
+2017-08-21,4,0,4,North Carolina,Whitakers,http://www.gunviolencearchive.org/incident/917820,"36.1688, -77.8286",1,NA,NA,NA,NA
+2017-08-21,0,4,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/917838,"35.1475, -90.0259",9,NA,NA,NA,NA
+2017-08-20,2,5,7,Illinois,Chicago,http://www.gunviolencearchive.org/incident/916848,"41.6776, -87.6564",1,NA,NA,NA,NA
+2017-08-20,0,4,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/916808,"40.6386, -73.891",8,NA,NA,NA,NA
+2017-08-19,1,4,5,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/916551,"41.5228, -81.6076",11,AR-15,Handgun,NA,NA
+2017-08-16,0,4,4,New York,Wyandanch,http://www.gunviolencearchive.org/incident/914819,"40.7544, -73.3613",2,NA,NA,NA,NA
+2017-08-14,2,2,4,California,North Hollywood,http://www.gunviolencearchive.org/incident/913924,"34.1608, -118.376",29,NA,NA,NA,NA
+2017-08-13,0,4,4,California,Sacramento,http://www.gunviolencearchive.org/incident/912322,"38.5384, -121.465",6,NA,NA,NA,NA
+2017-08-13,0,4,4,Virginia,Suffolk,http://www.gunviolencearchive.org/incident/912375,"36.6524, -76.8394",4,NA,NA,NA,NA
+2017-08-13,0,5,5,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/912805,"39.9649, -75.2",2,NA,NA,NA,NA
+2017-08-12,1,3,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/912093,"38.7966, -90.2127",1,NA,NA,NA,NA
+2017-08-08,1,6,7,Illinois,Chicago,http://www.gunviolencearchive.org/incident/909423,"41.8274, -87.6264",7,NA,NA,NA,NA
+2017-08-06,0,6,6,New York,Bronx,http://www.gunviolencearchive.org/incident/907555,"40.8942, -73.8489",16,NA,NA,NA,NA
+2017-08-06,0,4,4,New York,Bronx,http://www.gunviolencearchive.org/incident/907546,"40.8413, -73.8634",14,NA,NA,NA,NA
+2017-08-06,0,7,7,California,Oakland,http://www.gunviolencearchive.org/incident/907857,"37.7358, -122.172",13,NA,NA,NA,NA
+2017-08-05,0,4,4,New Jersey,Lakewood,http://www.gunviolencearchive.org/incident/907247,"40.1021, -74.1892",4,NA,NA,NA,NA
+2017-08-05,1,3,4,South Carolina,Allendale,http://www.gunviolencearchive.org/incident/907611,"33.0022, -81.296",6,NA,NA,NA,NA
+2017-08-05,1,3,4,Florida,Tallahassee,http://www.gunviolencearchive.org/incident/906568,"30.4482, -84.3158",2,NA,NA,NA,NA
+2017-08-04,3,2,5,Montana,Lodge Grass,http://www.gunviolencearchive.org/incident/906509,"45.3162, -107.365",1,NA,NA,NA,NA
+2017-08-03,1,3,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/906126,"38.9324, -76.9796",1,NA,NA,NA,NA
+2017-08-02,0,4,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/904329,"39.3019, -76.5946",7,NA,NA,NA,NA
+2017-08-01,0,6,6,Washington,Toppenish,http://www.gunviolencearchive.org/incident/904106,"46.3607, -120.523",4,NA,NA,NA,NA
+2017-08-01,0,7,7,California,Fresno,http://www.gunviolencearchive.org/incident/904026,"36.7278, -119.801",16,NA,NA,NA,NA
+2017-08-01,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/903853,"41.8954, -87.7175",7,NA,NA,NA,NA
+2017-07-31,0,4,4,Illinois,Decatur,http://www.gunviolencearchive.org/incident/903090,"39.8418, -88.9404",13,NA,NA,NA,NA
+2017-07-30,1,5,6,Virginia,Norfolk,http://www.gunviolencearchive.org/incident/901549,NA,NA,NA,NA,NA,NA
+2017-07-30,1,3,4,Texas,El Paso,http://www.gunviolencearchive.org/incident/902187,"31.7653, -106.302",16,NA,NA,NA,NA
+2017-07-29,1,4,5,New York,Buffalo,http://www.gunviolencearchive.org/incident/901083,"42.9201, -78.8282",26,NA,NA,NA,NA
+2017-07-29,2,3,5,North Carolina,Salisbury,http://www.gunviolencearchive.org/incident/901000,"35.6666, -80.4713",12,NA,NA,NA,NA
+2017-07-28,0,4,4,Delaware,Wilmington,http://www.gunviolencearchive.org/incident/900963,"39.742, -75.5553",1,NA,NA,NA,NA
+2017-07-27,1,4,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/900387,"41.7664, -87.5759",2,NA,NA,NA,NA
+2017-07-26,1,6,7,North Carolina,High Point,http://www.gunviolencearchive.org/incident/898631,"35.9534, -79.9812",12,NA,NA,NA,NA
+2017-07-25,1,3,4,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/898448,"30.3644, -81.6703",5,NA,NA,NA,NA
+2017-07-23,1,3,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/896444,"41.746, -87.5882",1,NA,NA,NA,NA
+2017-07-23,0,4,4,Louisiana,Baton Rouge,http://www.gunviolencearchive.org/incident/896889,"30.5386, -91.1971",2,NA,NA,NA,NA
+2017-07-22,0,5,5,Ohio,Cincinnati,http://www.gunviolencearchive.org/incident/896149,"39.116, -84.5145",1,NA,NA,NA,NA
+2017-07-19,0,5,5,Virginia,Richmond,http://www.gunviolencearchive.org/incident/893690,"37.5551, -77.4186",3,NA,NA,NA,NA
+2017-07-19,1,3,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/894504,"33.931, -118.278",43,NA,NA,NA,NA
+2017-07-18,1,3,4,New Jersey,Trenton,http://www.gunviolencearchive.org/incident/893712,"40.2081, -74.7437",12,NA,NA,NA,NA
+2017-07-18,0,4,4,Wisconsin,Milwaukee,http://www.gunviolencearchive.org/incident/893726,"43.0734, -87.9621",4,NA,NA,NA,NA
+2017-07-18,0,4,4,Arizona,El Mirage,http://www.gunviolencearchive.org/incident/893752,"33.6089, -112.312",8,NA,NA,NA,NA
+2017-07-15,1,3,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/891291,"39.9432, -75.1774",2,NA,NA,NA,NA
+2017-07-15,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/891092,"41.672, -87.6539",1,NA,NA,NA,NA
+2017-07-09,0,7,7,Virginia,Lawrenceville,http://www.gunviolencearchive.org/incident/886564,"36.8119, -77.7709",5,NA,NA,NA,NA
+2017-07-08,0,4,4,Illinois,Alton,http://www.gunviolencearchive.org/incident/886002,"38.9178, -90.1739",12,NA,NA,NA,NA
+2017-07-08,1,8,9,Ohio,Cincinnati,http://www.gunviolencearchive.org/incident/886220,"39.2542, -84.5966",1,NA,NA,NA,NA
+2017-07-06,0,4,4,Mississippi,Meridian,http://www.gunviolencearchive.org/incident/884764,"32.3817, -88.6865",3,AR-15,NA,NA,NA
+2017-07-05,0,4,4,Georgia,Savannah,http://www.gunviolencearchive.org/incident/883052,"32.0808, -81.095",1,NA,NA,NA,NA
+2017-07-05,2,2,4,Illinois,Chicago (Roseland),http://www.gunviolencearchive.org/incident/883282,"41.6945, -87.611",2,NA,NA,NA,NA
+2017-07-05,4,1,5,Maine,Madison,http://www.gunviolencearchive.org/incident/883058,"44.7906, -69.7873",2,NA,NA,NA,NA
+2017-07-04,0,4,4,Florida,Orlando (Pine Castle),http://www.gunviolencearchive.org/incident/882665,"28.4655, -81.3831",10,NA,NA,NA,NA
+2017-07-04,1,4,5,Virginia,Hampton,http://www.gunviolencearchive.org/incident/882321,"37.0325, -76.3606",3,NA,NA,NA,NA
+2017-07-04,1,3,4,North Carolina,Raleigh,http://www.gunviolencearchive.org/incident/883489,"35.7722, -78.6382",4,NA,NA,NA,NA
+2017-07-03,3,1,4,Alabama,Prattville,http://www.gunviolencearchive.org/incident/882422,"32.4381, -86.4725",2,NA,NA,NA,NA
+2017-07-03,1,3,4,Michigan,Pontiac,http://www.gunviolencearchive.org/incident/881921,"42.6371, -83.3116",14,NA,NA,NA,NA
+2017-07-02,0,4,4,New Jersey,Jersey City,http://www.gunviolencearchive.org/incident/881700,"40.7063, -74.0804",10,NA,NA,NA,NA
+2017-07-02,0,4,4,South Carolina,Greenwood,http://www.gunviolencearchive.org/incident/880738,"34.1953, -82.1618",3,NA,NA,NA,NA
+2017-07-01,0,4,4,Illinois,Momence,http://www.gunviolencearchive.org/incident/883656,"41.0853, -87.62",2,NA,NA,NA,NA
+2017-07-01,2,2,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/880808,"40.7259, -74.1796",8,NA,NA,NA,NA
+2017-07-01,0,4,4,California,Oakland,http://www.gunviolencearchive.org/incident/880813,"37.7921, -122.207",13,NA,NA,NA,NA
+2017-07-01,0,25,25,Arkansas,Little Rock,http://www.gunviolencearchive.org/incident/879953,"34.7434, -92.2727",2,NA,NA,NA,40 SW
+2017-06-30,2,6,8,New York,Bronx,http://www.gunviolencearchive.org/incident/879412,"40.8435, -73.911",15,AR-15,NA,NA,NA
+2017-06-27,0,5,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/877295,"41.8783, -87.7618",7,NA,NA,NA,NA
+2017-06-25,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/876010,"38.8885, -76.915",1,NA,NA,NA,NA
+2017-06-25,1,3,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/875886,"38.6886, -90.242",1,NA,NA,NA,NA
+2017-06-24,1,4,5,Florida,Fort Lauderdale,http://www.gunviolencearchive.org/incident/874613,"26.1468, -80.1721",20,NA,NA,NA,NA
+2017-06-24,0,5,5,New York,New York (Manhattan),http://www.gunviolencearchive.org/incident/875322,"40.8037, -73.9578",13,NA,NA,NA,NA
+2017-06-24,0,4,4,New Jersey,Willingboro,http://www.gunviolencearchive.org/incident/876076,"40.0326, -74.8963",3,NA,NA,NA,NA
+2017-06-22,1,6,7,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/873847,"33.7044, -84.4239",5,NA,NA,NA,NA
+2017-06-18,3,2,5,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/870095,"38.6443, -90.1942",1,NA,NA,NA,NA
+2017-06-18,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/870222,"38.8524, -76.9657",1,NA,NA,NA,NA
+2017-06-18,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/869877,"41.904, -87.7094",4,NA,NA,NA,NA
+2017-06-18,0,7,7,South Carolina,Myrtle Beach,http://www.gunviolencearchive.org/incident/869968,"33.6859, -78.8858",7,NA,NA,NA,NA
+2017-06-17,1,4,5,Ohio,Columbus,http://www.gunviolencearchive.org/incident/869357,"40.1015, -83.0127",12,NA,NA,NA,NA
+2017-06-17,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/869838,"41.8804, -87.7563",7,NA,NA,NA,NA
+2017-06-15,1,3,4,Virginia,Richmond,http://www.gunviolencearchive.org/incident/868042,"37.5903, -77.4465",4,NA,NA,NA,NA
+2017-06-15,5,0,5,New Mexico,La Madera,http://www.gunviolencearchive.org/incident/868363,"36.384, -106.041",3,NA,NA,NA,38 Spl
+2017-06-14,0,4,4,Ohio,Canton,http://www.gunviolencearchive.org/incident/868147,"40.8113, -81.3627",7,NA,NA,NA,NA
+2017-06-14,1,5,6,Virginia,Alexandria,http://www.gunviolencearchive.org/incident/866739,"38.8207, -77.0558",8,AR-15,handgun,9mm,9mm
+2017-06-14,4,2,6,California,San Francisco,http://www.gunviolencearchive.org/incident/866933,"37.7596, -122.405",12,AR-15,NA,NA,NA
+2017-06-13,0,4,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/866412,"39.3262, -76.6814",7,NA,NA,NA,NA
+2017-06-13,2,2,4,Maryland,Baltimore,http://www.gunviolencearchive.org/incident/866448,"39.3154, -76.6",7,NA,NA,NA,NA
+2017-06-13,0,4,4,Missouri,Saint Louis (University City),http://www.gunviolencearchive.org/incident/869474,"38.6692, -90.31",1,NA,NA,NA,NA
+2017-06-11,0,9,9,Illinois,Chicago,http://www.gunviolencearchive.org/incident/864743,"41.8633, -87.7082",7,NA,NA,NA,NA
+2017-06-11,0,4,4,Tennessee,Chattanooga,http://www.gunviolencearchive.org/incident/864852,"35.0803, -85.2137",3,NA,NA,NA,NA
+2017-06-11,0,4,4,Texas,Houston,http://www.gunviolencearchive.org/incident/865371,"30.032, -95.4374",18,NA,NA,NA,NA
+2017-06-10,0,4,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/865186,"35.131, -90.0311",9,NA,NA,NA,NA
+2017-06-09,2,5,7,Texas,Fort Worth,http://www.gunviolencearchive.org/incident/864370,"32.7209, -97.3157",33,NA,NA,NA,NA
+2017-06-08,0,6,6,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/863075,"29.9962, -90.0499",2,NA,NA,NA,NA
+2017-06-06,3,2,5,Utah,Sandy,http://www.gunviolencearchive.org/incident/861307,"40.5941, -111.826",3,NA,NA,NA,NA
+2017-06-05,6,0,6,Florida,Orlando,http://www.gunviolencearchive.org/incident/859875,"28.5799, -81.2934",7,NA,handgun,NA,NA
+2017-06-03,2,2,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/858810,"38.6665, -90.2672",1,NA,NA,NA,NA
+2017-06-03,3,2,5,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/858719,"29.9673, -90.1016",2,NA,NA,NA,NA
+2017-06-02,2,3,5,Texas,Laredo,http://www.gunviolencearchive.org/incident/858378,"27.5454, -99.4821",28,NA,NA,NA,NA
+2017-06-02,1,3,4,California,Los Angeles,http://www.gunviolencearchive.org/incident/858877,"33.9555, -118.278",43,NA,NA,NA,NA
+2017-06-01,3,1,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/857443,"38.6943, -90.2523",1,NA,NA,NA,NA
+2017-05-30,1,3,4,Ohio,Middletown,http://www.gunviolencearchive.org/incident/855764,"39.5003, -84.3512",8,NA,NA,NA,40 SW
+2017-05-29,1,3,4,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/855113,"38.2576, -85.7504",3,NA,NA,NA,NA
+2017-05-28,0,12,12,Alabama,Phenix City,http://www.gunviolencearchive.org/incident/853901,"32.4359, -84.9952",3,NA,NA,NA,NA
+2017-05-28,1,5,6,New Jersey,Paterson,http://www.gunviolencearchive.org/incident/853796,"40.9143, -74.1667",9,NA,NA,NA,NA
+2017-05-28,0,5,5,Mississippi,Moss Point,http://www.gunviolencearchive.org/incident/853920,"30.4348, -88.5388",4,NA,NA,NA,NA
+2017-05-27,0,4,4,New York,New York (Manhattan),http://www.gunviolencearchive.org/incident/853032,"40.7399, -74.0037",10,NA,NA,9mm,9mm
+2017-05-27,1,7,8,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/853119,"38.9111, -77.0122",1,NA,NA,NA,NA
+2017-05-27,8,1,9,Mississippi,Bogue Chitto,http://www.gunviolencearchive.org/incident/853756,"31.4109, -90.4609",3,NA,NA,NA,NA
+2017-05-26,0,4,4,Florida,Miami,http://www.gunviolencearchive.org/incident/852676,"25.926, -80.2458",24,NA,NA,NA,NA
+2017-05-21,1,3,4,Iowa,Des Moines,http://www.gunviolencearchive.org/incident/848680,"41.6382, -93.6792",3,NA,NA,NA,NA
+2017-05-21,0,4,4,Arizona,Mesa,http://www.gunviolencearchive.org/incident/849215,"33.4242, -111.754",5,NA,NA,NA,NA
+2017-05-20,0,10,10,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/848292,"39.9934, -75.1628",2,NA,NA,NA,NA
+2017-05-16,3,1,4,South Carolina,Ruffin,http://www.gunviolencearchive.org/incident/845364,"33.0044, -80.815",6,NA,NA,NA,NA
+2017-05-14,1,6,7,Arkansas,Jonesboro,http://www.gunviolencearchive.org/incident/843078,"35.8391, -90.705",1,NA,NA,NA,NA
+2017-05-14,0,5,5,Illinois,Dolton,http://www.gunviolencearchive.org/incident/843045,"41.6385, -87.6076",2,NA,NA,NA,NA
+2017-05-14,0,5,5,Florida,Avon Park,http://www.gunviolencearchive.org/incident/843172,"27.5847, -81.4981",17,NA,NA,NA,NA
+2017-05-14,0,4,4,Texas,Fort Worth,http://www.gunviolencearchive.org/incident/843590,"32.7356, -97.4672",12,NA,NA,NA,NA
+2017-05-10,1,3,4,New Jersey,Trenton,http://www.gunviolencearchive.org/incident/840339,"40.2097, -74.7595",12,NA,NA,NA,NA
+2017-05-09,3,1,4,Kansas,Kansas City,http://www.gunviolencearchive.org/incident/839846,"39.0793, -94.6328",3,NA,NA,NA,NA
+2017-05-07,2,8,10,Illinois,Chicago,http://www.gunviolencearchive.org/incident/838272,"41.8102, -87.6356",7,AR-15,NA,NA,NA
+2017-05-04,1,3,4,Michigan,Flint,http://www.gunviolencearchive.org/incident/835961,"43.0286, -83.7113",5,NA,NA,NA,NA
+2017-05-02,1,3,4,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/834832,"30.3585, -81.6823",5,NA,NA,NA,NA
+2017-05-01,2,3,5,Texas,Dallas,http://www.gunviolencearchive.org/incident/833152,"32.7864, -96.7407",30,AR-15,NA,NA,NA
+2017-04-30,2,6,8,California,San Diego,http://www.gunviolencearchive.org/incident/832679,"32.8716, -117.203",52,NA,NA,NA,45 Auto
+2017-04-30,4,1,5,Kansas,Topeka,http://www.gunviolencearchive.org/incident/832528,"39.0161, -95.728",2,NA,NA,9mm,04 SW
+2017-04-30,0,5,5,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/833128,"30.3914, -81.7169",5,NA,NA,NA,NA
+2017-04-30,1,5,6,South Carolina,Loris,http://www.gunviolencearchive.org/incident/832309,"34.1016, -78.9782",7,NA,NA,NA,NA
+2017-04-29,1,3,4,Maryland,Germantown,http://www.gunviolencearchive.org/incident/831667,"39.1506, -77.2658",6,NA,NA,NA,NA
+2017-04-29,1,3,4,California,Los Angeles (Boyle Heights),http://www.gunviolencearchive.org/incident/835459,"34.0579, -118.197",34,NA,NA,NA,NA
+2017-04-29,0,5,5,California,Sacramento,http://www.gunviolencearchive.org/incident/832290,"38.529, -121.466",6,NA,NA,NA,NA
+2017-04-29,1,5,6,California,Whittier,http://www.gunviolencearchive.org/incident/831800,"33.9442, -118.046",38,NA,NA,NA,NA
+2017-04-29,0,4,4,California,Compton,http://www.gunviolencearchive.org/incident/834788,"33.9029, -118.249",44,NA,NA,NA,NA
+2017-04-29,0,4,4,Virginia,Virginia Beach,http://www.gunviolencearchive.org/incident/832063,"36.8463, -75.9745",2,NA,NA,NA,NA
+2017-04-28,0,4,4,Pennsylvania,Chester,http://www.gunviolencearchive.org/incident/831201,"39.8635, -75.367",1,NA,NA,NA,NA
+2017-04-27,1,3,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/830984,"40.7456, -74.2344",10,NA,NA,NA,NA
+2017-04-26,0,4,4,Florida,Miami,http://www.gunviolencearchive.org/incident/829073,"25.5218, -80.4167",27,NA,Handgun,NA,NA
+2017-04-21,2,2,4,Florida,Palm Bay,http://www.gunviolencearchive.org/incident/825694,"28.0583, -80.5947",8,NA,Handgun,NA,NA
+2017-04-20,0,4,4,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/825111,"38.243, -85.7419",3,NA,NA,NA,NA
+2017-04-16,0,4,4,California,Vallejo,http://www.gunviolencearchive.org/incident/821667,"38.1208, -122.267",5,NA,NA,NA,NA
+2017-04-16,0,4,4,North Carolina,Elizabeth City,http://www.gunviolencearchive.org/incident/821723,"36.2918, -76.2209",1,NA,NA,NA,NA
+2017-04-16,0,9,9,Ohio,Columbus,http://www.gunviolencearchive.org/incident/821371,"40.0008, -82.9753",3,NA,NA,NA,NA
+2017-04-15,0,4,4,Illinois,Rock Falls,http://www.gunviolencearchive.org/incident/821640,"41.7805, -89.6948",17,NA,Handgun,NA,NA
+2017-04-15,0,4,4,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/820565,"39.7623, -86.1583",7,NA,handgun,NA,NA
+2017-04-15,0,6,6,Alabama,Birmingham,http://www.gunviolencearchive.org/incident/821400,"33.624, -86.6856",7,NA,NA,NA,NA
+2017-04-15,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/821055,"40.0394, -75.1168",13,NA,NA,NA,NA
+2017-04-15,0,4,4,Illinois,Harvey,http://www.gunviolencearchive.org/incident/821651,"41.6243, -87.6527",2,NA,NA,NA,NA
+2017-04-15,0,4,4,California,Banning,http://www.gunviolencearchive.org/incident/822750,"33.9335, -116.862",36,NA,NA,NA,NA
+2017-04-13,1,3,4,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/818932,"33.7536, -84.446",5,NA,NA,NA,NA
+2017-04-09,1,3,4,Texas,San Antonio,http://www.gunviolencearchive.org/incident/815227,"29.469, -98.5285",20,NA,NA,NA,NA
+2017-04-09,1,3,4,Indiana,Fort Wayne,http://www.gunviolencearchive.org/incident/815246,"41.1688, -85.166",3,NA,NA,NA,NA
+2017-04-07,3,1,4,North Carolina,Hickory,http://www.gunviolencearchive.org/incident/813877,"35.7659, -81.3056",5,NA,NA,NA,NA
+2017-04-07,5,0,5,Texas,Houston,http://www.gunviolencearchive.org/incident/813821,"29.6858, -95.3668",18,NA,NA,NA,NA
+2017-04-07,4,1,5,Minnesota,Saint Paul,http://www.gunviolencearchive.org/incident/813943,"44.9896, -93.0457",4,NA,NA,NA,NA
+2017-04-07,1,5,6,Illinois,Chicago,http://www.gunviolencearchive.org/incident/814094,"41.8877, -87.7658",7,NA,NA,NA,NA
+2017-04-06,1,3,4,Louisiana,Lake Charles,http://www.gunviolencearchive.org/incident/813028,"30.2112, -93.193",3,AR-15,NA,9mm,45 Auto
+2017-04-03,3,1,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/810756,"39.9717, -75.154",1,NA,NA,NA,NA
+2017-04-03,0,7,7,Texas,Lubbock,http://www.gunviolencearchive.org/incident/811089,"33.5453, -101.853",19,NA,Handgun,NA,NA
+2017-04-02,2,4,6,Illinois,Chicago,http://www.gunviolencearchive.org/incident/809978,"41.8757, -87.7131",7,NA,NA,NA,NA
+2017-04-02,0,5,5,Iowa,Des Moines,http://www.gunviolencearchive.org/incident/809683,"41.6163, -93.6469",3,NA,NA,NA,NA
+2017-04-01,0,5,5,California,Pittsburg,http://www.gunviolencearchive.org/incident/809815,"38.0053, -121.895",11,NA,NA,NA,NA
+2017-04-01,1,4,5,Florida,Tampa,http://www.gunviolencearchive.org/incident/809048,"27.9431, -82.4831",14,NA,NA,NA,NA
+2017-04-01,2,3,5,Oklahoma,Oklahoma City,http://www.gunviolencearchive.org/incident/809499,"35.5204, -97.5754",5,NA,NA,NA,NA
+2017-03-30,4,0,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/807618,"41.7601, -87.5583",2,NA,NA,NA,NA
+2017-03-27,2,4,6,Florida,Sanford,http://www.gunviolencearchive.org/incident/804115,"28.7912, -81.2819",7,AR-15,NA,NA,NA
+2017-03-26,2,4,6,Texas,Houston,http://www.gunviolencearchive.org/incident/803822,"29.9306, -95.3065",29,AR-15,NA,NA,NA
+2017-03-26,2,15,17,Ohio,Cincinnati,http://www.gunviolencearchive.org/incident/803054,"39.0943, -84.4286",2,NA,NA,9mm,25 Auto
+2017-03-26,2,2,4,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/803689,"41.4518, -81.6357",11,NA,NA,NA,NA
+2017-03-25,1,3,4,Michigan,Detroit,http://www.gunviolencearchive.org/incident/803460,"42.3613, -83.1208",13,NA,NA,NA,NA
+2017-03-25,1,4,5,Tennessee,Knoxville,http://www.gunviolencearchive.org/incident/802926,"35.9846, -83.9578",2,NA,NA,NA,NA
+2017-03-25,2,2,4,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/802837,"41.4882, -81.6334",11,NA,NA,NA,NA
+2017-03-24,1,4,5,California,Fresno,http://www.gunviolencearchive.org/incident/802425,"36.7408, -119.714",16,NA,NA,NA,NA
+2017-03-24,1,6,7,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/802240,"38.6765, -90.2545",1,AR-15,NA,NA,NA
+2017-03-22,5,0,5,Wisconsin,Rothschild,http://www.gunviolencearchive.org/incident/800363,"44.8975, -89.6129",7,NA,Handgun,NA,NA
+2017-03-19,1,5,6,Kentucky,Louisville,http://www.gunviolencearchive.org/incident/797553,"38.2627, -85.775",3,NA,NA,NA,NA
+2017-03-18,3,2,5,Michigan,Detroit,http://www.gunviolencearchive.org/incident/797125,"42.4086, -83.2044",13,NA,NA,NA,NA
+2017-03-15,3,1,4,Louisiana,Metairie,http://www.gunviolencearchive.org/incident/794468,"29.997, -90.1763",1,NA,NA,NA,NA
+2017-03-10,2,2,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/791298,"41.8019, -87.6225",7,NA,NA,NA,NA
+2017-03-10,3,1,4,Louisiana,New Orleans (Gentilly),http://www.gunviolencearchive.org/incident/791274,"30.0008, -90.0619",2,NA,NA,NA,NA
+2017-03-07,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/789798,"41.756, -87.6527",1,NA,NA,NA,NA
+2017-03-05,0,4,4,Georgia,Columbus,http://www.gunviolencearchive.org/incident/789424,"32.4941, -84.9851",2,NA,NA,NA,NA
+2017-03-04,1,4,5,Kansas,Topeka,http://www.gunviolencearchive.org/incident/787875,"39.0261, -95.645",2,NA,NA,NA,NA
+2017-03-04,0,4,4,California,Sacramento,http://www.gunviolencearchive.org/incident/787801,"38.5554, -121.47",6,NA,NA,NA,NA
+2017-03-03,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/786876,"40.0604, -75.1899",2,NA,Handgun,NA,NA
+2017-03-03,0,5,5,California,Riverside,http://www.gunviolencearchive.org/incident/787435,"33.9406, -117.463",41,NA,NA,NA,NA
+2017-02-28,0,6,6,Ohio,Cincinnati,http://www.gunviolencearchive.org/incident/785262,"39.1778, -84.5462",1,NA,NA,NA,NA
+2017-02-27,0,4,4,Virginia,Newport News,http://www.gunviolencearchive.org/incident/783963,"37.0849, -76.4701",2,NA,NA,NA,NA
+2017-02-26,1,4,5,Indiana,Gary,http://www.gunviolencearchive.org/incident/783623,"41.5858, -87.3567",1,NA,NA,NA,NA
+2017-02-25,2,3,5,Ohio,Warren,http://www.gunviolencearchive.org/incident/783102,"41.2206, -80.7405",13,NA,NA,9mm,9mm
+2017-02-25,1,4,5,Florida,Jacksonville,http://www.gunviolencearchive.org/incident/783090,"30.3603, -81.6765",5,NA,NA,NA,NA
+2017-02-22,0,4,4,New York,Rochester,http://www.gunviolencearchive.org/incident/780792,"43.1463, -77.6361",25,NA,NA,NA,NA
+2017-02-21,0,4,4,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/780036,"41.451, -81.814",9,NA,NA,NA,40 SW
+2017-02-21,4,0,4,Mississippi,Toomsuba,http://www.gunviolencearchive.org/incident/779582,"32.434, -88.4973",3,NA,NA,NA,NA
+2017-02-20,0,5,5,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/778941,"41.5275, -81.6156",11,NA,NA,NA,NA
+2017-02-19,1,3,4,Virginia,Norfolk,http://www.gunviolencearchive.org/incident/778182,"36.8564, -76.2791",3,NA,NA,NA,NA
+2017-02-18,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/777876,"39.9725, -75.23",2,NA,NA,NA,NA
+2017-02-18,1,3,4,Indiana,South Bend,http://www.gunviolencearchive.org/incident/777410,"41.6915, -86.2635",2,NA,NA,NA,NA
+2017-02-15,0,4,4,California,Salinas,http://www.gunviolencearchive.org/incident/775903,"36.6791, -121.653",20,NA,handgun,NA,NA
+2017-02-15,3,2,5,Illinois,Chicago,http://www.gunviolencearchive.org/incident/775531,"41.8213, -87.7019",4,NA,NA,9mm,9mm
+2017-02-12,1,6,7,Missouri,Caruthersville,http://www.gunviolencearchive.org/incident/773002,"36.1927, -89.6665",8,NA,NA,NA,NA
+2017-02-12,1,3,4,New York,Newburgh,http://www.gunviolencearchive.org/incident/773162,"41.4964, -74.0191",18,NA,NA,NA,NA
+2017-02-12,0,5,5,Florida,Greenville,http://www.gunviolencearchive.org/incident/773908,"30.4617, -83.633",2,NA,NA,NA,NA
+2017-02-11,0,4,4,Tennessee,Savannah,http://www.gunviolencearchive.org/incident/772989,"35.2353, -88.2328",7,NA,NA,NA,NA
+2017-02-11,1,3,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/772753,"41.8821, -87.7718",7,NA,NA,NA,NA
+2017-02-10,1,5,6,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/772067,"29.9349, -90.0854",2,NA,NA,NA,NA
+2017-02-09,4,0,4,Mississippi,Jackson,http://www.gunviolencearchive.org/incident/771826,"32.3065, -90.239",2,NA,NA,NA,NA
+2017-02-08,1,4,5,Ohio,Cleveland,http://www.gunviolencearchive.org/incident/769889,"41.5463, -81.5663",11,NA,NA,NA,NA
+2017-02-07,0,4,4,South Carolina,Columbia,http://www.gunviolencearchive.org/incident/769511,"34.0593, -81.0257",6,NA,NA,NA,NA
+2017-02-07,1,4,5,Arkansas,Little Rock,http://www.gunviolencearchive.org/incident/769859,"34.6721, -92.4265",2,NA,NA,NA,NA
+2017-02-06,4,0,4,Mississippi,Yazoo City,http://www.gunviolencearchive.org/incident/768243,"32.8634, -90.4092",2,NA,NA,NA,NA
+2017-01-31,0,4,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/765559,"35.0888, -89.892",9,NA,NA,NA,NA
+2017-01-31,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/765153,"38.8459, -76.9965",1,NA,NA,NA,NA
+2017-01-30,0,4,4,Minnesota,Minneapolis (Crystal),http://www.gunviolencearchive.org/incident/764020,"45.0516, -93.3536",5,NA,NA,NA,NA
+2017-01-29,1,4,5,Louisiana,Shreveport,http://www.gunviolencearchive.org/incident/763313,"32.4491, -93.7815",4,NA,NA,NA,NA
+2017-01-27,4,0,4,Washington,Bremerton,http://www.gunviolencearchive.org/incident/1025158,"47.5625, -122.828",6,NA,NA,NA,NA
+2017-01-27,0,10,10,Tennessee,Brownsville,http://www.gunviolencearchive.org/incident/761973,"35.6059, -89.2319",8,NA,NA,NA,NA
+2017-01-26,2,3,5,Georgia,Albany,http://www.gunviolencearchive.org/incident/760482,"31.5858, -84.1828",2,NA,NA,NA,NA
+2017-01-25,0,6,6,Illinois,Chicago,http://www.gunviolencearchive.org/incident/760259,"41.7587, -87.6123",1,NA,NA,NA,NA
+2017-01-22,3,2,5,Texas,Manvel,http://www.gunviolencearchive.org/incident/757158,"29.5144, -95.3748",22,NA,NA,NA,NA
+2017-01-22,0,4,4,Illinois,Chicago (Englewood),http://www.gunviolencearchive.org/incident/757032,"41.7796, -87.6693",7,NA,NA,NA,NA
+2017-01-22,3,1,4,Georgia,Atlanta,http://www.gunviolencearchive.org/incident/757001,"33.6882, -84.4916",5,NA,NA,NA,NA
+2017-01-21,0,6,6,Georgia,Jonesboro,http://www.gunviolencearchive.org/incident/756801,"33.5741, -84.3716",13,NA,NA,NA,NA
+2017-01-21,0,5,5,Florida,Boynton Beach,http://www.gunviolencearchive.org/incident/756526,"26.5308, -80.0617",20,NA,NA,NA,NA
+2017-01-21,2,2,4,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/756504,"35.0181, -90.0785",9,AR-15,NA,NA,NA
+2017-01-20,1,4,5,Mississippi,Como,http://www.gunviolencearchive.org/incident/757955,"34.5333, -89.7742",2,AR-15,NA,9mm,9mm
+2017-01-20,0,4,4,California,Fresno,http://www.gunviolencearchive.org/incident/756015,"36.7341, -119.741",16,NA,NA,NA,NA
+2017-01-16,0,4,4,Texas,Houston,http://www.gunviolencearchive.org/incident/752756,"29.6595, -95.3364",9,NA,NA,NA,NA
+2017-01-16,0,8,8,Florida,Miami,http://www.gunviolencearchive.org/incident/752222,"25.8297, -80.2489",24,NA,NA,9mm,9mm
+2017-01-15,3,1,4,Colorado,Capulin,http://www.gunviolencearchive.org/incident/752249,"37.2836, -106.111",3,NA,NA,NA,NA
+2017-01-15,1,4,5,Mississippi,Magnolia,http://www.gunviolencearchive.org/incident/751367,"31.1285, -90.534",3,NA,NA,NA,NA
+2017-01-12,3,2,5,Missouri,Kansas City,http://www.gunviolencearchive.org/incident/749361,"39.0128, -94.4875",5,NA,NA,NA,NA
+2017-01-12,2,2,4,California,Salinas,http://www.gunviolencearchive.org/incident/749769,"36.6852, -121.614",20,NA,NA,NA,NA
+2017-01-11,1,3,4,New Jersey,Newark,http://www.gunviolencearchive.org/incident/748152,"40.7279, -74.1388",8,NA,NA,NA,NA
+2017-01-11,1,3,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/748348,"41.8173, -87.6911",4,AR-15,NA,NA,NA
+2017-01-07,1,3,4,Michigan,Flint,http://www.gunviolencearchive.org/incident/745236,"43.0341, -83.6588",5,NA,NA,NA,NA
+2017-01-06,2,2,4,California,Pasadena,http://www.gunviolencearchive.org/incident/744799,"34.1667, -118.153",27,NA,NA,NA,NA
+2017-01-06,5,6,11,Florida,Fort Lauderdale,http://www.gunviolencearchive.org/incident/743995,"26.0698, -80.1367",23,NA,handgun,9mm,9mm
+2017-01-04,3,1,4,California,Fontana,http://www.gunviolencearchive.org/incident/742542,"34.0442, -117.485",35,NA,NA,NA,NA
+2017-01-03,0,4,4,Texas,Allen,http://www.gunviolencearchive.org/incident/742001,"33.0843, -96.6665",3,NA,NA,NA,NA
+2017-01-01,0,5,5,Mississippi,Winstonville,http://www.gunviolencearchive.org/incident/743282,"33.914, -90.7515",2,NA,NA,NA,NA
+2017-01-01,1,3,4,Texas,Dallas,http://www.gunviolencearchive.org/incident/739451,"32.9027, -96.7145",5,NA,NA,NA,NA
+2017-01-01,0,7,7,Florida,Miami,http://www.gunviolencearchive.org/incident/739766,"25.8688, -80.2221",24,NA,NA,NA,NA
+2018-03-11,0,5,5,Michigan,Saginaw,http://www.gunviolencearchive.org/incident/1067296,"43.4003, -83.9092",5,NA,NA,NA,NA
+2018-03-11,1,3,4,Illinois,Champaign,http://www.gunviolencearchive.org/incident/1067264,"40.1175, -88.1974",13,NA,NA,NA,NA
+2018-03-09,3,1,4,North Carolina,Wadesboro,http://www.gunviolencearchive.org/incident/1066594,"34.9627, -80.0531",9,NA,NA,NA,NA
+2018-03-09,0,6,6,Indiana,South Bend,http://www.gunviolencearchive.org/incident/1067061,"41.656, -86.2393",2,NA,NA,NA,NA
+2018-03-07,2,2,4,Alabama,Hurtsboro,http://www.gunviolencearchive.org/incident/1064514,"32.2405, -85.4148",3,NA,NA,NA,22 LR
+2018-03-04,1,4,5,Illinois,Rockford,http://www.gunviolencearchive.org/incident/1062466,"42.2734, -89.1227",17,NA,NA,NA,NA
+2018-03-03,0,4,4,Florida,Miami,http://www.gunviolencearchive.org/incident/1062123,"25.8325, -80.2187",24,NA,NA,NA,NA
+2018-03-03,1,3,4,New York,Brooklyn,http://www.gunviolencearchive.org/incident/1061748,"40.6362, -73.9267",9,NA,NA,NA,NA
+2018-02-27,0,4,4,Connecticut,Bridgeport,http://www.gunviolencearchive.org/incident/1059559,"41.1785, -73.1649",4,NA,NA,NA,NA
+2018-02-26,5,0,5,Michigan,Detroit,http://www.gunviolencearchive.org/incident/1057518,"42.4005, -83.2571",13,NA,NA,NA,NA
+2018-02-23,1,3,4,Florida,Palm Beach Gardens (Riviera Beach),http://www.gunviolencearchive.org/incident/1056240,NA,NA,NA,NA,NA,NA
+2018-02-18,0,5,5,Texas,San Antonio,http://www.gunviolencearchive.org/incident/1052372,"29.4631, -98.6195",20,NA,handgun,NA,NA
+2018-02-17,1,7,8,Kansas,Kansas City,http://www.gunviolencearchive.org/incident/1052035,"39.1152, -94.6477",3,NA,NA,NA,NA
+2018-02-17,0,5,5,Tennessee,Memphis,http://www.gunviolencearchive.org/incident/1051407,"35.2121, -90.0033",9,NA,NA,NA,NA
+2018-02-16,1,3,4,Oklahoma,Oklahoma City,http://www.gunviolencearchive.org/incident/1051291,"35.4497, -97.548",5,NA,NA,NA,NA
+2018-02-14,17,17,34,Florida,Pompano Beach (Parkland),http://www.gunviolencearchive.org/incident/1049217,"26.3045, -80.2694",22,AR-15,handgun,9mm,09mm
+2018-02-13,2,3,5,Louisiana,New Orleans,http://www.gunviolencearchive.org/incident/1049024,"29.9665, -90.0169",2,NA,NA,NA,NA
+2018-02-11,4,3,7,Michigan,Detroit,http://www.gunviolencearchive.org/incident/1047761,"42.4216, -83.0539",14,NA,NA,NA,NA
+2018-02-10,5,0,5,Kentucky,Paintsville,http://www.gunviolencearchive.org/incident/1046961,"37.8982, -82.886",5,NA,NA,NA,NA
+2018-02-07,3,3,6,Florida,Lake Worth (Lantana),http://www.gunviolencearchive.org/incident/1044234,"26.5912, -80.1975",NA,NA,NA,NA,NA
+2018-02-05,2,4,6,Colorado,Colorado Springs,http://www.gunviolencearchive.org/incident/1043447,"38.847, -104.75",5,NA,Handgun,NA,NA
+2018-02-03,1,5,6,Ohio,Cleveland (Garfield Heights),http://www.gunviolencearchive.org/incident/1042280,"41.4338, -81.6056",11,NA,NA,NA,NA
+2018-01-31,0,4,4,Missouri,Saint Louis,http://www.gunviolencearchive.org/incident/1040815,"38.6721, -90.2794",1,NA,NA,NA,NA
+2018-01-28,5,0,5,Pennsylvania,Melcroft,http://www.gunviolencearchive.org/incident/1037529,"40.0521, -79.3889",9,AR-15,NA,9mm,9mm
+2018-01-28,4,0,4,Pennsylvania,Reading,http://www.gunviolencearchive.org/incident/1038429,"40.3331, -75.9318",16,NA,NA,NA,NA
+2018-01-28,2,3,5,Indiana,Indianapolis,http://www.gunviolencearchive.org/incident/1037515,"39.7846, -86.1021",7,NA,NA,NA,NA
+2018-01-27,0,5,5,California,Los Angeles,http://www.gunviolencearchive.org/incident/1037541,"33.9247, -118.272",44,NA,NA,NA,NA
+2018-01-27,0,4,4,Kentucky,Bowling Green,http://www.gunviolencearchive.org/incident/1037438,"37.0098, -86.4499",2,NA,NA,NA,NA
+2018-01-25,0,4,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/1035803,"38.9113, -76.9353",NA,NA,NA,NA,NA
+2018-01-23,0,4,4,Pennsylvania,Philadelphia,http://www.gunviolencearchive.org/incident/1034205,"39.9817, -75.1739",NA,NA,NA,NA,NA
+2018-01-23,2,14,16,Kentucky,Benton,http://www.gunviolencearchive.org/incident/1033262,"36.9152, -88.3367",1,NA,Handgun,NA,NA
+2018-01-21,0,4,4,Florida,Orlando,http://www.gunviolencearchive.org/incident/1032393,"28.5823, -81.4442",10,NA,NA,NA,NA
+2018-01-21,0,4,4,Illinois,Chicago,http://www.gunviolencearchive.org/incident/1031851,"41.9028, -87.7069",4,NA,NA,NA,NA
+2018-01-17,1,3,4,District of Columbia,Washington,http://www.gunviolencearchive.org/incident/1029095,"38.8653, -76.9822",NA,NA,NA,NA,NA
+2018-01-16,1,4,5,South Carolina,York,http://www.gunviolencearchive.org/incident/1027999,"35.0362, -81.1443",5,NA,NA,NA,NA
+2018-01-15,0,5,5,Florida,Alachua,http://www.gunviolencearchive.org/incident/1042072,"29.7985, -82.4971",3,AR-15,NA,NA,NA
+2018-01-14,1,4,5,Alabama,Eutaw,http://www.gunviolencearchive.org/incident/1026804,"32.8507, -87.9022",7,NA,NA,NA,NA
+2018-01-14,0,4,4,Alabama,Madison,http://www.gunviolencearchive.org/incident/1027013,"34.6766, -86.7607",5,NA,NA,NA,NA
+2018-01-12,3,2,5,Tennessee,Nashville,http://www.gunviolencearchive.org/incident/1025673,"36.1816, -86.8207",5,NA,NA,NA,NA
+2018-01-11,2,2,4,Missouri,Saint Robert (St Robert),http://www.gunviolencearchive.org/incident/1025272,"37.8319, -92.1035",4,NA,NA,NA,NA
+2018-01-07,1,5,6,Alabama,Union Springs,http://www.gunviolencearchive.org/incident/1022067,"32.1443, -85.7134",2,NA,NA,NA,NA
+2018-01-07,0,4,4,Florida,Plantation,http://www.gunviolencearchive.org/incident/1022055,"26.1209, -80.2188",23,NA,NA,NA,NA
+2018-01-05,0,6,6,Mississippi,Hattiesburg,http://www.gunviolencearchive.org/incident/1021788,"31.3269, -89.3285",4,NA,NA,NA,NA
+2018-01-04,1,3,4,Arkansas,Brinkley,http://www.gunviolencearchive.org/incident/1020574,"34.9038, -91.1989",1,NA,NA,NA,NA
+2018-01-01,1,3,4,Alabama,Huntsville,http://www.gunviolencearchive.org/incident/1018295,"34.7629, -86.5956",5,NA,NA,NA,NA

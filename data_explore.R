@@ -2,13 +2,13 @@ library(tidyverse)
 library(lubridate)
 
 import_2018 <- read_csv("data/mass_shootings_2018.csv")
-import_2018$date <- dmy(import_2018$date)
 import_2017 <- read_csv("data/mass_shootings_2017.csv")
 import_2016 <- read_csv("data/mass_shootings_2016.csv")
 import_2015 <- read_csv("data/mass_shootings_2015.csv")
 import_2014 <- read_csv("data/mass_shootings_2014.csv")
+import_2013 <- read_csv("data/mass_shootings_2013.csv")
 
-df <- bind_rows(import_2014, import_2015, import_2016, import_2017)
+df <- bind_rows(import_2013, import_2014, import_2015, import_2016, import_2017, import_2018)
 df$date <- mdy(df$date)
 df <- df %>%
         bind_rows(import_2018) %>%
