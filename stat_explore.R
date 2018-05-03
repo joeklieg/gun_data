@@ -2,6 +2,14 @@ library(tidyverse)
 library(mapdata)
 
 import <- read_csv("df_scrape_incl_vegas.csv")
+import <- read_csv("Mother Jones' Investigation_ US Mass Shootings, 1982-2018 - US mass shootings.csv")
+
+import$assault <- str_detect(import$`Weapon details`, rifle_ar15_regex)
+import$handgun <- str_detect(import$`Weapon details`, handgun_regex)
+
+assault <- import[import$assault,] %>% filter(!is.na(import$`Total victims`))
+handgun <- import[import$handgun,]
+t.test(assault$`Total victims`, handgun$`Total victims`)
 
 congress_clean <- DGT %R% optional(DGT)
 
