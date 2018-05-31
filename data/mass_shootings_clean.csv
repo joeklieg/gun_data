@@ -1,0 +1,1691 @@
+date,state,city,killed,injured,incident,victims
+2013-12-31,New York,Brooklyn,0,6,http://www.gunviolencearchive.org/incident/496684,6
+2013-12-28,Alabama,Montgomery,3,5,http://www.gunviolencearchive.org/incident/496668,8
+2013-12-26,Louisiana,Slidell,2,6,http://www.gunviolencearchive.org/incident/496634,8
+2013-12-26,Louisiana,Lockport,3,3,http://www.gunviolencearchive.org/incident/496584,6
+2013-12-25,New Jersey,Irvington,3,2,http://www.gunviolencearchive.org/incident/495588,5
+2013-12-25,New York,Medford,1,3,http://www.gunviolencearchive.org/incident/495577,4
+2013-12-22,Michigan,Muskegon,1,3,http://www.gunviolencearchive.org/incident/495566,4
+2013-12-21,North Carolina,Shelby,0,4,http://www.gunviolencearchive.org/incident/495557,4
+2013-12-21,New Jersey,Trenton,1,4,http://www.gunviolencearchive.org/incident/495548,5
+2013-12-15,Florida,Homestead (Florida City),1,3,http://www.gunviolencearchive.org/incident/495543,4
+2013-12-15,Texas,Channelview,0,5,http://www.gunviolencearchive.org/incident/495530,5
+2013-12-14,North Carolina,Statesville,0,4,http://www.gunviolencearchive.org/incident/495506,4
+2013-12-07,Delaware,Wilmington,0,4,http://www.gunviolencearchive.org/incident/495374,4
+2013-12-01,Kansas,Topeka,4,0,http://www.gunviolencearchive.org/incident/495332,4
+2013-12-01,Florida,Miami,2,2,http://www.gunviolencearchive.org/incident/495347,4
+2013-11-30,Michigan,Lansing,0,5,http://www.gunviolencearchive.org/incident/495323,5
+2013-11-30,Georgia,Valdosta,0,4,http://www.gunviolencearchive.org/incident/495268,4
+2013-11-29,California,Fresno,0,4,http://www.gunviolencearchive.org/incident/495195,4
+2013-11-29,Indiana,Indianapolis,0,4,http://www.gunviolencearchive.org/incident/495178,4
+2013-11-28,New York,Rochester,0,4,http://www.gunviolencearchive.org/incident/495171,4
+2013-11-25,Minnesota,Minneapolis,1,3,http://www.gunviolencearchive.org/incident/494215,4
+2013-11-25,California,Oakland,0,7,http://www.gunviolencearchive.org/incident/495145,7
+2013-11-23,Oklahoma,Tulsa,4,1,http://www.gunviolencearchive.org/incident/494155,5
+2013-11-21,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/494116,4
+2013-11-20,Texas,Houston,3,2,http://www.gunviolencearchive.org/incident/494072,5
+2013-11-15,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/494033,4
+2013-11-11,New York,Brooklyn,4,1,http://www.gunviolencearchive.org/incident/493882,5
+2013-11-10,Ohio,Canton,1,3,http://www.gunviolencearchive.org/incident/493893,4
+2013-11-10,Arizona,Phoenix,1,3,http://www.gunviolencearchive.org/incident/493863,4
+2013-11-09,Texas,Cypress,2,16,http://www.gunviolencearchive.org/incident/493842,18
+2013-11-07,Michigan,Detroit,3,7,http://www.gunviolencearchive.org/incident/493035,10
+2013-11-05,Florida,Jacksonville,4,0,http://www.gunviolencearchive.org/incident/493109,4
+2013-11-05,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/492999,4
+2013-11-03,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/492950,4
+2013-11-03,California,Perris,0,5,http://www.gunviolencearchive.org/incident/492985,5
+2013-11-02,Kentucky,Radcliff,1,3,http://www.gunviolencearchive.org/incident/492933,4
+2013-10-29,South Carolina,Bradley (Callison),5,0,http://www.gunviolencearchive.org/incident/492914,5
+2013-10-27,California,Vallejo,1,6,http://www.gunviolencearchive.org/incident/492570,7
+2013-10-27,North Carolina,Southern Pines,1,4,http://www.gunviolencearchive.org/incident/492393,5
+2013-10-27,California,Roseville,0,4,http://www.gunviolencearchive.org/incident/492699,4
+2013-10-27,Texas,Beaumont,0,4,http://www.gunviolencearchive.org/incident/492427,4
+2013-10-26,Connecticut,New Haven,1,5,http://www.gunviolencearchive.org/incident/492366,6
+2013-10-26,Florida,Miami Gardens,0,4,http://www.gunviolencearchive.org/incident/481419,4
+2013-10-21,Pennsylvania,Pittsburgh (Homewood),2,5,http://www.gunviolencearchive.org/incident/481268,7
+2013-10-20,Florida,Miami,2,2,http://www.gunviolencearchive.org/incident/481263,4
+2013-10-20,Florida,Margate,0,4,http://www.gunviolencearchive.org/incident/481254,4
+2013-10-13,Pennsylvania,Harrisburg,0,8,http://www.gunviolencearchive.org/incident/481043,8
+2013-10-12,Oklahoma,Tulsa,0,5,http://www.gunviolencearchive.org/incident/481029,5
+2013-10-09,Texas,Paris,4,0,http://www.gunviolencearchive.org/incident/480981,4
+2013-10-06,Pennsylvania,Philadelphia,1,5,http://www.gunviolencearchive.org/incident/480961,6
+2013-10-06,Arizona,Avondale,0,4,http://www.gunviolencearchive.org/incident/480897,4
+2013-10-05,New York,Buffalo,0,4,http://www.gunviolencearchive.org/incident/480882,4
+2013-10-05,California,Fresno,1,12,http://www.gunviolencearchive.org/incident/480765,13
+2013-10-02,Nebraska,Omaha,0,4,http://www.gunviolencearchive.org/incident/480747,4
+2013-09-29,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/480730,4
+2013-09-27,Ohio,Zanesville,0,4,http://www.gunviolencearchive.org/incident/480720,4
+2013-09-25,North Carolina,Haw River,0,4,http://www.gunviolencearchive.org/incident/480700,4
+2013-09-24,West Virginia,Huntington,0,6,http://www.gunviolencearchive.org/incident/480691,6
+2013-09-22,Missouri,Saint Louis,1,3,http://www.gunviolencearchive.org/incident/480661,4
+2013-09-22,Kansas,Wichita,1,6,http://www.gunviolencearchive.org/incident/480646,7
+2013-09-22,Michigan,Muskegon,2,4,http://www.gunviolencearchive.org/incident/480669,6
+2013-09-21,Florida,Palm Beach,0,4,http://www.gunviolencearchive.org/incident/480632,4
+2013-09-20,Texas,Rice,5,0,http://www.gunviolencearchive.org/incident/480605,5
+2013-09-20,California,Long Beach,2,2,http://www.gunviolencearchive.org/incident/480582,4
+2013-09-19,Illinois,Chicago,0,12,http://www.gunviolencearchive.org/incident/480521,12
+2013-09-18,Tennessee,Memphis,1,4,http://www.gunviolencearchive.org/incident/480470,5
+2013-09-17,Florida,Kissimmee,0,5,http://www.gunviolencearchive.org/incident/480462,5
+2013-09-17,Nevada,Las Vegas,0,4,http://www.gunviolencearchive.org/incident/480453,4
+2013-09-17,Michigan,Lansing,0,4,http://www.gunviolencearchive.org/incident/480415,4
+2013-09-17,California,Stockton,2,3,http://www.gunviolencearchive.org/incident/480394,5
+2013-09-16,District of Columbia,Washington Navy Yard,11,3,http://www.gunviolencearchive.org/incident/480366,14
+2013-09-15,Colorado,Colorado Springs,0,5,http://www.gunviolencearchive.org/incident/480104,5
+2013-09-15,Washington,Yakima,0,6,http://www.gunviolencearchive.org/incident/480071,6
+2013-09-15,Georgia,Snellville,3,1,http://www.gunviolencearchive.org/incident/480058,4
+2013-09-14,North Carolina,Marion,0,4,http://www.gunviolencearchive.org/incident/479821,4
+2013-09-12,District of Columbia,Washington,1,3,http://www.gunviolencearchive.org/incident/479757,4
+2013-09-12,Tennessee,Crab Orchard,4,0,http://www.gunviolencearchive.org/incident/479747,4
+2013-09-11,New York,New York,0,4,http://www.gunviolencearchive.org/incident/479774,4
+2013-09-10,Connecticut,Bridgeport,1,4,http://www.gunviolencearchive.org/incident/479734,5
+2013-09-07,Indiana,Gary,2,4,http://www.gunviolencearchive.org/incident/479709,6
+2013-09-07,Missouri,Saint Louis,1,3,http://www.gunviolencearchive.org/incident/479727,4
+2013-09-05,North Carolina,Charlotte,0,4,http://www.gunviolencearchive.org/incident/479682,4
+2013-08-25,California,Oakland,0,4,http://www.gunviolencearchive.org/incident/479646,4
+2013-08-25,Florida,Lake Butler,4,1,http://www.gunviolencearchive.org/incident/492276,5
+2013-08-25,Minnesota,Minneapolis,2,2,http://www.gunviolencearchive.org/incident/492270,4
+2013-08-25,South Carolina,Latta,1,3,http://www.gunviolencearchive.org/incident/492260,4
+2013-08-20,Maryland,Baltimore,2,2,http://www.gunviolencearchive.org/incident/491992,4
+2013-08-19,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/491965,5
+2013-08-18,New Jersey,Port Norris,0,4,http://www.gunviolencearchive.org/incident/491948,4
+2013-08-18,Ohio,Toledo,0,4,http://www.gunviolencearchive.org/incident/491937,4
+2013-08-18,South Carolina,Chesterfield,1,4,http://www.gunviolencearchive.org/incident/491898,5
+2013-08-18,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/491840,4
+2013-08-17,California,San Francisco,0,4,http://www.gunviolencearchive.org/incident/491819,4
+2013-08-14,Oklahoma,Oklahoma City,4,0,http://www.gunviolencearchive.org/incident/492001,4
+2013-08-13,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/491770,4
+2013-08-11,Virginia,Portsmouth,1,4,http://www.gunviolencearchive.org/incident/491749,5
+2013-08-11,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/491710,4
+2013-08-10,Delaware,Wilmington,0,4,http://www.gunviolencearchive.org/incident/491729,4
+2013-08-09,Missouri,Saint Louis,2,2,http://www.gunviolencearchive.org/incident/491734,4
+2013-08-07,Texas,Dallas,4,4,http://www.gunviolencearchive.org/incident/491698,8
+2013-08-06,New Jersey,Montclair,0,4,http://www.gunviolencearchive.org/incident/491630,4
+2013-08-06,Pennsylvania,Saylorsburg,3,4,http://www.gunviolencearchive.org/incident/491609,7
+2013-08-04,Missouri,Kansas City,1,3,http://www.gunviolencearchive.org/incident/491546,4
+2013-08-04,California,Salinas,3,4,http://www.gunviolencearchive.org/incident/491473,7
+2013-08-03,Michigan,Detroit,0,5,http://www.gunviolencearchive.org/incident/491461,5
+2013-08-02,Indiana,Indianapolis,0,4,http://www.gunviolencearchive.org/incident/491438,4
+2013-08-02,New Jersey,Newark,2,3,http://www.gunviolencearchive.org/incident/491416,5
+2013-07-30,New Mexico,Hobbs,0,4,http://www.gunviolencearchive.org/incident/491292,4
+2013-07-29,Washington,Granger,0,4,http://www.gunviolencearchive.org/incident/491281,4
+2013-07-26,Florida,Hialeah,7,0,http://www.gunviolencearchive.org/incident/491265,7
+2013-07-26,West Virginia,Clarksburg,4,0,http://www.gunviolencearchive.org/incident/491253,4
+2013-07-25,Michigan,Inkster,0,4,http://www.gunviolencearchive.org/incident/491243,4
+2013-07-24,Kansas,Topeka,0,4,http://www.gunviolencearchive.org/incident/491226,4
+2013-07-21,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/491214,4
+2013-07-20,New York,Brooklyn,0,5,http://www.gunviolencearchive.org/incident/491181,5
+2013-07-19,Connecticut,Hartford,0,4,http://www.gunviolencearchive.org/incident/491082,4
+2013-07-19,California,Madera,0,4,http://www.gunviolencearchive.org/incident/491073,4
+2013-07-17,California,Oakland,1,3,http://www.gunviolencearchive.org/incident/491046,4
+2013-07-14,Kansas,Wichita,1,4,http://www.gunviolencearchive.org/incident/491001,5
+2013-07-14,Michigan,Grand Rapids (Kentwood),0,5,http://www.gunviolencearchive.org/incident/491037,5
+2013-07-13,Ohio,Campbell,0,4,http://www.gunviolencearchive.org/incident/491162,4
+2013-07-13,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/490979,4
+2013-07-13,Oklahoma,Oklahoma City,1,3,http://www.gunviolencearchive.org/incident/490963,4
+2013-07-13,New Jersey,Trenton (Hamilton Township),1,4,http://www.gunviolencearchive.org/incident/490932,5
+2013-07-12,Kentucky,Greensburg,2,2,http://www.gunviolencearchive.org/incident/490954,4
+2013-07-12,California,San Francisco,1,3,http://www.gunviolencearchive.org/incident/490943,4
+2013-07-11,North Carolina,Charlotte,2,2,http://www.gunviolencearchive.org/incident/490922,4
+2013-07-09,Illinois,Rockford,2,2,http://www.gunviolencearchive.org/incident/490917,4
+2013-07-09,Maryland,Baltimore,0,4,http://www.gunviolencearchive.org/incident/490909,4
+2013-07-07,Florida,Pompano Beach,1,3,http://www.gunviolencearchive.org/incident/490793,4
+2013-07-07,California,Stockton,1,4,http://www.gunviolencearchive.org/incident/490893,5
+2013-07-07,Mississippi,Meridian,0,4,http://www.gunviolencearchive.org/incident/490767,4
+2013-07-07,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/490772,5
+2013-07-06,Alabama,Florence,0,4,http://www.gunviolencearchive.org/incident/490395,4
+2013-07-06,New York,Brooklyn,1,3,http://www.gunviolencearchive.org/incident/490750,4
+2013-07-04,Michigan,Pontiac,1,6,http://www.gunviolencearchive.org/incident/490351,7
+2013-07-04,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/490335,4
+2013-07-01,Texas,Fort Worth,4,0,http://www.gunviolencearchive.org/incident/490245,4
+2013-06-30,New York,Brooklyn,0,9,http://www.gunviolencearchive.org/incident/490226,9
+2013-06-30,Colorado,Aurora,0,4,http://www.gunviolencearchive.org/incident/490166,4
+2013-06-29,South Carolina,North Charleston,3,1,http://www.gunviolencearchive.org/incident/490150,4
+2013-06-28,Illinois,Chicago,0,6,http://www.gunviolencearchive.org/incident/490115,6
+2013-06-27,California,Three Rivers,2,2,http://www.gunviolencearchive.org/incident/490048,4
+2013-06-25,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/489987,5
+2013-06-24,Missouri,Kansas City,1,3,http://www.gunviolencearchive.org/incident/489934,4
+2013-06-23,Virginia,Virginia Beach,1,4,http://www.gunviolencearchive.org/incident/489129,5
+2013-06-23,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/489121,4
+2013-06-23,Missouri,Kansas City,1,8,http://www.gunviolencearchive.org/incident/489105,9
+2013-06-23,California,Sacramento,1,3,http://www.gunviolencearchive.org/incident/489096,4
+2013-06-23,Tennessee,Chattanooga,1,4,http://www.gunviolencearchive.org/incident/489061,5
+2013-06-22,Rhode Island,Providence,0,4,http://www.gunviolencearchive.org/incident/488970,4
+2013-06-22,Maryland,Baltimore,1,4,http://www.gunviolencearchive.org/incident/488833,5
+2013-06-21,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/488426,4
+2013-06-21,North Carolina,Greenville,0,5,http://www.gunviolencearchive.org/incident/488547,5
+2013-06-21,Virginia,Norfolk,0,6,http://www.gunviolencearchive.org/incident/488505,6
+2013-06-16,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/488134,4
+2013-06-15,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/487891,4
+2013-06-15,Tennessee,Nashville,0,4,http://www.gunviolencearchive.org/incident/487833,4
+2013-06-15,Rhode Island,Providence,1,3,http://www.gunviolencearchive.org/incident/488992,4
+2013-06-14,North Carolina,High Point,0,5,http://www.gunviolencearchive.org/incident/487715,5
+2013-06-10,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/487670,5
+2013-06-10,Missouri,Saint Louis,0,6,http://www.gunviolencearchive.org/incident/487659,6
+2013-06-09,Pennsylvania,York,0,4,http://www.gunviolencearchive.org/incident/487645,4
+2013-06-07,California,Santa Monica,6,1,http://www.gunviolencearchive.org/incident/489581,7
+2013-06-02,Georgia,Lagrange,0,7,http://www.gunviolencearchive.org/incident/487435,7
+2013-06-02,Virginia,Virginia Beach,0,7,http://www.gunviolencearchive.org/incident/487271,7
+2013-06-02,Indiana,Indianapolis,0,4,http://www.gunviolencearchive.org/incident/487266,4
+2013-06-01,California,Vallejo,2,2,http://www.gunviolencearchive.org/incident/489314,4
+2013-06-01,Wisconsin,Milwaukee,0,4,http://www.gunviolencearchive.org/incident/487261,4
+2013-05-31,Georgia,Atlanta,0,4,http://www.gunviolencearchive.org/incident/487088,4
+2013-05-29,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/487082,4
+2013-05-28,Tennessee,Memphis,1,3,http://www.gunviolencearchive.org/incident/487052,4
+2013-05-25,Virginia,Hampton,1,4,http://www.gunviolencearchive.org/incident/486998,5
+2013-05-25,Michigan,Flint,1,3,http://www.gunviolencearchive.org/incident/486977,4
+2013-05-24,California,Bakersfield,2,2,http://www.gunviolencearchive.org/incident/486971,4
+2013-05-23,Tennessee,Bean Station,2,2,http://www.gunviolencearchive.org/incident/486623,4
+2013-05-20,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/486617,4
+2013-05-19,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/486605,4
+2013-05-19,Tennessee,Memphis,2,2,http://www.gunviolencearchive.org/incident/486586,4
+2013-05-18,Virginia,Victoria,0,4,http://www.gunviolencearchive.org/incident/486611,4
+2013-05-16,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/486334,4
+2013-05-15,Michigan,Detroit,1,4,http://www.gunviolencearchive.org/incident/486327,5
+2013-05-13,Ohio,Cincinnati,0,4,http://www.gunviolencearchive.org/incident/486316,4
+2013-05-12,Louisiana,New Orleans,0,19,http://www.gunviolencearchive.org/incident/486209,19
+2013-05-12,Arizona,Apache Junction,0,5,http://www.gunviolencearchive.org/incident/486153,5
+2013-05-11,Indiana,Columbus,5,0,http://www.gunviolencearchive.org/incident/486142,5
+2013-05-11,New Jersey,Jersey City,0,4,http://www.gunviolencearchive.org/incident/486244,4
+2013-05-11,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/486121,4
+2013-05-10,California,Los Angeles,3,1,http://www.gunviolencearchive.org/incident/486109,4
+2013-05-06,Pennsylvania,Johnstown,0,4,http://www.gunviolencearchive.org/incident/486068,4
+2013-05-05,California,Palo Alto,0,5,http://www.gunviolencearchive.org/incident/486056,5
+2013-05-04,North Carolina,Smithfield,0,4,http://www.gunviolencearchive.org/incident/486027,4
+2013-05-02,New Jersey,Newark,0,5,http://www.gunviolencearchive.org/incident/486005,5
+2013-04-28,Tennessee,Jackson,2,2,http://www.gunviolencearchive.org/incident/485979,4
+2013-04-28,Pennsylvania,Chester,1,3,http://www.gunviolencearchive.org/incident/485885,4
+2013-04-28,North Carolina,Charlotte,0,5,http://www.gunviolencearchive.org/incident/485874,5
+2013-04-27,Florida,Williston,1,3,http://www.gunviolencearchive.org/incident/485821,4
+2013-04-25,Ohio,Oberlin,0,4,http://www.gunviolencearchive.org/incident/489185,4
+2013-04-24,Illinois,Manchester,6,1,http://www.gunviolencearchive.org/incident/485811,7
+2013-04-22,Louisiana,Harvey,0,5,http://www.gunviolencearchive.org/incident/485746,5
+2013-04-22,Illinois,Chicago (Englewood),0,4,http://www.gunviolencearchive.org/incident/484351,4
+2013-04-21,Washington,Federal Way,5,0,http://www.gunviolencearchive.org/incident/484333,5
+2013-04-18,Ohio,Akron,4,0,http://www.gunviolencearchive.org/incident/484317,4
+2013-04-14,Arizona,Phoenix,2,4,http://www.gunviolencearchive.org/incident/484307,6
+2013-04-14,Kentucky,Lexington,1,4,http://www.gunviolencearchive.org/incident/484287,5
+2013-04-10,California,Vallejo,0,4,http://www.gunviolencearchive.org/incident/484279,4
+2013-04-09,Pennsylvania,Philadelphia,1,3,http://www.gunviolencearchive.org/incident/484268,4
+2013-04-07,California,Long Beach,1,3,http://www.gunviolencearchive.org/incident/483878,4
+2013-04-07,New York,New York (Manhattan),1,3,http://www.gunviolencearchive.org/incident/483872,4
+2013-04-06,South Carolina,Greenwood,1,4,http://www.gunviolencearchive.org/incident/483861,5
+2013-03-31,Washington,Auburn,3,2,http://www.gunviolencearchive.org/incident/483817,5
+2013-03-30,California,Merced (county),3,2,http://www.gunviolencearchive.org/incident/483835,5
+2013-03-22,New York,Brooklyn,1,3,http://www.gunviolencearchive.org/incident/483788,4
+2013-03-21,Missouri,Kansas City,1,3,http://www.gunviolencearchive.org/incident/483765,4
+2013-03-21,Illinois,Chicago,0,7,http://www.gunviolencearchive.org/incident/483737,7
+2013-03-17,Florida,Belle Glade,0,5,http://www.gunviolencearchive.org/incident/482942,5
+2013-03-17,California,Stockton,2,3,http://www.gunviolencearchive.org/incident/482934,5
+2013-03-16,California,Galt,0,7,http://www.gunviolencearchive.org/incident/482926,7
+2013-03-14,California,Modesto,0,4,http://www.gunviolencearchive.org/incident/482838,4
+2013-03-13,New York,Mohawk,6,2,http://www.gunviolencearchive.org/incident/482856,8
+2013-03-13,California,Oceanside,2,2,http://www.gunviolencearchive.org/incident/482801,4
+2013-03-11,District of Columbia,Washington,0,13,http://www.gunviolencearchive.org/incident/482771,13
+2013-03-10,Missouri,Kansas City,0,5,http://www.gunviolencearchive.org/incident/481237,5
+2013-03-07,Mississippi,Jackson,2,2,http://www.gunviolencearchive.org/incident/481229,4
+2013-03-05,Indiana,Indianapolis,1,3,http://www.gunviolencearchive.org/incident/481220,4
+2013-03-04,California,Los Banos,1,3,http://www.gunviolencearchive.org/incident/481213,4
+2013-03-03,Michigan,Saginaw (county),0,4,http://www.gunviolencearchive.org/incident/481208,4
+2013-03-03,Georgia,Moultrie,2,2,http://www.gunviolencearchive.org/incident/481198,4
+2013-03-02,Louisiana,Shreveport,1,3,http://www.gunviolencearchive.org/incident/481186,4
+2013-02-24,Georgia,Macon,0,8,http://www.gunviolencearchive.org/incident/480443,8
+2013-02-23,California,Lancaster,0,4,http://www.gunviolencearchive.org/incident/480407,4
+2013-02-22,Michigan,Grand Rapids,0,4,http://www.gunviolencearchive.org/incident/480401,4
+2013-02-21,Oklahoma,Tulsa,1,3,http://www.gunviolencearchive.org/incident/480383,4
+2013-02-19,California,Orange (county),4,3,http://www.gunviolencearchive.org/incident/480358,7
+2013-02-12,Utah,Midvale,4,1,http://www.gunviolencearchive.org/incident/480344,5
+2013-02-11,Delaware,Wilmington,3,2,http://www.gunviolencearchive.org/incident/480327,5
+2013-02-11,California,Vallejo,1,4,http://www.gunviolencearchive.org/incident/480311,5
+2013-02-09,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/479603,4
+2013-02-07,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/479592,4
+2013-02-03,California,Yuba (county),1,3,http://www.gunviolencearchive.org/incident/479580,4
+2013-02-02,Tennessee,Memphis,0,5,http://www.gunviolencearchive.org/incident/479573,5
+2013-01-26,Ohio,Springfield,1,3,http://www.gunviolencearchive.org/incident/479460,4
+2013-01-26,District of Columbia,Washington,0,5,http://www.gunviolencearchive.org/incident/479554,5
+2013-01-26,Louisiana,Charenton,2,3,http://www.gunviolencearchive.org/incident/479561,5
+2013-01-25,Missouri,Saint Louis,1,3,http://www.gunviolencearchive.org/incident/479413,4
+2013-01-23,Tennessee,Chattanooga,1,3,http://www.gunviolencearchive.org/incident/491674,4
+2013-01-23,Maryland,Baltimore,1,6,http://www.gunviolencearchive.org/incident/492151,7
+2013-01-21,California,Brentwood,0,4,http://www.gunviolencearchive.org/incident/479389,4
+2013-01-21,Louisiana,New Orleans,0,5,http://www.gunviolencearchive.org/incident/479374,5
+2013-01-19,New Mexico,Albuquerque,5,0,http://www.gunviolencearchive.org/incident/479363,5
+2013-01-07,Oklahoma,Tulsa,4,0,http://www.gunviolencearchive.org/incident/478948,4
+2013-01-01,California,Hawthorne,1,3,http://www.gunviolencearchive.org/incident/460726,4
+2013-01-01,Pennsylvania,Mckeesport,0,4,http://www.gunviolencearchive.org/incident/461105,4
+2014-12-29,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/271363,4
+2014-12-27,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/269679,4
+2014-12-27,California,Sacramento,0,4,http://www.gunviolencearchive.org/incident/270036,4
+2014-12-26,Illinois,East St. Louis,1,3,http://www.gunviolencearchive.org/incident/269167,4
+2014-12-24,Missouri,Saint Louis,1,3,http://www.gunviolencearchive.org/incident/268598,4
+2014-12-23,Kentucky,Winchester,1,3,http://www.gunviolencearchive.org/incident/267792,4
+2014-12-22,Michigan,Detroit,1,3,http://www.gunviolencearchive.org/incident/268282,4
+2014-12-22,New York,Webster,4,2,http://www.gunviolencearchive.org/incident/282186,6
+2014-12-22,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/267721,5
+2014-12-21,Florida,Sarasota,2,2,http://www.gunviolencearchive.org/incident/266570,4
+2014-12-21,Mississippi,Waynesboro,1,4,http://www.gunviolencearchive.org/incident/268910,5
+2014-12-21,Illinois,Calumet City,1,8,http://www.gunviolencearchive.org/incident/266424,9
+2014-12-20,Illinois,Rockford,4,0,http://www.gunviolencearchive.org/incident/266407,4
+2014-12-16,New Jersey,Elizabeth,0,4,http://www.gunviolencearchive.org/incident/264901,4
+2014-12-15,Pennsylvania,Lansdale,7,0,http://www.gunviolencearchive.org/incident/263556,7
+2014-12-14,Florida,Miami,1,4,http://www.gunviolencearchive.org/incident/263376,5
+2014-12-13,Florida,Tampa,0,5,http://www.gunviolencearchive.org/incident/263382,5
+2014-12-12,Oregon,Portland,0,4,http://www.gunviolencearchive.org/incident/262202,4
+2014-12-07,Indiana,South Bend,0,4,http://www.gunviolencearchive.org/incident/259935,4
+2014-12-02,Missouri,Saint Louis,1,5,http://www.gunviolencearchive.org/incident/227011,6
+2014-12-02,Virginia,Newport News,0,5,http://www.gunviolencearchive.org/incident/226983,5
+2014-11-30,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/226388,4
+2014-11-30,Tennessee,Chattanooga,0,5,http://www.gunviolencearchive.org/incident/226534,5
+2014-11-29,Georgia,Atlanta,3,2,http://www.gunviolencearchive.org/incident/225903,5
+2014-11-29,New Jersey,Newark,1,3,http://www.gunviolencearchive.org/incident/226150,4
+2014-11-28,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/225830,4
+2014-11-27,Texas,Georgetown,2,3,http://www.gunviolencearchive.org/incident/226018,5
+2014-11-26,California,San Francisco,0,6,http://www.gunviolencearchive.org/incident/225036,6
+2014-11-23,Virginia,Parksley,0,4,http://www.gunviolencearchive.org/incident/224362,4
+2014-11-23,Colorado,Denver,1,4,http://www.gunviolencearchive.org/incident/224131,5
+2014-11-22,Ohio,Cleveland,4,1,http://www.gunviolencearchive.org/incident/223651,5
+2014-11-22,South Dakota,Sisseton,4,1,http://www.gunviolencearchive.org/incident/223799,5
+2014-11-22,Ohio,Springfield,1,3,http://www.gunviolencearchive.org/incident/223729,4
+2014-11-21,Pennsylvania,Pittsburgh,0,6,http://www.gunviolencearchive.org/incident/223582,6
+2014-11-19,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/222792,4
+2014-11-18,Nevada,North Las Vegas,0,4,http://www.gunviolencearchive.org/incident/222393,4
+2014-11-16,Ohio,Akron,1,4,http://www.gunviolencearchive.org/incident/221554,5
+2014-11-16,Texas,El Paso,0,6,http://www.gunviolencearchive.org/incident/224746,6
+2014-11-15,Missouri,Springfield,4,0,http://www.gunviolencearchive.org/incident/221347,4
+2014-11-15,Florida,Miami,1,3,http://www.gunviolencearchive.org/incident/221577,4
+2014-11-08,California,Pomona,0,5,http://www.gunviolencearchive.org/incident/217831,5
+2014-11-07,California,Compton,0,4,http://www.gunviolencearchive.org/incident/217401,4
+2014-11-07,California,Los Angeles,0,4,http://www.gunviolencearchive.org/incident/218054,4
+2014-11-05,California,San Francisco,0,4,http://www.gunviolencearchive.org/incident/216533,4
+2014-10-29,Tennessee,Memphis,0,5,http://www.gunviolencearchive.org/incident/212884,5
+2014-10-26,Kentucky,Cadiz,4,0,http://www.gunviolencearchive.org/incident/211348,4
+2014-10-24,California,Sacramento,2,3,http://www.gunviolencearchive.org/incident/210151,5
+2014-10-24,Washington,Marysville,5,1,http://www.gunviolencearchive.org/incident/210363,6
+2014-10-18,New York,Queens,0,4,http://www.gunviolencearchive.org/incident/209134,4
+2014-10-18,South Carolina,Graniteville,1,3,http://www.gunviolencearchive.org/incident/207145,4
+2014-10-18,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/207687,4
+2014-10-16,Michigan,Detroit,1,3,http://www.gunviolencearchive.org/incident/206303,4
+2014-10-14,Georgia,Peachtree Corners,3,2,http://www.gunviolencearchive.org/incident/205726,5
+2014-10-13,Georgia,Atlanta,0,4,http://www.gunviolencearchive.org/incident/205298,4
+2014-10-12,Georgia,Atlanta,1,3,http://www.gunviolencearchive.org/incident/204477,4
+2014-10-12,California,Stockton,3,1,http://www.gunviolencearchive.org/incident/204310,4
+2014-10-11,New York,Utica,0,5,http://www.gunviolencearchive.org/incident/204236,5
+2014-10-08,Georgia,Atlanta,0,4,http://www.gunviolencearchive.org/incident/202981,4
+2014-10-08,New York,Guilderland,4,0,http://www.gunviolencearchive.org/incident/204254,4
+2014-10-05,Florida,Jacksonville,3,1,http://www.gunviolencearchive.org/incident/201630,4
+2014-10-05,Michigan,Detroit,1,5,http://www.gunviolencearchive.org/incident/201052,6
+2014-10-04,Tennessee,Memphis,2,2,http://www.gunviolencearchive.org/incident/201648,4
+2014-10-04,California,Pomona,0,4,http://www.gunviolencearchive.org/incident/201502,4
+2014-09-29,South Carolina,Walterboro,1,7,http://www.gunviolencearchive.org/incident/198051,8
+2014-09-29,California,Fresno,0,4,http://www.gunviolencearchive.org/incident/198527,4
+2014-09-28,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/197416,4
+2014-09-28,Florida,Miami,0,15,http://www.gunviolencearchive.org/incident/197384,15
+2014-09-27,Missouri,Saint Louis,0,5,http://www.gunviolencearchive.org/incident/197287,5
+2014-09-26,South Carolina,Darlington County,1,4,http://www.gunviolencearchive.org/incident/198064,5
+2014-09-21,Ohio,East Liverpool,0,4,http://www.gunviolencearchive.org/incident/194945,4
+2014-09-20,Mississippi,Panola County,2,2,http://www.gunviolencearchive.org/incident/193960,4
+2014-09-19,New York,Queens,0,4,http://www.gunviolencearchive.org/incident/193570,4
+2014-09-18,Florida,Bell,8,0,http://www.gunviolencearchive.org/incident/192851,8
+2014-09-15,Louisiana,New Orleans,0,5,http://www.gunviolencearchive.org/incident/191416,5
+2014-09-14,Texas,Flour Bluff,3,1,http://www.gunviolencearchive.org/incident/190874,4
+2014-09-14,Alaska,Anchorage,0,6,http://www.gunviolencearchive.org/incident/190599,6
+2014-09-11,Michigan,Detroit,1,7,http://www.gunviolencearchive.org/incident/189562,8
+2014-09-06,Florida,Orlando,0,4,http://www.gunviolencearchive.org/incident/188332,4
+2014-09-06,Georgia,Macon,0,5,http://www.gunviolencearchive.org/incident/186488,5
+2014-09-04,Michigan,Flint,0,5,http://www.gunviolencearchive.org/incident/185393,5
+2014-09-03,California,Los Angeles,0,6,http://www.gunviolencearchive.org/incident/185430,6
+2014-09-02,California,Highland,0,5,http://www.gunviolencearchive.org/incident/184507,5
+2014-09-02,Mississippi,Jackson,2,3,http://www.gunviolencearchive.org/incident/185196,5
+2014-08-31,California,Livermore,0,5,http://www.gunviolencearchive.org/incident/183432,5
+2014-08-29,Florida,Brooksville,3,1,http://www.gunviolencearchive.org/incident/182974,4
+2014-08-27,Michigan,Detroit,1,3,http://www.gunviolencearchive.org/incident/181947,4
+2014-08-24,Georgia,Augusta,1,3,http://www.gunviolencearchive.org/incident/180580,4
+2014-08-24,California,San Fernando,3,4,http://www.gunviolencearchive.org/incident/180007,7
+2014-08-24,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/180018,4
+2014-08-20,Tennessee,Memphis,0,5,http://www.gunviolencearchive.org/incident/178425,5
+2014-08-18,Louisiana,Saint Martinville,0,4,http://www.gunviolencearchive.org/incident/178006,4
+2014-08-17,Massachusetts,Boston,0,4,http://www.gunviolencearchive.org/incident/175943,4
+2014-08-17,California,East Palo Alto,1,3,http://www.gunviolencearchive.org/incident/177770,4
+2014-08-17,Nevada,Las Vegas,0,4,http://www.gunviolencearchive.org/incident/175839,4
+2014-08-17,New York,Queens,0,4,http://www.gunviolencearchive.org/incident/175911,4
+2014-08-16,New Jersey,Plainfield,1,3,http://www.gunviolencearchive.org/incident/175779,4
+2014-08-16,Utah,Salt Lake City,0,6,http://www.gunviolencearchive.org/incident/175788,6
+2014-08-14,Tennessee,Memphis,1,3,http://www.gunviolencearchive.org/incident/174560,4
+2014-08-13,Tennessee,Clarksville,0,4,http://www.gunviolencearchive.org/incident/174544,4
+2014-08-13,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/175767,4
+2014-08-12,Georgia,Cartersville,2,3,http://www.gunviolencearchive.org/incident/173628,5
+2014-08-12,New York,Buffalo,1,3,http://www.gunviolencearchive.org/incident/173369,4
+2014-08-10,Louisiana,New Orleans,2,5,http://www.gunviolencearchive.org/incident/172304,7
+2014-08-10,California,Moreno Valley,0,7,http://www.gunviolencearchive.org/incident/172180,7
+2014-08-10,District of Columbia,Washington,0,6,http://www.gunviolencearchive.org/incident/172205,6
+2014-08-10,Georgia,Wrightsville,0,6,http://www.gunviolencearchive.org/incident/172288,6
+2014-08-09,Minnesota,Minneapolis,1,8,http://www.gunviolencearchive.org/incident/171802,9
+2014-08-08,Wisconsin,Milwaukee,0,4,http://www.gunviolencearchive.org/incident/171778,4
+2014-08-08,New Mexico,Albuquerque,1,3,http://www.gunviolencearchive.org/incident/171823,4
+2014-08-08,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/173786,4
+2014-08-06,California,Bakersfield,3,1,http://www.gunviolencearchive.org/incident/170704,4
+2014-08-04,Georgia,Atlanta,0,5,http://www.gunviolencearchive.org/incident/169326,5
+2014-08-03,Texas,Humble,0,7,http://www.gunviolencearchive.org/incident/168551,7
+2014-08-03,Missouri,Saint Louis,0,5,http://www.gunviolencearchive.org/incident/168786,5
+2014-08-03,Virginia,Culpeper,5,0,http://www.gunviolencearchive.org/incident/168844,5
+2014-08-03,Tennessee,Columbia,0,5,http://www.gunviolencearchive.org/incident/169024,5
+2014-08-02,Texas,Dallas,3,1,http://www.gunviolencearchive.org/incident/167872,4
+2014-08-02,Pennsylvania,Pittsburgh,1,5,http://www.gunviolencearchive.org/incident/168307,6
+2014-08-02,Massachusetts,New Bedford,0,7,http://www.gunviolencearchive.org/incident/168169,7
+2014-08-01,Pennsylvania,Philadelphia,1,3,http://www.gunviolencearchive.org/incident/167649,4
+2014-07-30,North Carolina,Hope Mills,3,2,http://www.gunviolencearchive.org/incident/176329,5
+2014-07-28,Pennsylvania,Philadelphia,1,4,http://www.gunviolencearchive.org/incident/165856,5
+2014-07-27,Missouri,Saint Louis,0,5,http://www.gunviolencearchive.org/incident/165089,5
+2014-07-26,Georgia,Sylvester,0,8,http://www.gunviolencearchive.org/incident/163930,8
+2014-07-26,Arkansas,Pine Bluff,1,3,http://www.gunviolencearchive.org/incident/166970,4
+2014-07-26,Maine,Saco,5,0,http://www.gunviolencearchive.org/incident/164513,5
+2014-07-25,Illinois,Chicago,1,6,http://www.gunviolencearchive.org/incident/163874,7
+2014-07-23,Pennsylvania,Braddock,0,4,http://www.gunviolencearchive.org/incident/162687,4
+2014-07-21,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/162008,4
+2014-07-21,New Jersey,Irvington,0,6,http://www.gunviolencearchive.org/incident/161302,6
+2014-07-20,Illinois,East Saint Louis,1,3,http://www.gunviolencearchive.org/incident/160998,4
+2014-07-20,Nevada,Las Vegas,1,3,http://www.gunviolencearchive.org/incident/161063,4
+2014-07-19,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/160488,4
+2014-07-14,California,Sacramento,1,4,http://www.gunviolencearchive.org/incident/158387,5
+2014-07-13,Connecticut,Stamford,0,5,http://www.gunviolencearchive.org/incident/158589,5
+2014-07-13,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/159291,4
+2014-07-13,Washington,Skyway,0,5,http://www.gunviolencearchive.org/incident/158306,5
+2014-07-12,California,Pasadena,3,2,http://www.gunviolencearchive.org/incident/157857,5
+2014-07-11,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/157580,4
+2014-07-09,Texas,Spring,6,1,http://www.gunviolencearchive.org/incident/156670,7
+2014-07-08,Rhode Island,Providence,0,5,http://www.gunviolencearchive.org/incident/156468,5
+2014-07-07,Kentucky,Stopover,0,4,http://www.gunviolencearchive.org/incident/162305,4
+2014-07-07,California,San Bernardino,1,4,http://www.gunviolencearchive.org/incident/155943,5
+2014-07-06,Florida,Miami,2,2,http://www.gunviolencearchive.org/incident/156125,4
+2014-07-06,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/155412,4
+2014-07-06,New York,Buffalo,0,4,http://www.gunviolencearchive.org/incident/155755,4
+2014-07-05,Michigan,Kalamazoo,0,4,http://www.gunviolencearchive.org/incident/154762,4
+2014-07-05,Virginia,Norfolk,0,7,http://www.gunviolencearchive.org/incident/154834,7
+2014-07-05,Oregon,Portland,1,4,http://www.gunviolencearchive.org/incident/154971,5
+2014-07-05,Illinois,Centreville,0,5,http://www.gunviolencearchive.org/incident/158055,5
+2014-07-05,Indiana,Indianapolis,0,7,http://www.gunviolencearchive.org/incident/154721,7
+2014-07-05,Texas,Houston,0,6,http://www.gunviolencearchive.org/incident/154803,6
+2014-07-04,Virginia,Norfolk,0,5,http://www.gunviolencearchive.org/incident/154844,5
+2014-07-02,Pennsylvania,Chester,0,5,http://www.gunviolencearchive.org/incident/156834,5
+2014-06-30,Kentucky,Lexington,1,3,http://www.gunviolencearchive.org/incident/153275,4
+2014-06-29,Louisiana,New Orleans,1,9,http://www.gunviolencearchive.org/incident/152468,10
+2014-06-29,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/153648,4
+2014-06-29,California,Los Angeles,1,5,http://www.gunviolencearchive.org/incident/152693,6
+2014-06-28,California,Antioch,0,7,http://www.gunviolencearchive.org/incident/152960,7
+2014-06-28,New York,Manhattan,0,4,http://www.gunviolencearchive.org/incident/153578,4
+2014-06-27,California,San Diego,1,3,http://www.gunviolencearchive.org/incident/152722,4
+2014-06-26,Wisconsin,Milwaukee,0,5,http://www.gunviolencearchive.org/incident/151659,5
+2014-06-26,Michigan,Detroit,2,2,http://www.gunviolencearchive.org/incident/157018,4
+2014-06-25,Massachusetts,Lowell,0,5,http://www.gunviolencearchive.org/incident/151475,5
+2014-06-24,Florida,Miami,2,7,http://www.gunviolencearchive.org/incident/150299,9
+2014-06-22,California,Windsor,1,3,http://www.gunviolencearchive.org/incident/154136,4
+2014-06-21,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/149954,4
+2014-06-21,Tennessee,Memphis,0,5,http://www.gunviolencearchive.org/incident/150344,5
+2014-06-20,Maryland,Seat Pleasant,0,4,http://www.gunviolencearchive.org/incident/157013,4
+2014-06-15,Indiana,Kokomo,0,4,http://www.gunviolencearchive.org/incident/146565,4
+2014-06-15,Illinois,Park Forest,0,4,http://www.gunviolencearchive.org/incident/146586,4
+2014-06-13,California,Los Angeles,3,1,http://www.gunviolencearchive.org/incident/149706,4
+2014-06-09,New Jersey,Paterson,0,6,http://www.gunviolencearchive.org/incident/156245,6
+2014-06-08,Alabama,Opp,1,4,http://www.gunviolencearchive.org/incident/144565,5
+2014-06-07,South Carolina,Moncks Corner,1,5,http://www.gunviolencearchive.org/incident/143723,6
+2014-06-07,Michigan,Oak Park,1,3,http://www.gunviolencearchive.org/incident/143979,4
+2014-06-04,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/142822,4
+2014-06-03,Georgia,Atlanta,1,4,http://www.gunviolencearchive.org/incident/142818,5
+2014-06-02,Illinois,Chicago,0,7,http://www.gunviolencearchive.org/incident/142076,7
+2014-06-01,Illinois,Chicago,1,5,http://www.gunviolencearchive.org/incident/141382,6
+2014-06-01,California,Sacramento,0,4,http://www.gunviolencearchive.org/incident/141792,4
+2014-05-31,California,San Bernardino,1,3,http://www.gunviolencearchive.org/incident/153532,4
+2014-05-25,Ohio,Toledo,1,3,http://www.gunviolencearchive.org/incident/139281,4
+2014-05-24,South Carolina,Myrtle Beach,3,1,http://www.gunviolencearchive.org/incident/138645,4
+2014-05-24,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/138567,4
+2014-05-23,California,Goleta (Isla Vista),4,8,http://www.gunviolencearchive.org/incident/138282,12
+2014-05-23,Louisiana,New Orleans,1,7,http://www.gunviolencearchive.org/incident/140185,8
+2014-05-23,California,Bellflower,2,2,http://www.gunviolencearchive.org/incident/138370,4
+2014-05-21,Texas,Dallas,1,3,http://www.gunviolencearchive.org/incident/142123,4
+2014-05-18,Ohio,Sandusky,0,7,http://www.gunviolencearchive.org/incident/135904,7
+2014-05-17,California,Coachella,1,3,http://www.gunviolencearchive.org/incident/136567,4
+2014-05-17,District of Columbia,Washington,0,5,http://www.gunviolencearchive.org/incident/136163,5
+2014-05-13,Georgia,Atlanta,0,5,http://www.gunviolencearchive.org/incident/134823,5
+2014-05-12,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/134591,4
+2014-05-11,California,Sacramento,1,6,http://www.gunviolencearchive.org/incident/134162,7
+2014-05-11,Tennessee,Memphis,0,7,http://www.gunviolencearchive.org/incident/134238,7
+2014-05-10,Georgia,Stone Mountain,1,3,http://www.gunviolencearchive.org/incident/134044,4
+2014-05-10,Georgia,Decatur,2,3,http://www.gunviolencearchive.org/incident/134052,5
+2014-05-10,California,Sacramento,1,6,http://www.gunviolencearchive.org/incident/156823,7
+2014-05-04,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/131697,4
+2014-05-04,Colorado,Wheat Ridge,0,4,http://www.gunviolencearchive.org/incident/132897,4
+2014-05-03,Arkansas,Jonesboro,4,4,http://www.gunviolencearchive.org/incident/131998,8
+2014-04-30,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/130933,4
+2014-04-29,Georgia,Kennesaw,1,6,http://www.gunviolencearchive.org/incident/130232,7
+2014-04-27,New York,Troy,0,5,http://www.gunviolencearchive.org/incident/129730,5
+2014-04-25,Tennessee,Memphis,2,3,http://www.gunviolencearchive.org/incident/128871,5
+2014-04-22,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/173109,4
+2014-04-20,Illinois,Montgomery,0,6,http://www.gunviolencearchive.org/incident/127045,6
+2014-04-20,Florida,Tampa,2,2,http://www.gunviolencearchive.org/incident/127381,4
+2014-04-20,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/127413,5
+2014-04-14,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/156828,4
+2014-04-12,Louisiana,New Orleans,1,3,http://www.gunviolencearchive.org/incident/125028,4
+2014-04-11,Indiana,Richmond,0,4,http://www.gunviolencearchive.org/incident/124146,4
+2014-04-09,Tennessee,Lookout Valley,3,1,http://www.gunviolencearchive.org/incident/123891,4
+2014-04-09,Illinois,Rockford,0,4,http://www.gunviolencearchive.org/incident/124131,4
+2014-04-07,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/123008,4
+2014-04-06,Massachusetts,Springfield,0,4,http://www.gunviolencearchive.org/incident/123666,4
+2014-04-06,Oklahoma,Oklahoma City,0,4,http://www.gunviolencearchive.org/incident/125863,4
+2014-04-05,Illinois,Chicago,1,5,http://www.gunviolencearchive.org/incident/122136,6
+2014-04-05,Arizona,Phoenix,1,3,http://www.gunviolencearchive.org/incident/122612,4
+2014-04-05,California,Fairfield,0,4,http://www.gunviolencearchive.org/incident/122672,4
+2014-04-02,Texas,Fort Hood,4,16,http://www.gunviolencearchive.org/incident/121031,20
+2014-03-30,North Carolina,Charlotte,0,5,http://www.gunviolencearchive.org/incident/120303,5
+2014-03-30,Mississippi,Starkville,0,5,http://www.gunviolencearchive.org/incident/120621,5
+2014-03-23,Texas,Arlington,1,3,http://www.gunviolencearchive.org/incident/117818,4
+2014-03-23,California,San Francisco,0,7,http://www.gunviolencearchive.org/incident/117914,7
+2014-03-23,California,Long Beach,1,3,http://www.gunviolencearchive.org/incident/172722,4
+2014-03-21,South Carolina,North Charleston,0,4,http://www.gunviolencearchive.org/incident/117642,4
+2014-03-16,Texas,Beaumont,3,1,http://www.gunviolencearchive.org/incident/117591,4
+2014-03-16,Georgia,Waynesboro,0,4,http://www.gunviolencearchive.org/incident/125855,4
+2014-03-14,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/115012,4
+2014-03-09,Ohio,Fremont,3,1,http://www.gunviolencearchive.org/incident/113156,4
+2014-03-09,Texas,Austin,0,6,http://www.gunviolencearchive.org/incident/113247,6
+2014-03-08,Illinois,Chicago,0,6,http://www.gunviolencearchive.org/incident/113214,6
+2014-03-08,California,Richmond,1,3,http://www.gunviolencearchive.org/incident/113255,4
+2014-03-05,South Carolina,Pelzer,3,2,http://www.gunviolencearchive.org/incident/112415,5
+2014-03-01,Pennsylvania,Pittsburgh,1,4,http://www.gunviolencearchive.org/incident/111095,5
+2014-03-01,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/111109,4
+2014-02-25,Virginia,Glade Spring,5,1,http://www.gunviolencearchive.org/incident/109957,6
+2014-02-22,California,Wilmington,0,4,http://www.gunviolencearchive.org/incident/109142,4
+2014-02-20,Indiana,Indianapolis,4,0,http://www.gunviolencearchive.org/incident/108691,4
+2014-02-20,California,Alturas,4,2,http://www.gunviolencearchive.org/incident/108649,6
+2014-02-16,Texas,Fort Worth,1,4,http://www.gunviolencearchive.org/incident/108659,5
+2014-02-16,Florida,Orange County,1,6,http://www.gunviolencearchive.org/incident/107417,7
+2014-02-16,Florida,Jacksonville,1,4,http://www.gunviolencearchive.org/incident/107433,5
+2014-02-16,Texas,Dallas,1,7,http://www.gunviolencearchive.org/incident/107519,8
+2014-02-16,Indiana,Fort Wayne,0,5,http://www.gunviolencearchive.org/incident/107673,5
+2014-02-15,Nevada,Las Vegas,0,5,http://www.gunviolencearchive.org/incident/107403,5
+2014-02-12,Indiana,Gary,0,5,http://www.gunviolencearchive.org/incident/106394,5
+2014-02-12,California,Stockton,1,3,http://www.gunviolencearchive.org/incident/106243,4
+2014-02-12,California,Oakland,1,3,http://www.gunviolencearchive.org/incident/106481,4
+2014-02-07,Florida,Miami,0,5,http://www.gunviolencearchive.org/incident/104721,5
+2014-02-06,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/105010,4
+2014-02-05,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/104218,4
+2014-02-03,Indiana,Franklin,3,2,http://www.gunviolencearchive.org/incident/103698,5
+2014-01-27,North Carolina,Rocky Mount,0,4,http://www.gunviolencearchive.org/incident/101301,4
+2014-01-27,Washington,Seattle,1,4,http://www.gunviolencearchive.org/incident/113665,5
+2014-01-25,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/100434,5
+2014-01-25,Florida,Belle Glade,0,4,http://www.gunviolencearchive.org/incident/100568,4
+2014-01-21,New Jersey,Newark,2,3,http://www.gunviolencearchive.org/incident/98836,5
+2014-01-20,Virginia,Manassas,0,4,http://www.gunviolencearchive.org/incident/104902,4
+2014-01-16,Utah,Spanish Fork,5,0,http://www.gunviolencearchive.org/incident/97365,5
+2014-01-16,Oklahoma,Ardmore,2,4,http://www.gunviolencearchive.org/incident/97407,6
+2014-01-14,California,Los Angeles,0,4,http://www.gunviolencearchive.org/incident/96792,4
+2014-01-13,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/96185,4
+2014-01-12,Louisiana,Tallulah,0,6,http://www.gunviolencearchive.org/incident/95500,6
+2014-01-12,Alabama,Huntsville,0,5,http://www.gunviolencearchive.org/incident/95550,5
+2014-01-12,Illinois,Elgin,0,5,http://www.gunviolencearchive.org/incident/95579,5
+2014-01-03,New York,Queens,1,3,http://www.gunviolencearchive.org/incident/92704,4
+2014-01-01,Virginia,Norfolk,2,2,http://www.gunviolencearchive.org/incident/92194,4
+2015-12-31,Louisiana,New Orleans,0,6,http://www.gunviolencearchive.org/incident/476321,6
+2015-12-27,Tennessee,Jackson,0,4,http://www.gunviolencearchive.org/incident/473882,4
+2015-12-26,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/472268,4
+2015-12-25,Florida,Jacksonville,0,4,http://www.gunviolencearchive.org/incident/471867,4
+2015-12-25,Alabama,Mobile,0,4,http://www.gunviolencearchive.org/incident/471860,4
+2015-12-21,California,San Leandro,0,4,http://www.gunviolencearchive.org/incident/469468,4
+2015-12-20,North Carolina,Wilmington,1,4,http://www.gunviolencearchive.org/incident/468968,5
+2015-12-20,Florida,Miami (Goulds),1,4,http://www.gunviolencearchive.org/incident/468787,5
+2015-12-20,Florida,Miami-dade (county),0,4,http://www.gunviolencearchive.org/incident/469614,4
+2015-12-13,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/464665,4
+2015-12-13,California,Huntington Beach,0,4,http://www.gunviolencearchive.org/incident/464945,4
+2015-12-12,Georgia,Savannah,0,4,http://www.gunviolencearchive.org/incident/464002,4
+2015-12-12,Illinois,Lovejoy (Brooklyn),1,3,http://www.gunviolencearchive.org/incident/465117,4
+2015-12-11,Maryland,Baltimore,1,3,http://www.gunviolencearchive.org/incident/463642,4
+2015-12-11,Pennsylvania,Pittsburgh (Mount Oliver),0,4,http://www.gunviolencearchive.org/incident/463734,4
+2015-12-08,Ohio,Cincinnati (Fairmount),1,3,http://www.gunviolencearchive.org/incident/461476,4
+2015-12-06,Louisiana,Raceland,1,3,http://www.gunviolencearchive.org/incident/460049,4
+2015-12-06,Nebraska,Omaha,2,3,http://www.gunviolencearchive.org/incident/460386,5
+2015-12-02,California,San Bernardino,16,19,http://www.gunviolencearchive.org/incident/456893,35
+2015-12-02,Georgia,Savannah,1,3,http://www.gunviolencearchive.org/incident/457037,4
+2015-11-29,Illinois,Kankakee,0,5,http://www.gunviolencearchive.org/incident/455394,5
+2015-11-27,Colorado,Colorado Springs,3,9,http://www.gunviolencearchive.org/incident/454059,12
+2015-11-27,California,Sacramento,2,2,http://www.gunviolencearchive.org/incident/455684,4
+2015-11-24,South Carolina,Horry (county),0,4,http://www.gunviolencearchive.org/incident/454788,4
+2015-11-23,Ohio,Columbus,4,1,http://www.gunviolencearchive.org/incident/452007,5
+2015-11-23,Minnesota,Minneapolis,0,5,http://www.gunviolencearchive.org/incident/452120,5
+2015-11-22,Texas,Brownsville,0,4,http://www.gunviolencearchive.org/incident/453317,4
+2015-11-22,Washington,Seattle,0,4,http://www.gunviolencearchive.org/incident/451338,4
+2015-11-22,New York,Newburgh,0,5,http://www.gunviolencearchive.org/incident/451305,5
+2015-11-22,South Carolina,North Charleston,1,3,http://www.gunviolencearchive.org/incident/452362,4
+2015-11-22,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/451349,4
+2015-11-22,Louisiana,New Orleans,0,17,http://www.gunviolencearchive.org/incident/451495,17
+2015-11-21,Maryland,Baltimore,1,3,http://www.gunviolencearchive.org/incident/451057,4
+2015-11-20,Pennsylvania,Pittsburgh,1,3,http://www.gunviolencearchive.org/incident/450505,4
+2015-11-18,California,Fresno,0,5,http://www.gunviolencearchive.org/incident/449814,5
+2015-11-16,Alabama,Cherokee (county),3,1,http://www.gunviolencearchive.org/incident/448653,4
+2015-11-15,Texas,Tennessee Colony,5,0,http://www.gunviolencearchive.org/incident/448419,5
+2015-11-15,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/448286,4
+2015-11-14,Pennsylvania,Johnstown,0,4,http://www.gunviolencearchive.org/incident/447462,4
+2015-11-13,Florida,Jacksonville,4,1,http://www.gunviolencearchive.org/incident/446996,5
+2015-11-09,Indiana,Indianapolis,2,2,http://www.gunviolencearchive.org/incident/444458,4
+2015-11-08,Iowa,Des Moines,1,3,http://www.gunviolencearchive.org/incident/443821,4
+2015-11-08,Michigan,Warren,0,4,http://www.gunviolencearchive.org/incident/444168,4
+2015-11-07,Colorado,Denver,1,3,http://www.gunviolencearchive.org/incident/443652,4
+2015-11-06,California,Bakersfield,0,4,http://www.gunviolencearchive.org/incident/444406,4
+2015-11-03,Florida,Jacksonville,2,3,http://www.gunviolencearchive.org/incident/441681,5
+2015-11-02,South Carolina,Pendleton,4,0,http://www.gunviolencearchive.org/incident/440743,4
+2015-10-28,Louisiana,Houma,1,3,http://www.gunviolencearchive.org/incident/438651,4
+2015-10-27,Texas,Fort Worth,0,5,http://www.gunviolencearchive.org/incident/437836,5
+2015-10-26,Indiana,Evansville,0,5,http://www.gunviolencearchive.org/incident/437323,5
+2015-10-25,North Carolina,Four Oaks,0,5,http://www.gunviolencearchive.org/incident/436202,5
+2015-10-25,Arizona,Phoenix,1,4,http://www.gunviolencearchive.org/incident/436234,5
+2015-10-25,District of Columbia,Washington,0,5,http://www.gunviolencearchive.org/incident/436240,5
+2015-10-24,South Carolina,Bamberg,0,4,http://www.gunviolencearchive.org/incident/436219,4
+2015-10-22,Tennessee,Nashville,1,3,http://www.gunviolencearchive.org/incident/435144,4
+2015-10-19,Illinois,Calumet City,0,6,http://www.gunviolencearchive.org/incident/433146,6
+2015-10-18,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/432711,4
+2015-10-17,Indiana,Elkhart,0,4,http://www.gunviolencearchive.org/incident/432072,4
+2015-10-17,Florida,Fort Myers,1,4,http://www.gunviolencearchive.org/incident/432466,5
+2015-10-12,Georgia,Decatur,0,4,http://www.gunviolencearchive.org/incident/429410,4
+2015-10-10,Tennessee,Memphis,0,6,http://www.gunviolencearchive.org/incident/428215,6
+2015-10-10,North Carolina,Charlotte,0,4,http://www.gunviolencearchive.org/incident/428247,4
+2015-10-10,Illinois,Peoria,1,3,http://www.gunviolencearchive.org/incident/429614,4
+2015-10-09,Arizona,Flagstaff,1,3,http://www.gunviolencearchive.org/incident/427621,4
+2015-10-06,Maryland,Baltimore,0,5,http://www.gunviolencearchive.org/incident/426256,5
+2015-10-02,Maryland,Baltimore,1,4,http://www.gunviolencearchive.org/incident/424224,5
+2015-10-01,Oregon,Roseburg,10,9,http://www.gunviolencearchive.org/incident/423223,19
+2015-09-28,Ohio,Cincinnati (Evanston),0,5,http://www.gunviolencearchive.org/incident/421650,5
+2015-09-28,Illinois,Chicago,3,2,http://www.gunviolencearchive.org/incident/422064,5
+2015-09-28,Illinois,Chicago,2,3,http://www.gunviolencearchive.org/incident/422035,5
+2015-09-28,Ohio,Dayton,0,4,http://www.gunviolencearchive.org/incident/422020,4
+2015-09-27,Georgia,Greenville,0,10,http://www.gunviolencearchive.org/incident/421014,10
+2015-09-27,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/421358,4
+2015-09-27,Missouri,Kansas City,0,4,http://www.gunviolencearchive.org/incident/420855,4
+2015-09-25,Illinois,Danville,0,4,http://www.gunviolencearchive.org/incident/426559,4
+2015-09-24,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/419718,5
+2015-09-23,Louisiana,Shreveport,0,5,http://www.gunviolencearchive.org/incident/419250,5
+2015-09-23,Florida,Fort Myers,0,4,http://www.gunviolencearchive.org/incident/418964,4
+2015-09-23,Georgia,Norcross,1,3,http://www.gunviolencearchive.org/incident/419826,4
+2015-09-20,Pennsylvania,Philadelphia,1,3,http://www.gunviolencearchive.org/incident/417284,4
+2015-09-20,Illinois,Chicago,1,5,http://www.gunviolencearchive.org/incident/416872,6
+2015-09-20,Oklahoma,Tulsa,0,6,http://www.gunviolencearchive.org/incident/417013,6
+2015-09-19,Indiana,Indianapolis,1,3,http://www.gunviolencearchive.org/incident/416812,4
+2015-09-17,South Dakota,Geddes,6,0,http://www.gunviolencearchive.org/incident/418318,6
+2015-09-17,Michigan,Albion,0,4,http://www.gunviolencearchive.org/incident/415687,4
+2015-09-15,New Jersey,Newark,0,4,http://www.gunviolencearchive.org/incident/414580,4
+2015-09-13,Florida,Ocala,1,5,http://www.gunviolencearchive.org/incident/413001,6
+2015-09-12,Louisiana,Shreveport,0,4,http://www.gunviolencearchive.org/incident/412996,4
+2015-09-12,New York,Rochester,2,4,http://www.gunviolencearchive.org/incident/412487,6
+2015-09-12,Minnesota,Minneapolis,0,6,http://www.gunviolencearchive.org/incident/412529,6
+2015-09-12,Minnesota,Minneapolis,1,3,http://www.gunviolencearchive.org/incident/412539,4
+2015-09-11,North Carolina,Charlotte,0,5,http://www.gunviolencearchive.org/incident/412557,5
+2015-09-10,Minnesota,Excelsior (Greenwood),5,0,http://www.gunviolencearchive.org/incident/412040,5
+2015-09-08,Georgia,Berlin,0,4,http://www.gunviolencearchive.org/incident/411888,4
+2015-09-08,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/409856,4
+2015-09-07,Indiana,Gary,2,4,http://www.gunviolencearchive.org/incident/409732,6
+2015-09-07,Colorado,Denver,0,4,http://www.gunviolencearchive.org/incident/409601,4
+2015-09-05,North Carolina,Charlotte,1,3,http://www.gunviolencearchive.org/incident/408449,4
+2015-09-05,Florida,Daytona Beach,0,4,http://www.gunviolencearchive.org/incident/408276,4
+2015-09-05,Nevada,Las Vegas,1,3,http://www.gunviolencearchive.org/incident/409101,4
+2015-09-05,Missouri,Columbia,0,4,http://www.gunviolencearchive.org/incident/408256,4
+2015-08-30,Tennessee,Memphis,1,4,http://www.gunviolencearchive.org/incident/404167,5
+2015-08-29,Tennessee,Bristol,3,2,http://www.gunviolencearchive.org/incident/404238,5
+2015-08-29,Texas,Tyler,1,3,http://www.gunviolencearchive.org/incident/405133,4
+2015-08-28,New York,Brooklyn,1,3,http://www.gunviolencearchive.org/incident/403069,4
+2015-08-27,California,Salinas,2,2,http://www.gunviolencearchive.org/incident/403669,4
+2015-08-26,Illinois,Chicago,2,2,http://www.gunviolencearchive.org/incident/402113,4
+2015-08-26,Minnesota,Minneapolis (Brooklyn Center),0,4,http://www.gunviolencearchive.org/incident/401884,4
+2015-08-26,Florida,West Palm Beach,2,2,http://www.gunviolencearchive.org/incident/402051,4
+2015-08-25,Louisiana,New Orleans,1,3,http://www.gunviolencearchive.org/incident/402108,4
+2015-08-23,California,Modesto,1,7,http://www.gunviolencearchive.org/incident/400091,8
+2015-08-22,Florida,Orlando (Pine Hills),0,4,http://www.gunviolencearchive.org/incident/399883,4
+2015-08-22,New Mexico,Roswell,3,1,http://www.gunviolencearchive.org/incident/399564,4
+2015-08-21,North Carolina,Durham,0,8,http://www.gunviolencearchive.org/incident/399212,8
+2015-08-21,Ohio,Cincinnati,2,5,http://www.gunviolencearchive.org/incident/399367,7
+2015-08-20,Texas,Grulla (La Grulla),2,2,http://www.gunviolencearchive.org/incident/398975,4
+2015-08-19,New York,Rochester,3,4,http://www.gunviolencearchive.org/incident/398361,7
+2015-08-16,Texas,Fort Worth,0,6,http://www.gunviolencearchive.org/incident/395844,6
+2015-08-16,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/395757,4
+2015-08-16,South Carolina,Bennettsville,0,5,http://www.gunviolencearchive.org/incident/395718,5
+2015-08-15,Pennsylvania,Pittsburgh,1,3,http://www.gunviolencearchive.org/incident/395837,4
+2015-08-15,California,Los Angeles,0,4,http://www.gunviolencearchive.org/incident/395694,4
+2015-08-15,South Carolina,Orangeburg,1,3,http://www.gunviolencearchive.org/incident/395549,4
+2015-08-10,California,Long Beach,0,4,http://www.gunviolencearchive.org/incident/392131,4
+2015-08-09,Mississippi,Forest,1,3,http://www.gunviolencearchive.org/incident/391263,4
+2015-08-09,Michigan,Detroit,1,3,http://www.gunviolencearchive.org/incident/391219,4
+2015-08-09,Missouri,Kansas City,0,4,http://www.gunviolencearchive.org/incident/391014,4
+2015-08-08,North Carolina,Gastonia,2,3,http://www.gunviolencearchive.org/incident/390914,5
+2015-08-08,Arkansas,Blytheville,1,11,http://www.gunviolencearchive.org/incident/390774,12
+2015-08-08,Texas,Houston,8,0,http://www.gunviolencearchive.org/incident/390526,8
+2015-08-07,Vermont,Barre (Berlin),4,0,http://www.gunviolencearchive.org/incident/390050,4
+2015-08-06,South Carolina,Columbia,0,4,http://www.gunviolencearchive.org/incident/389057,4
+2015-08-04,Missouri,Saint Louis,1,4,http://www.gunviolencearchive.org/incident/389149,5
+2015-08-03,New York,Brooklyn,0,5,http://www.gunviolencearchive.org/incident/387194,5
+2015-08-02,New York,Brooklyn,0,9,http://www.gunviolencearchive.org/incident/385779,9
+2015-08-02,Maryland,Baltimore,0,7,http://www.gunviolencearchive.org/incident/386140,7
+2015-08-02,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/385824,5
+2015-08-02,Georgia,Savannah,0,5,http://www.gunviolencearchive.org/incident/386066,5
+2015-08-02,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/401742,4
+2015-08-01,Florida,Orlando,0,4,http://www.gunviolencearchive.org/incident/386937,4
+2015-07-30,Pennsylvania,Pittsburgh,0,4,http://www.gunviolencearchive.org/incident/384662,4
+2015-07-27,Illinois,Rockford,0,5,http://www.gunviolencearchive.org/incident/382459,5
+2015-07-26,Missouri,Kansas City,2,3,http://www.gunviolencearchive.org/incident/381814,5
+2015-07-26,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/382170,4
+2015-07-25,Virginia,Hopewell,0,4,http://www.gunviolencearchive.org/incident/381433,4
+2015-07-24,Pennsylvania,Erie,2,5,http://www.gunviolencearchive.org/incident/382413,7
+2015-07-23,Louisiana,Lafayette,3,9,http://www.gunviolencearchive.org/incident/380162,12
+2015-07-22,Missouri,Saint Louis,0,6,http://www.gunviolencearchive.org/incident/382230,6
+2015-07-22,Georgia,Suwanee,5,0,http://www.gunviolencearchive.org/incident/379166,5
+2015-07-21,Florida,Miami Gardens,1,3,http://www.gunviolencearchive.org/incident/378452,4
+2015-07-20,New York,Bronx,0,6,http://www.gunviolencearchive.org/incident/377878,6
+2015-07-19,Virginia,Suffolk,0,4,http://www.gunviolencearchive.org/incident/377189,4
+2015-07-19,Kentucky,Louisville,0,6,http://www.gunviolencearchive.org/incident/377047,6
+2015-07-19,North Carolina,Rocky Mount,0,4,http://www.gunviolencearchive.org/incident/377181,4
+2015-07-18,California,San Diego,0,4,http://www.gunviolencearchive.org/incident/378102,4
+2015-07-18,California,Santa Paula,0,5,http://www.gunviolencearchive.org/incident/390936,5
+2015-07-18,Oregon,Salem,1,4,http://www.gunviolencearchive.org/incident/376702,5
+2015-07-18,Louisiana,Baton Rouge,2,2,http://www.gunviolencearchive.org/incident/377423,4
+2015-07-17,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/376211,5
+2015-07-17,Ohio,Cincinnati (Westwood),0,4,http://www.gunviolencearchive.org/incident/376203,4
+2015-07-16,Tennessee,Chattanooga,6,2,http://www.gunviolencearchive.org/incident/375022,8
+2015-07-16,Texas,Dallas,0,5,http://www.gunviolencearchive.org/incident/375773,5
+2015-07-15,Georgia,Atlanta,0,5,http://www.gunviolencearchive.org/incident/374602,5
+2015-07-15,Maryland,Baltimore,1,3,http://www.gunviolencearchive.org/incident/375322,4
+2015-07-15,Ohio,Cleveland,0,7,http://www.gunviolencearchive.org/incident/375412,7
+2015-07-15,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/374965,4
+2015-07-15,South Carolina,Holly Hill,4,1,http://www.gunviolencearchive.org/incident/374630,5
+2015-07-14,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/374292,4
+2015-07-13,California,Norwalk,0,4,http://www.gunviolencearchive.org/incident/373993,4
+2015-07-13,California,Stockton,1,4,http://www.gunviolencearchive.org/incident/373768,5
+2015-07-12,Illinois,River Forest,2,3,http://www.gunviolencearchive.org/incident/373095,5
+2015-07-12,New Jersey,Jersey City,0,4,http://www.gunviolencearchive.org/incident/373063,4
+2015-07-07,Ohio,Cleveland,1,3,http://www.gunviolencearchive.org/incident/370187,4
+2015-07-07,Maryland,Baltimore,3,1,http://www.gunviolencearchive.org/incident/370474,4
+2015-07-05,Louisiana,Shreveport,0,8,http://www.gunviolencearchive.org/incident/369014,8
+2015-07-05,Indiana,Fort Wayne,0,9,http://www.gunviolencearchive.org/incident/368732,9
+2015-07-05,New Jersey,East Orange,1,3,http://www.gunviolencearchive.org/incident/369196,4
+2015-07-04,District of Columbia,Washington,1,3,http://www.gunviolencearchive.org/incident/368867,4
+2015-07-04,Kentucky,Louisville,0,4,http://www.gunviolencearchive.org/incident/369410,4
+2015-07-04,Massachusetts,Pittsfield,1,4,http://www.gunviolencearchive.org/incident/368987,5
+2015-07-04,New York,Syracuse,0,4,http://www.gunviolencearchive.org/incident/368995,4
+2015-07-04,Texas,San Antonio,0,4,http://www.gunviolencearchive.org/incident/369127,4
+2015-07-02,Indiana,Indianapolis,1,3,http://www.gunviolencearchive.org/incident/367780,4
+2015-06-29,Florida,Opa Locka,0,4,http://www.gunviolencearchive.org/incident/366046,4
+2015-06-28,Michigan,Detroit,0,5,http://www.gunviolencearchive.org/incident/365391,5
+2015-06-28,Illinois,Venice,0,6,http://www.gunviolencearchive.org/incident/367099,6
+2015-06-28,Delaware,Harrington,0,6,http://www.gunviolencearchive.org/incident/365399,6
+2015-06-27,Massachusetts,Taunton,1,3,http://www.gunviolencearchive.org/incident/364872,4
+2015-06-27,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/364789,4
+2015-06-24,New York,New York (Manhattan),0,4,http://www.gunviolencearchive.org/incident/363418,4
+2015-06-22,Pennsylvania,Philadelphia,0,7,http://www.gunviolencearchive.org/incident/361948,7
+2015-06-21,Pennsylvania,Pittsburgh (Wilkinsburg),0,4,http://www.gunviolencearchive.org/incident/366949,4
+2015-06-21,Kentucky,Lexington,1,4,http://www.gunviolencearchive.org/incident/361708,5
+2015-06-20,Michigan,Detroit,1,11,http://www.gunviolencearchive.org/incident/361212,12
+2015-06-20,North Carolina,Morven,0,4,http://www.gunviolencearchive.org/incident/360895,4
+2015-06-20,Pennsylvania,Philadelphia,0,11,http://www.gunviolencearchive.org/incident/361198,11
+2015-06-19,Rhode Island,Woonsocket,0,4,http://www.gunviolencearchive.org/incident/361014,4
+2015-06-17,South Carolina,Charleston,9,0,http://www.gunviolencearchive.org/incident/359830,9
+2015-06-16,Florida,Miami Gardens,0,4,http://www.gunviolencearchive.org/incident/359215,4
+2015-06-15,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/358117,4
+2015-06-14,New Jersey,Camden,1,3,http://www.gunviolencearchive.org/incident/357597,4
+2015-06-14,Oklahoma,Tulsa,0,4,http://www.gunviolencearchive.org/incident/357667,4
+2015-06-14,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/357611,4
+2015-06-13,Georgia,Fayetteville,1,4,http://www.gunviolencearchive.org/incident/357732,5
+2015-06-13,Georgia,Milledgeville,1,3,http://www.gunviolencearchive.org/incident/357770,4
+2015-06-13,New York,Bronx,0,5,http://www.gunviolencearchive.org/incident/357701,5
+2015-06-13,Oklahoma,Oklahoma City,0,4,http://www.gunviolencearchive.org/incident/357590,4
+2015-06-13,Ohio,Columbus,4,1,http://www.gunviolencearchive.org/incident/357164,5
+2015-06-12,Florida,Allapattah,0,4,http://www.gunviolencearchive.org/incident/357220,4
+2015-06-11,Connecticut,Bridgeport,1,8,http://www.gunviolencearchive.org/incident/356065,9
+2015-06-11,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/355883,4
+2015-06-10,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/355644,4
+2015-06-09,Missouri,Saint Louis,1,3,http://www.gunviolencearchive.org/incident/355267,4
+2015-06-07,Montana,Deer Lodge,5,0,http://www.gunviolencearchive.org/incident/353854,5
+2015-06-06,New York,Buffalo,1,4,http://www.gunviolencearchive.org/incident/353536,5
+2015-06-06,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/353037,5
+2015-06-05,Iowa,Davenport,0,5,http://www.gunviolencearchive.org/incident/353382,5
+2015-06-05,Louisiana,New Orleans,1,3,http://www.gunviolencearchive.org/incident/352779,4
+2015-06-03,New York,Wyandanch,3,1,http://www.gunviolencearchive.org/incident/351936,4
+2015-05-31,Ohio,Cleveland,3,1,http://www.gunviolencearchive.org/incident/350163,4
+2015-05-31,Maryland,Springdale,1,3,http://www.gunviolencearchive.org/incident/350021,4
+2015-05-31,Connecticut,New Haven,0,5,http://www.gunviolencearchive.org/incident/349976,5
+2015-05-31,Georgia,Conyers,3,2,http://www.gunviolencearchive.org/incident/350182,5
+2015-05-30,California,San Diego,0,4,http://www.gunviolencearchive.org/incident/349289,4
+2015-05-28,Nebraska,Omaha,0,4,http://www.gunviolencearchive.org/incident/348606,4
+2015-05-28,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/348620,5
+2015-05-28,Pennsylvania,Chester,1,3,http://www.gunviolencearchive.org/incident/348673,4
+2015-05-26,Louisiana,New Orleans,2,2,http://www.gunviolencearchive.org/incident/346725,4
+2015-05-25,Illinois,Decatur,1,4,http://www.gunviolencearchive.org/incident/346097,5
+2015-05-24,Massachusetts,Brockton,0,5,http://www.gunviolencearchive.org/incident/345681,5
+2015-05-24,Michigan,Flint,0,7,http://www.gunviolencearchive.org/incident/345749,7
+2015-05-24,Alabama,Montgomery,1,3,http://www.gunviolencearchive.org/incident/346320,4
+2015-05-24,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/346179,4
+2015-05-23,California,Fresno,2,2,http://www.gunviolencearchive.org/incident/346202,4
+2015-05-20,Maryland,Baltimore,1,3,http://www.gunviolencearchive.org/incident/344302,4
+2015-05-18,Missouri,Kinloch,0,4,http://www.gunviolencearchive.org/incident/343106,4
+2015-05-18,Florida,Miami,1,4,http://www.gunviolencearchive.org/incident/342589,5
+2015-05-17,Texas,Waco,9,18,http://www.gunviolencearchive.org/incident/341622,27
+2015-05-16,Wisconsin,Milwaukee,0,5,http://www.gunviolencearchive.org/incident/341465,5
+2015-05-16,New York,Rochester,0,4,http://www.gunviolencearchive.org/incident/341162,4
+2015-05-16,Maryland,Baltimore,0,5,http://www.gunviolencearchive.org/incident/341232,5
+2015-05-12,Maryland,Capitol Heights,1,4,http://www.gunviolencearchive.org/incident/340280,5
+2015-05-12,Arizona,Tucson,5,0,http://www.gunviolencearchive.org/incident/339229,5
+2015-05-10,Ohio,Cleveland,1,4,http://www.gunviolencearchive.org/incident/337855,5
+2015-05-10,New Jersey,Jersey City,0,4,http://www.gunviolencearchive.org/incident/338034,4
+2015-05-10,New Jersey,Newark,1,3,http://www.gunviolencearchive.org/incident/337767,4
+2015-05-07,Ohio,Cincinnati,0,4,http://www.gunviolencearchive.org/incident/335903,4
+2015-05-07,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/336622,4
+2015-05-04,New York,Buffalo,1,3,http://www.gunviolencearchive.org/incident/334681,4
+2015-05-03,Indiana,South Bend,0,4,http://www.gunviolencearchive.org/incident/334033,4
+2015-05-03,Texas,Houston,0,6,http://www.gunviolencearchive.org/incident/333584,6
+2015-05-03,New York,Bronx,0,4,http://www.gunviolencearchive.org/incident/334047,4
+2015-05-03,Ohio,Dayton,1,6,http://www.gunviolencearchive.org/incident/333576,7
+2015-05-03,Wisconsin,Menasha,4,1,http://www.gunviolencearchive.org/incident/333750,5
+2015-05-01,Wisconsin,Milwaukee,2,3,http://www.gunviolencearchive.org/incident/332732,5
+2015-04-27,New York,Brooklyn,2,4,http://www.gunviolencearchive.org/incident/330611,6
+2015-04-27,Arizona,Gila Bend,2,2,http://www.gunviolencearchive.org/incident/330750,4
+2015-04-25,New Jersey,Trenton,0,4,http://www.gunviolencearchive.org/incident/329463,4
+2015-04-25,New York,Gates,1,6,http://www.gunviolencearchive.org/incident/329322,7
+2015-04-21,Texas,Killeen,2,3,http://www.gunviolencearchive.org/incident/326792,5
+2015-04-19,Virginia,Richmond,0,4,http://www.gunviolencearchive.org/incident/325862,4
+2015-04-18,Alabama,Montgomery,0,5,http://www.gunviolencearchive.org/incident/327341,5
+2015-04-18,Pennsylvania,Williamsport,0,5,http://www.gunviolencearchive.org/incident/325445,5
+2015-04-18,North Carolina,Lumberton,1,3,http://www.gunviolencearchive.org/incident/325166,4
+2015-04-18,North Carolina,Charlotte,0,4,http://www.gunviolencearchive.org/incident/325207,4
+2015-04-18,New Jersey,Paterson,1,3,http://www.gunviolencearchive.org/incident/325618,4
+2015-04-16,Arizona,Phoenix,5,0,http://www.gunviolencearchive.org/incident/324424,5
+2015-04-07,Georgia,Rome,1,3,http://www.gunviolencearchive.org/incident/319808,4
+2015-04-05,Pennsylvania,Pittsburgh,1,3,http://www.gunviolencearchive.org/incident/318125,4
+2015-04-05,Kentucky,Louisville,1,4,http://www.gunviolencearchive.org/incident/318221,5
+2015-04-05,Indiana,Indianapolis,0,5,http://www.gunviolencearchive.org/incident/318297,5
+2015-04-05,Michigan,Benton Harbor,0,4,http://www.gunviolencearchive.org/incident/318531,4
+2015-04-03,Florida,Daytona Beach,0,4,http://www.gunviolencearchive.org/incident/317165,4
+2015-04-02,Maryland,Baltimore,0,5,http://www.gunviolencearchive.org/incident/316795,5
+2015-03-27,Florida,Panama City Beach,0,7,http://www.gunviolencearchive.org/incident/314044,7
+2015-03-26,Texas,Amarillo,0,4,http://www.gunviolencearchive.org/incident/313304,4
+2015-03-24,Indiana,Indianapolis,4,0,http://www.gunviolencearchive.org/incident/312119,4
+2015-03-23,Tennessee,Clarksville,1,4,http://www.gunviolencearchive.org/incident/311922,5
+2015-03-22,New Mexico,Albuquerque,1,6,http://www.gunviolencearchive.org/incident/311348,7
+2015-03-21,Florida,Tampa,0,4,http://www.gunviolencearchive.org/incident/310573,4
+2015-03-20,Oklahoma,Oklahoma City,0,4,http://www.gunviolencearchive.org/incident/310356,4
+2015-03-20,Texas,Lancaster,1,5,http://www.gunviolencearchive.org/incident/468151,6
+2015-03-18,New Jersey,Newark,1,3,http://www.gunviolencearchive.org/incident/308839,4
+2015-03-18,Arizona,Mesa,1,5,http://www.gunviolencearchive.org/incident/308728,6
+2015-03-17,California,Stockton,3,4,http://www.gunviolencearchive.org/incident/308687,7
+2015-03-15,California,Compton,0,4,http://www.gunviolencearchive.org/incident/307512,4
+2015-03-14,Georgia,Atlanta,0,5,http://www.gunviolencearchive.org/incident/306897,5
+2015-03-14,California,Coachella,0,4,http://www.gunviolencearchive.org/incident/308201,4
+2015-03-13,Mississippi,Brookhaven,2,3,http://www.gunviolencearchive.org/incident/305907,5
+2015-03-10,Georgia,Columbus,0,5,http://www.gunviolencearchive.org/incident/304238,5
+2015-03-09,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/303659,4
+2015-03-08,South Carolina,Seneca,1,3,http://www.gunviolencearchive.org/incident/302786,4
+2015-03-07,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/491864,4
+2015-03-04,California,San Bernardino,3,4,http://www.gunviolencearchive.org/incident/300860,7
+2015-03-01,Florida,Orange County,0,4,http://www.gunviolencearchive.org/incident/300660,4
+2015-03-01,Michigan,Detroit,1,5,http://www.gunviolencearchive.org/incident/299344,6
+2015-02-28,Maryland,Baltimore,1,3,http://www.gunviolencearchive.org/incident/299190,4
+2015-02-26,Missouri,Tyrone,8,1,http://www.gunviolencearchive.org/incident/298122,9
+2015-02-25,Texas,Houston,3,1,http://www.gunviolencearchive.org/incident/297681,4
+2015-02-23,Florida,Daytona Beach,0,4,http://www.gunviolencearchive.org/incident/588835,4
+2015-02-22,Texas,Killeen,4,1,http://www.gunviolencearchive.org/incident/296215,5
+2015-02-22,Georgia,Clarkesville,3,2,http://www.gunviolencearchive.org/incident/296121,5
+2015-02-22,South Carolina,Charleston,0,4,http://www.gunviolencearchive.org/incident/296327,4
+2015-02-20,California,Sacramento,0,4,http://www.gunviolencearchive.org/incident/295871,4
+2015-02-17,Arkansas,Little Rock,1,3,http://www.gunviolencearchive.org/incident/295502,4
+2015-02-15,California,Long Beach,0,5,http://www.gunviolencearchive.org/incident/293883,5
+2015-02-09,Florida,New Port Richey,3,1,http://www.gunviolencearchive.org/incident/290626,4
+2015-02-08,Tennessee,Friendship,0,6,http://www.gunviolencearchive.org/incident/290510,6
+2015-02-07,Georgia,Douglasville,5,2,http://www.gunviolencearchive.org/incident/289811,7
+2015-02-06,Oklahoma,Tulsa,1,4,http://www.gunviolencearchive.org/incident/290098,5
+2015-02-05,Ohio,Beachwood (Warrensville Heights),3,3,http://www.gunviolencearchive.org/incident/289146,6
+2015-02-01,New York,Syracuse,0,6,http://www.gunviolencearchive.org/incident/287529,6
+2015-02-01,New York,New York (Manhattan),1,4,http://www.gunviolencearchive.org/incident/287031,5
+2015-01-31,Georgia,Lagrange,4,0,http://www.gunviolencearchive.org/incident/286810,4
+2015-01-28,Georgia,Dekalb County,1,3,http://www.gunviolencearchive.org/incident/285549,4
+2015-01-26,California,Stockton,1,3,http://www.gunviolencearchive.org/incident/285123,4
+2015-01-24,New York,Arverne (Queens),4,1,http://www.gunviolencearchive.org/incident/282956,5
+2015-01-24,Nebraska,Omaha,3,5,http://www.gunviolencearchive.org/incident/283041,8
+2015-01-23,Massachusetts,Boston,0,6,http://www.gunviolencearchive.org/incident/283115,6
+2015-01-20,Tennessee,Clarksville,1,3,http://www.gunviolencearchive.org/incident/281663,4
+2015-01-19,Texas,San Antonio,2,5,http://www.gunviolencearchive.org/incident/281039,7
+2015-01-13,Illinois,Rockford,2,2,http://www.gunviolencearchive.org/incident/278927,4
+2015-01-13,Virginia,Portsmouth,0,5,http://www.gunviolencearchive.org/incident/298773,5
+2015-01-11,North Carolina,Hope Mills,2,5,http://www.gunviolencearchive.org/incident/276845,7
+2015-01-11,Florida,Lakeland,1,3,http://www.gunviolencearchive.org/incident/277480,4
+2015-01-11,California,San Jose,0,5,http://www.gunviolencearchive.org/incident/276766,5
+2015-01-10,Kansas,Wichita,2,2,http://www.gunviolencearchive.org/incident/276536,4
+2015-01-09,California,San Francisco,4,0,http://www.gunviolencearchive.org/incident/276459,4
+2015-01-08,Massachusetts,Boston,1,3,http://www.gunviolencearchive.org/incident/275986,4
+2015-01-07,Tennessee,Chattanooga,1,3,http://www.gunviolencearchive.org/incident/275064,4
+2015-01-06,Florida,Miami,1,3,http://www.gunviolencearchive.org/incident/274867,4
+2015-01-04,Virginia,Roanoke,2,4,http://www.gunviolencearchive.org/incident/273535,6
+2015-01-04,Texas,Dallas,3,1,http://www.gunviolencearchive.org/incident/273397,4
+2015-01-02,Georgia,Savannah,1,4,http://www.gunviolencearchive.org/incident/273965,5
+2015-01-01,Tennessee,Memphis,0,5,http://www.gunviolencearchive.org/incident/272016,5
+2016-12-31,Georgia,Lenox (El Dorado),2,2,http://www.gunviolencearchive.org/incident/740447,4
+2016-12-31,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/738749,4
+2016-12-30,Ohio,Mansfield,0,5,http://www.gunviolencearchive.org/incident/738041,5
+2016-12-30,Connecticut,Wallingford,2,2,http://www.gunviolencearchive.org/incident/738576,4
+2016-12-28,Georgia,Columbus,1,4,http://www.gunviolencearchive.org/incident/736690,5
+2016-12-25,Alabama,Ozark,0,4,http://www.gunviolencearchive.org/incident/735947,4
+2016-12-25,Illinois,Chicago,3,4,http://www.gunviolencearchive.org/incident/734157,7
+2016-12-25,New York,Mount Vernon,1,5,http://www.gunviolencearchive.org/incident/733599,6
+2016-12-24,North Carolina,Madison,0,7,http://www.gunviolencearchive.org/incident/732927,7
+2016-12-24,North Carolina,Wilson,4,0,http://www.gunviolencearchive.org/incident/733176,4
+2016-12-23,Alabama,Birmingham,1,3,http://www.gunviolencearchive.org/incident/732263,4
+2016-12-23,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/732574,4
+2016-12-17,North Carolina,Charlotte,0,4,http://www.gunviolencearchive.org/incident/728286,4
+2016-12-17,Illinois,Chicago (Roseland),5,0,http://www.gunviolencearchive.org/incident/727759,5
+2016-12-16,Illinois,Chicago,2,2,http://www.gunviolencearchive.org/incident/727544,4
+2016-12-16,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/727555,4
+2016-12-12,California,Sacramento,1,3,http://www.gunviolencearchive.org/incident/724667,4
+2016-12-11,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/723649,4
+2016-12-11,Florida,Orlando (Pine Hills),1,4,http://www.gunviolencearchive.org/incident/723643,5
+2016-12-11,Maryland,Baltimore,0,5,http://www.gunviolencearchive.org/incident/723292,5
+2016-12-11,North Carolina,Rocky Mount,0,4,http://www.gunviolencearchive.org/incident/725338,4
+2016-12-09,Texas,Channelview,4,0,http://www.gunviolencearchive.org/incident/725323,4
+2016-12-09,California,Fresno,0,4,http://www.gunviolencearchive.org/incident/722452,4
+2016-12-05,New Mexico,Albuquerque,4,1,http://www.gunviolencearchive.org/incident/719128,5
+2016-12-03,California,Los Angeles,0,6,http://www.gunviolencearchive.org/incident/717873,6
+2016-12-02,New Jersey,Bloomfield,0,6,http://www.gunviolencearchive.org/incident/717616,6
+2016-12-01,California,Clearlake Oaks,1,3,http://www.gunviolencearchive.org/incident/716001,4
+2016-11-30,Maryland,Baltimore,2,4,http://www.gunviolencearchive.org/incident/715101,6
+2016-11-28,Texas,Mission (Palmview),1,3,http://www.gunviolencearchive.org/incident/712796,4
+2016-11-28,California,Wilmington,0,4,http://www.gunviolencearchive.org/incident/712776,4
+2016-11-28,California,San Pedro,0,4,http://www.gunviolencearchive.org/incident/713445,4
+2016-11-27,Louisiana,New Orleans,1,9,http://www.gunviolencearchive.org/incident/711597,10
+2016-11-27,Missouri,Kansas City,0,7,http://www.gunviolencearchive.org/incident/711744,7
+2016-11-26,Illinois,Chicago,1,5,http://www.gunviolencearchive.org/incident/710732,6
+2016-11-25,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/710467,4
+2016-11-24,Kentucky,Louisville,2,4,http://www.gunviolencearchive.org/incident/709370,6
+2016-11-24,New York,Albany,1,3,http://www.gunviolencearchive.org/incident/709276,4
+2016-11-23,Mississippi,Olive Branch,0,4,http://www.gunviolencearchive.org/incident/708777,4
+2016-11-22,Florida,Clewiston,1,4,http://www.gunviolencearchive.org/incident/708392,5
+2016-11-18,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/704568,4
+2016-11-17,Tennessee,Dyersburg,1,7,http://www.gunviolencearchive.org/incident/703245,8
+2016-11-13,Florida,Jacksonville,3,2,http://www.gunviolencearchive.org/incident/699605,5
+2016-11-13,Texas,San Antonio,0,4,http://www.gunviolencearchive.org/incident/699332,4
+2016-11-13,California,San Diego,3,2,http://www.gunviolencearchive.org/incident/700232,5
+2016-11-13,Florida,Orlando,0,4,http://www.gunviolencearchive.org/incident/699316,4
+2016-11-12,California,Sacramento,1,5,http://www.gunviolencearchive.org/incident/699033,6
+2016-11-12,Missouri,Kansas City,1,3,http://www.gunviolencearchive.org/incident/700363,4
+2016-11-12,Connecticut,Bridgeport,0,5,http://www.gunviolencearchive.org/incident/699303,5
+2016-11-11,Texas,Houston,0,4,http://www.gunviolencearchive.org/incident/699863,4
+2016-11-10,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/698383,4
+2016-11-09,Washington,Seattle,0,5,http://www.gunviolencearchive.org/incident/696917,5
+2016-11-09,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/697377,4
+2016-11-09,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/696352,4
+2016-11-05,Florida,Fort Lauderdale (Lauderhill),1,3,http://www.gunviolencearchive.org/incident/693624,4
+2016-11-05,Texas,San Antonio,0,4,http://www.gunviolencearchive.org/incident/693438,4
+2016-11-05,South Carolina,Myrtle Beach,0,5,http://www.gunviolencearchive.org/incident/693401,5
+2016-11-05,California,Oakland,0,8,http://www.gunviolencearchive.org/incident/693374,8
+2016-11-05,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/693290,5
+2016-11-04,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/693307,4
+2016-11-03,Illinois,Chicago,2,2,http://www.gunviolencearchive.org/incident/692020,4
+2016-11-03,New Jersey,Orange,2,2,http://www.gunviolencearchive.org/incident/692315,4
+2016-11-02,Arkansas,Little Rock,1,4,http://www.gunviolencearchive.org/incident/692025,5
+2016-11-01,Tennessee,Memphis,1,5,http://www.gunviolencearchive.org/incident/691113,6
+2016-10-31,Louisiana,Shreveport,0,4,http://www.gunviolencearchive.org/incident/689518,4
+2016-10-30,Ohio,Toledo,0,4,http://www.gunviolencearchive.org/incident/688979,4
+2016-10-30,New York,New York (Manhattan),0,4,http://www.gunviolencearchive.org/incident/688841,4
+2016-10-30,New York,Newburgh,2,5,http://www.gunviolencearchive.org/incident/688577,7
+2016-10-30,Maryland,Capitol Heights,3,3,http://www.gunviolencearchive.org/incident/689020,6
+2016-10-30,Texas,San Antonio,0,5,http://www.gunviolencearchive.org/incident/688592,5
+2016-10-29,Ohio,Dayton,1,3,http://www.gunviolencearchive.org/incident/687940,4
+2016-10-29,California,Los Angeles,0,5,http://www.gunviolencearchive.org/incident/689009,5
+2016-10-29,California,Riverside,0,4,http://www.gunviolencearchive.org/incident/688210,4
+2016-10-28,Mississippi,Jackson,0,6,http://www.gunviolencearchive.org/incident/688429,6
+2016-10-28,Florida,Miami Gardens,0,4,http://www.gunviolencearchive.org/incident/687375,4
+2016-10-27,Georgia,Jackson,4,0,http://www.gunviolencearchive.org/incident/686312,4
+2016-10-25,Ohio,Dayton,1,3,http://www.gunviolencearchive.org/incident/685379,4
+2016-10-25,Virginia,Roanoke,2,3,http://www.gunviolencearchive.org/incident/684130,5
+2016-10-23,Oklahoma,Wellston,1,5,http://www.gunviolencearchive.org/incident/683142,6
+2016-10-22,California,Oakland,0,7,http://www.gunviolencearchive.org/incident/682298,7
+2016-10-18,California,San Francisco,0,4,http://www.gunviolencearchive.org/incident/679290,4
+2016-10-17,Illinois,Chicago (Englewood),1,4,http://www.gunviolencearchive.org/incident/678438,5
+2016-10-15,Alabama,Mobile,0,5,http://www.gunviolencearchive.org/incident/677293,5
+2016-10-15,Illinois,Rockford,1,5,http://www.gunviolencearchive.org/incident/676686,6
+2016-10-15,California,Los Angeles,4,11,http://www.gunviolencearchive.org/incident/676663,15
+2016-10-14,Illinois,Chicago,1,6,http://www.gunviolencearchive.org/incident/676376,7
+2016-10-13,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/675993,4
+2016-10-09,Michigan,Grand Rapids,1,8,http://www.gunviolencearchive.org/incident/672203,9
+2016-10-09,California,Sacramento,1,3,http://www.gunviolencearchive.org/incident/672217,4
+2016-10-08,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/671717,4
+2016-10-04,Louisiana,New Orleans,3,2,http://www.gunviolencearchive.org/incident/669777,5
+2016-10-03,Minnesota,Minneapolis,0,4,http://www.gunviolencearchive.org/incident/668407,4
+2016-10-02,Texas,San Antonio,1,4,http://www.gunviolencearchive.org/incident/667984,5
+2016-10-01,Illinois,Pembroke Township,4,0,http://www.gunviolencearchive.org/incident/668279,4
+2016-10-01,California,Fresno,0,4,http://www.gunviolencearchive.org/incident/668352,4
+2016-09-29,California,San Francisco,1,3,http://www.gunviolencearchive.org/incident/665995,4
+2016-09-26,North Carolina,Winston Salem (Winston-salem),0,4,http://www.gunviolencearchive.org/incident/663624,4
+2016-09-26,Texas,Humble,0,4,http://www.gunviolencearchive.org/incident/663789,4
+2016-09-26,Texas,Houston,1,6,http://www.gunviolencearchive.org/incident/663106,7
+2016-09-25,Illinois,Champaign,1,3,http://www.gunviolencearchive.org/incident/662548,4
+2016-09-24,Maryland,Baltimore,0,8,http://www.gunviolencearchive.org/incident/662342,8
+2016-09-23,Washington,Burlington,5,0,http://www.gunviolencearchive.org/incident/661703,5
+2016-09-18,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/657854,4
+2016-09-18,Virginia,Lynchburg,1,3,http://www.gunviolencearchive.org/incident/657863,4
+2016-09-18,Pennsylvania,Pittsburgh,0,4,http://www.gunviolencearchive.org/incident/658226,4
+2016-09-17,Florida,Miami,0,6,http://www.gunviolencearchive.org/incident/659289,6
+2016-09-17,Florida,Orlando,1,6,http://www.gunviolencearchive.org/incident/657136,7
+2016-09-17,Indiana,Indianapolis,2,2,http://www.gunviolencearchive.org/incident/657151,4
+2016-09-17,District of Columbia,Washington,2,7,http://www.gunviolencearchive.org/incident/657634,9
+2016-09-16,Pennsylvania,Philadelphia,2,5,http://www.gunviolencearchive.org/incident/657023,7
+2016-09-16,California,Los Angeles (Hollywood),2,2,http://www.gunviolencearchive.org/incident/656991,4
+2016-09-14,Texas,Humble,1,3,http://www.gunviolencearchive.org/incident/655512,4
+2016-09-13,Indiana,Fort Wayne,3,2,http://www.gunviolencearchive.org/incident/654087,5
+2016-09-11,Indiana,Fort Wayne,3,1,http://www.gunviolencearchive.org/incident/652642,4
+2016-09-11,Louisiana,New Orleans,1,5,http://www.gunviolencearchive.org/incident/653077,6
+2016-09-11,New Jersey,Jersey City,1,3,http://www.gunviolencearchive.org/incident/652759,4
+2016-09-11,Missouri,Kansas City,0,6,http://www.gunviolencearchive.org/incident/652584,6
+2016-09-11,Michigan,Saginaw,0,5,http://www.gunviolencearchive.org/incident/652561,5
+2016-09-11,North Carolina,New Bern,0,5,http://www.gunviolencearchive.org/incident/652606,5
+2016-09-10,Florida,Miami,1,3,http://www.gunviolencearchive.org/incident/652175,4
+2016-09-08,Texas,Del Valle,4,0,http://www.gunviolencearchive.org/incident/651957,4
+2016-09-08,Arkansas,Hot Springs National Park (Hot Springs),1,4,http://www.gunviolencearchive.org/incident/651434,5
+2016-09-05,Illinois,Chicago,2,3,http://www.gunviolencearchive.org/incident/648884,5
+2016-09-05,Pennsylvania,Reading,0,4,http://www.gunviolencearchive.org/incident/648490,4
+2016-09-04,Virginia,Roanoke,1,10,http://www.gunviolencearchive.org/incident/647865,11
+2016-09-03,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/646855,4
+2016-09-03,North Carolina,Wilmington,1,3,http://www.gunviolencearchive.org/incident/646995,4
+2016-08-30,Georgia,Atlanta,0,4,http://www.gunviolencearchive.org/incident/644723,4
+2016-08-30,Illinois,Chicago (Englewood),0,4,http://www.gunviolencearchive.org/incident/643824,4
+2016-08-29,New Jersey,Egg Harbor City,1,5,http://www.gunviolencearchive.org/incident/641732,6
+2016-08-29,California,Temecula,5,0,http://www.gunviolencearchive.org/incident/684389,5
+2016-08-28,Texas,Lubbock,0,6,http://www.gunviolencearchive.org/incident/641419,6
+2016-08-28,New York,Bronx,0,4,http://www.gunviolencearchive.org/incident/640677,4
+2016-08-28,Missouri,Saint Louis,2,2,http://www.gunviolencearchive.org/incident/640689,4
+2016-08-28,Alabama,Dadeville,0,5,http://www.gunviolencearchive.org/incident/640861,5
+2016-08-27,Alabama,Bessemer (Brighton),1,6,http://www.gunviolencearchive.org/incident/640500,7
+2016-08-27,Florida,Miami,2,4,http://www.gunviolencearchive.org/incident/640203,6
+2016-08-25,New Jersey,Bridgeton,0,5,http://www.gunviolencearchive.org/incident/640901,5
+2016-08-21,Massachusetts,Boston,0,4,http://www.gunviolencearchive.org/incident/634889,4
+2016-08-21,Connecticut,Bridgeport,0,13,http://www.gunviolencearchive.org/incident/634787,13
+2016-08-20,Connecticut,Hamden,0,4,http://www.gunviolencearchive.org/incident/634238,4
+2016-08-20,Washington,Tacoma,0,5,http://www.gunviolencearchive.org/incident/634731,5
+2016-08-20,Alabama,Citronelle,5,0,http://www.gunviolencearchive.org/incident/634819,5
+2016-08-18,Connecticut,Waterbury,0,4,http://www.gunviolencearchive.org/incident/632747,4
+2016-08-17,California,Oakland,0,4,http://www.gunviolencearchive.org/incident/632753,4
+2016-08-14,Virginia,Norfolk,0,4,http://www.gunviolencearchive.org/incident/630007,4
+2016-08-14,Minnesota,Minneapolis,0,5,http://www.gunviolencearchive.org/incident/629415,5
+2016-08-13,California,Los Angeles,0,4,http://www.gunviolencearchive.org/incident/629663,4
+2016-08-13,Wisconsin,Milwaukee,2,2,http://www.gunviolencearchive.org/incident/628570,4
+2016-08-13,New York,Richmond Hill,0,4,http://www.gunviolencearchive.org/incident/628623,4
+2016-08-13,Missouri,Joplin,0,4,http://www.gunviolencearchive.org/incident/628635,4
+2016-08-12,Florida,Jacksonville,1,3,http://www.gunviolencearchive.org/incident/628178,4
+2016-08-12,Texas,Dallas,1,3,http://www.gunviolencearchive.org/incident/627519,4
+2016-08-11,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/627757,4
+2016-08-10,Illinois,Evanston,0,4,http://www.gunviolencearchive.org/incident/626153,4
+2016-08-10,California,Sacramento,1,3,http://www.gunviolencearchive.org/incident/626960,4
+2016-08-08,New Mexico,Albuquerque,2,2,http://www.gunviolencearchive.org/incident/625735,4
+2016-08-08,Florida,Jacksonville,0,7,http://www.gunviolencearchive.org/incident/624273,7
+2016-08-07,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/624156,4
+2016-08-07,Mississippi,Vicksburg,1,3,http://www.gunviolencearchive.org/incident/624046,4
+2016-08-07,Colorado,Arvada,2,2,http://www.gunviolencearchive.org/incident/623523,4
+2016-08-07,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/623439,4
+2016-08-06,Pennsylvania,Reading (Sinking Spring),5,0,http://www.gunviolencearchive.org/incident/623195,5
+2016-08-05,Michigan,Pontiac,1,3,http://www.gunviolencearchive.org/incident/624057,4
+2016-08-05,California,Perris,2,2,http://www.gunviolencearchive.org/incident/622500,4
+2016-08-04,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/621232,4
+2016-08-03,Georgia,Decatur,1,3,http://www.gunviolencearchive.org/incident/620247,4
+2016-08-02,Florida,Hollywood (West Park),0,4,http://www.gunviolencearchive.org/incident/619708,4
+2016-08-01,Indiana,Evansville,0,4,http://www.gunviolencearchive.org/incident/619408,4
+2016-07-31,Florida,Miami,3,1,http://www.gunviolencearchive.org/incident/617789,4
+2016-07-31,Texas,Austin,1,4,http://www.gunviolencearchive.org/incident/617607,5
+2016-07-30,Missouri,Saint Louis,0,5,http://www.gunviolencearchive.org/incident/617712,5
+2016-07-30,Georgia,Townsend (Eulonia),0,5,http://www.gunviolencearchive.org/incident/618321,5
+2016-07-30,Washington,Mukilteo,3,1,http://www.gunviolencearchive.org/incident/616948,4
+2016-07-29,Georgia,Athens,0,7,http://www.gunviolencearchive.org/incident/617334,7
+2016-07-28,New York,Elmira,0,5,http://www.gunviolencearchive.org/incident/615109,5
+2016-07-28,Maryland,Baltimore,0,4,http://www.gunviolencearchive.org/incident/615328,4
+2016-07-28,Illinois,Chicago,2,2,http://www.gunviolencearchive.org/incident/615024,4
+2016-07-25,Florida,Fort Myers,2,19,http://www.gunviolencearchive.org/incident/611479,21
+2016-07-24,Ohio,Hamilton,1,7,http://www.gunviolencearchive.org/incident/610584,8
+2016-07-23,South Carolina,North Charleston,0,4,http://www.gunviolencearchive.org/incident/610756,4
+2016-07-23,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/613805,4
+2016-07-23,Ohio,Cincinnati,2,2,http://www.gunviolencearchive.org/incident/610093,4
+2016-07-23,Texas,Bastrop,4,1,http://www.gunviolencearchive.org/incident/610379,5
+2016-07-22,Illinois,Kankakee,0,5,http://www.gunviolencearchive.org/incident/610402,5
+2016-07-21,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/609402,5
+2016-07-20,California,Fresno,0,4,http://www.gunviolencearchive.org/incident/608787,4
+2016-07-19,Arkansas,West Memphis,0,4,http://www.gunviolencearchive.org/incident/607265,4
+2016-07-17,Louisiana,Baton Rouge,4,3,http://www.gunviolencearchive.org/incident/604762,7
+2016-07-17,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/605475,4
+2016-07-17,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/605367,4
+2016-07-16,Texas,Dallas,0,5,http://www.gunviolencearchive.org/incident/604459,5
+2016-07-16,Ohio,Cleveland,0,5,http://www.gunviolencearchive.org/incident/604275,5
+2016-07-16,California,San Bernardino,0,4,http://www.gunviolencearchive.org/incident/605005,4
+2016-07-16,California,Bakersfield,1,14,http://www.gunviolencearchive.org/incident/604233,15
+2016-07-16,Tennessee,Clarksville,0,6,http://www.gunviolencearchive.org/incident/604175,6
+2016-07-15,Washington,Woodland,3,1,http://www.gunviolencearchive.org/incident/604207,4
+2016-07-14,Texas,Crosby,3,1,http://www.gunviolencearchive.org/incident/603475,4
+2016-07-14,California,Oakland,0,4,http://www.gunviolencearchive.org/incident/603733,4
+2016-07-14,Ohio,Akron,1,3,http://www.gunviolencearchive.org/incident/603738,4
+2016-07-13,Georgia,Warner Robins,0,5,http://www.gunviolencearchive.org/incident/602810,5
+2016-07-13,Missouri,Saint Louis,2,2,http://www.gunviolencearchive.org/incident/602765,4
+2016-07-11,Maryland,Baltimore,0,5,http://www.gunviolencearchive.org/incident/600798,5
+2016-07-11,Michigan,Jackson,0,4,http://www.gunviolencearchive.org/incident/601119,4
+2016-07-11,Michigan,Saint Joseph,3,2,http://www.gunviolencearchive.org/incident/600398,5
+2016-07-11,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/601512,4
+2016-07-07,Tennessee,Bristol,1,4,http://www.gunviolencearchive.org/incident/597176,5
+2016-07-07,Texas,Dallas,5,9,http://www.gunviolencearchive.org/incident/597756,14
+2016-07-07,Louisiana,Baton Rouge,0,4,http://www.gunviolencearchive.org/incident/597366,4
+2016-07-05,California,Los Angeles,0,4,http://www.gunviolencearchive.org/incident/595557,4
+2016-07-04,Pennsylvania,Pittsburgh,0,4,http://www.gunviolencearchive.org/incident/595048,4
+2016-07-04,Illinois,Chicago (Englewood),0,4,http://www.gunviolencearchive.org/incident/595279,4
+2016-07-04,New York,Brooklyn,0,7,http://www.gunviolencearchive.org/incident/595166,7
+2016-07-04,Ohio,Cleveland,0,4,http://www.gunviolencearchive.org/incident/596159,4
+2016-07-04,Texas,Houston,3,2,http://www.gunviolencearchive.org/incident/595069,5
+2016-07-04,Arizona,Phoenix,2,6,http://www.gunviolencearchive.org/incident/595482,8
+2016-07-03,Louisiana,Monroe,2,3,http://www.gunviolencearchive.org/incident/594051,5
+2016-07-03,Tennessee,Chattanooga,0,4,http://www.gunviolencearchive.org/incident/594480,4
+2016-06-30,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/592724,5
+2016-06-29,Nevada,Las Vegas,5,0,http://www.gunviolencearchive.org/incident/592207,5
+2016-06-28,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/591975,4
+2016-06-28,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/591294,4
+2016-06-27,Oregon,Woodburn,3,1,http://www.gunviolencearchive.org/incident/589488,4
+2016-06-26,South Carolina,Bennettsville,0,4,http://www.gunviolencearchive.org/incident/590233,4
+2016-06-26,Georgia,Atlanta,1,4,http://www.gunviolencearchive.org/incident/588867,5
+2016-06-26,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/589165,4
+2016-06-26,Texas,Corpus Christi,0,4,http://www.gunviolencearchive.org/incident/588918,4
+2016-06-26,North Carolina,Charlotte,0,5,http://www.gunviolencearchive.org/incident/589159,5
+2016-06-25,Texas,Fort Worth,2,5,http://www.gunviolencearchive.org/incident/587755,7
+2016-06-25,Virginia,Norfolk,0,4,http://www.gunviolencearchive.org/incident/589470,4
+2016-06-25,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/587983,4
+2016-06-24,Kansas,Kansas City,0,4,http://www.gunviolencearchive.org/incident/589046,4
+2016-06-24,Connecticut,Hartford,0,5,http://www.gunviolencearchive.org/incident/587735,5
+2016-06-24,Maryland,District Heights,3,2,http://www.gunviolencearchive.org/incident/587769,5
+2016-06-22,Washington,Olympia,3,1,http://www.gunviolencearchive.org/incident/585821,4
+2016-06-22,Georgia,Dekalb (county),1,4,http://www.gunviolencearchive.org/incident/586122,5
+2016-06-22,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/586058,4
+2016-06-21,New Jersey,Willingboro,0,4,http://www.gunviolencearchive.org/incident/586044,4
+2016-06-21,Kentucky,Louisville,2,2,http://www.gunviolencearchive.org/incident/585615,4
+2016-06-19,Virginia,Roanoke,0,4,http://www.gunviolencearchive.org/incident/583631,4
+2016-06-18,Virginia,Exmore,1,3,http://www.gunviolencearchive.org/incident/583584,4
+2016-06-18,Georgia,Waycross,2,2,http://www.gunviolencearchive.org/incident/583537,4
+2016-06-18,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/583362,4
+2016-06-14,Delaware,Wilmington,0,4,http://www.gunviolencearchive.org/incident/580848,4
+2016-06-14,California,Oakland,1,3,http://www.gunviolencearchive.org/incident/580791,4
+2016-06-13,California,Fresno,0,4,http://www.gunviolencearchive.org/incident/579517,4
+2016-06-13,New York,Brooklyn,0,5,http://www.gunviolencearchive.org/incident/579786,5
+2016-06-13,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/580279,5
+2016-06-12,Florida,Orlando,50,53,http://www.gunviolencearchive.org/incident/577157,103
+2016-06-11,New Mexico,Roswell,5,0,http://www.gunviolencearchive.org/incident/577574,5
+2016-06-11,Minnesota,Webster,0,4,http://www.gunviolencearchive.org/incident/578238,4
+2016-06-11,North Carolina,Charlotte,1,3,http://www.gunviolencearchive.org/incident/576774,4
+2016-06-11,California,Stockton,1,3,http://www.gunviolencearchive.org/incident/577938,4
+2016-06-11,California,Panorama City,3,2,http://www.gunviolencearchive.org/incident/577073,5
+2016-06-09,Florida,Fort Walton Beach,0,4,http://www.gunviolencearchive.org/incident/575607,4
+2016-06-08,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/574850,4
+2016-06-08,Massachusetts,Boston,1,3,http://www.gunviolencearchive.org/incident/574753,4
+2016-06-06,California,Visalia,0,4,http://www.gunviolencearchive.org/incident/573327,4
+2016-06-05,Minnesota,Minneapolis,0,4,http://www.gunviolencearchive.org/incident/575061,4
+2016-06-05,Florida,Cape Coral,3,3,http://www.gunviolencearchive.org/incident/572696,6
+2016-06-05,Arizona,Phoenix,2,4,http://www.gunviolencearchive.org/incident/572766,6
+2016-06-05,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/572513,4
+2016-06-04,Colorado,Denver,3,1,http://www.gunviolencearchive.org/incident/571859,4
+2016-05-31,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/569225,4
+2016-05-31,Indiana,Fort Wayne,0,4,http://www.gunviolencearchive.org/incident/569189,4
+2016-05-30,Maryland,Baltimore,0,5,http://www.gunviolencearchive.org/incident/568528,5
+2016-05-30,California,Sacramento,0,5,http://www.gunviolencearchive.org/incident/568745,5
+2016-05-29,Nevada,Las Vegas,0,4,http://www.gunviolencearchive.org/incident/567788,4
+2016-05-29,New Jersey,Trenton,0,6,http://www.gunviolencearchive.org/incident/567673,6
+2016-05-29,Indiana,Indianapolis,0,4,http://www.gunviolencearchive.org/incident/567494,4
+2016-05-29,Texas,Houston,2,6,http://www.gunviolencearchive.org/incident/567614,8
+2016-05-23,New Jersey,Newark,0,5,http://www.gunviolencearchive.org/incident/564470,5
+2016-05-22,Louisiana,New Orleans,0,4,http://www.gunviolencearchive.org/incident/563829,4
+2016-05-22,California,Stockton,1,3,http://www.gunviolencearchive.org/incident/563514,4
+2016-05-22,Tennessee,Nashville,0,4,http://www.gunviolencearchive.org/incident/563751,4
+2016-05-21,Georgia,Jackson,1,3,http://www.gunviolencearchive.org/incident/563630,4
+2016-05-18,Indiana,Indianapolis,0,4,http://www.gunviolencearchive.org/incident/561912,4
+2016-05-17,South Carolina,Ravenel,3,1,http://www.gunviolencearchive.org/incident/560782,4
+2016-05-15,Indiana,Evansville,0,4,http://www.gunviolencearchive.org/incident/559194,4
+2016-05-15,Georgia,Moultrie,5,0,http://www.gunviolencearchive.org/incident/565244,5
+2016-05-14,Georgia,Atlanta,0,5,http://www.gunviolencearchive.org/incident/559042,5
+2016-05-14,West Virginia,Charleston,1,3,http://www.gunviolencearchive.org/incident/558796,4
+2016-05-11,Alabama,Birmingham,1,4,http://www.gunviolencearchive.org/incident/557589,5
+2016-05-11,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/557479,5
+2016-05-08,Texas,Austin,1,3,http://www.gunviolencearchive.org/incident/555126,4
+2016-05-06,Michigan,Detroit,1,4,http://www.gunviolencearchive.org/incident/555873,5
+2016-05-06,Alabama,Montgomery,1,3,http://www.gunviolencearchive.org/incident/555886,4
+2016-05-06,Maryland,Bethesda,3,3,http://www.gunviolencearchive.org/incident/554133,6
+2016-05-05,Louisiana,Shreveport,2,6,http://www.gunviolencearchive.org/incident/553803,8
+2016-05-05,Florida,Miami,1,3,http://www.gunviolencearchive.org/incident/554027,4
+2016-05-04,Minnesota,Minneapolis,1,7,http://www.gunviolencearchive.org/incident/553570,8
+2016-05-01,Tennessee,Murfreesboro,0,5,http://www.gunviolencearchive.org/incident/551053,5
+2016-04-29,Missouri,Saint Louis (Ferguson),0,4,http://www.gunviolencearchive.org/incident/550445,4
+2016-04-29,California,Oakland,0,5,http://www.gunviolencearchive.org/incident/550619,5
+2016-04-27,Louisiana,Baton Rouge,2,2,http://www.gunviolencearchive.org/incident/549507,4
+2016-04-27,Mississippi,Kilmichael,3,1,http://www.gunviolencearchive.org/incident/549071,4
+2016-04-26,Maryland,District Heights (Forestville),1,4,http://www.gunviolencearchive.org/incident/548333,5
+2016-04-25,Tennessee,Nashville,0,4,http://www.gunviolencearchive.org/incident/547639,4
+2016-04-25,Florida,Miami,0,5,http://www.gunviolencearchive.org/incident/547827,5
+2016-04-24,Virginia,Halifax,0,5,http://www.gunviolencearchive.org/incident/546760,5
+2016-04-24,Illinois,Chicago (Englewood),2,3,http://www.gunviolencearchive.org/incident/547319,5
+2016-04-24,Colorado,Denver,0,4,http://www.gunviolencearchive.org/incident/546818,4
+2016-04-23,Nevada,Las Vegas,1,3,http://www.gunviolencearchive.org/incident/546581,4
+2016-04-23,Alabama,Auburn,3,1,http://www.gunviolencearchive.org/incident/546244,4
+2016-04-23,Kansas,Topeka,1,4,http://www.gunviolencearchive.org/incident/546550,5
+2016-04-23,New York,New York (Manhattan),0,4,http://www.gunviolencearchive.org/incident/546258,4
+2016-04-22,Ohio,Piketon,8,0,http://www.gunviolencearchive.org/incident/545525,8
+2016-04-22,Georgia,Appling,6,0,http://www.gunviolencearchive.org/incident/546022,6
+2016-04-21,Maryland,Baltimore,0,4,http://www.gunviolencearchive.org/incident/545501,4
+2016-04-19,Alabama,Blountsville,1,4,http://www.gunviolencearchive.org/incident/543441,5
+2016-04-19,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/544080,4
+2016-04-19,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/543132,5
+2016-04-18,California,Long Beach,1,3,http://www.gunviolencearchive.org/incident/543244,4
+2016-04-17,Pennsylvania,Philadelphia,3,1,http://www.gunviolencearchive.org/incident/541996,4
+2016-04-17,South Carolina,Pelzer,1,3,http://www.gunviolencearchive.org/incident/543102,4
+2016-04-17,Texas,Edinburg,1,6,http://www.gunviolencearchive.org/incident/543108,7
+2016-04-16,Michigan,Detroit,1,4,http://www.gunviolencearchive.org/incident/542259,5
+2016-04-16,Florida,Orlando,2,4,http://www.gunviolencearchive.org/incident/541987,6
+2016-04-16,Alabama,Enterprise,0,4,http://www.gunviolencearchive.org/incident/542362,4
+2016-04-10,Wisconsin,Milwaukee,1,3,http://www.gunviolencearchive.org/incident/537825,4
+2016-04-10,California,Los Angeles,0,4,http://www.gunviolencearchive.org/incident/537820,4
+2016-04-09,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/537311,4
+2016-04-09,Alabama,Anniston,0,4,http://www.gunviolencearchive.org/incident/539705,4
+2016-04-09,New Mexico,Albuquerque,0,4,http://www.gunviolencearchive.org/incident/537085,4
+2016-04-07,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/535927,4
+2016-03-31,Illinois,Chicago (Englewood),0,4,http://www.gunviolencearchive.org/incident/532604,4
+2016-03-25,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/528614,4
+2016-03-25,Colorado,Denver,0,4,http://www.gunviolencearchive.org/incident/529488,4
+2016-03-21,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/526380,4
+2016-03-19,Florida,Plantation,1,4,http://www.gunviolencearchive.org/incident/525464,5
+2016-03-19,Alabama,Wetumpka,2,2,http://www.gunviolencearchive.org/incident/525301,4
+2016-03-15,Georgia,Atlanta,0,5,http://www.gunviolencearchive.org/incident/523044,5
+2016-03-13,Florida,Fort Myers,0,4,http://www.gunviolencearchive.org/incident/522122,4
+2016-03-12,Oregon,Portland,0,4,http://www.gunviolencearchive.org/incident/521821,4
+2016-03-12,California,Oakland,0,4,http://www.gunviolencearchive.org/incident/521074,4
+2016-03-11,Michigan,Detroit,2,2,http://www.gunviolencearchive.org/incident/520767,4
+2016-03-11,New Jersey,Trenton,0,5,http://www.gunviolencearchive.org/incident/520290,5
+2016-03-09,Pennsylvania,Pittsburgh,5,3,http://www.gunviolencearchive.org/incident/519541,8
+2016-03-08,Texas,San Antonio,2,3,http://www.gunviolencearchive.org/incident/518266,5
+2016-03-07,Louisiana,Lafayette,0,4,http://www.gunviolencearchive.org/incident/517895,4
+2016-03-07,Kansas,Kansas City,5,0,http://www.gunviolencearchive.org/incident/518436,5
+2016-03-06,Massachusetts,Chelsea,1,6,http://www.gunviolencearchive.org/incident/517058,7
+2016-03-06,Georgia,Roswell,0,4,http://www.gunviolencearchive.org/incident/517114,4
+2016-03-06,California,Compton,1,8,http://www.gunviolencearchive.org/incident/517073,9
+2016-03-05,Kansas,Wichita,0,4,http://www.gunviolencearchive.org/incident/516758,4
+2016-03-04,Ohio,Columbus,1,3,http://www.gunviolencearchive.org/incident/516341,4
+2016-02-28,Michigan,Detroit,0,5,http://www.gunviolencearchive.org/incident/513549,5
+2016-02-28,California,Riverside (Jurupa Valley),1,3,http://www.gunviolencearchive.org/incident/513640,4
+2016-02-27,Virginia,Woodbridge (Lake Ridge),2,2,http://www.gunviolencearchive.org/incident/512880,4
+2016-02-26,Washington,Belfair,5,0,http://www.gunviolencearchive.org/incident/512073,5
+2016-02-25,Kansas,Hesston,4,14,http://www.gunviolencearchive.org/incident/511436,18
+2016-02-23,Arizona,Glendale,5,0,http://www.gunviolencearchive.org/incident/509897,5
+2016-02-23,Florida,Daytona Beach,0,4,http://www.gunviolencearchive.org/incident/510769,4
+2016-02-21,Missouri,Hazelwood,1,3,http://www.gunviolencearchive.org/incident/508879,4
+2016-02-21,Texas,Houston,0,5,http://www.gunviolencearchive.org/incident/509707,5
+2016-02-20,Florida,Tampa,1,3,http://www.gunviolencearchive.org/incident/508341,4
+2016-02-20,Michigan,Kalamazoo,6,2,http://www.gunviolencearchive.org/incident/508640,8
+2016-02-20,Mississippi,Iuka,2,3,http://www.gunviolencearchive.org/incident/508113,5
+2016-02-20,Alabama,Bessemer,1,3,http://www.gunviolencearchive.org/incident/508356,4
+2016-02-20,Florida,Orlando,0,4,http://www.gunviolencearchive.org/incident/508510,4
+2016-02-19,Missouri,Edgerton,4,0,http://www.gunviolencearchive.org/incident/590221,4
+2016-02-19,California,Vallejo,1,3,http://www.gunviolencearchive.org/incident/507998,4
+2016-02-14,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/504879,4
+2016-02-14,Alabama,Eutaw (Union),0,5,http://www.gunviolencearchive.org/incident/505420,5
+2016-02-13,Louisiana,Marrero,0,4,http://www.gunviolencearchive.org/incident/504996,4
+2016-02-07,Mississippi,Pass Christian,2,4,http://www.gunviolencearchive.org/incident/501256,6
+2016-02-07,Florida,Orlando,2,10,http://www.gunviolencearchive.org/incident/501233,12
+2016-02-07,New York,Rochester,1,7,http://www.gunviolencearchive.org/incident/501168,8
+2016-02-07,Illinois,Chicago (Englewood),0,4,http://www.gunviolencearchive.org/incident/501349,4
+2016-02-06,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/501267,4
+2016-02-06,Florida,Apopka,0,4,http://www.gunviolencearchive.org/incident/500629,4
+2016-02-06,Florida,Tampa,2,6,http://www.gunviolencearchive.org/incident/500556,8
+2016-02-03,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/499422,4
+2016-01-30,Arizona,Glendale,3,5,http://www.gunviolencearchive.org/incident/495940,8
+2016-01-27,Virginia,Chesapeake,6,0,http://www.gunviolencearchive.org/incident/494378,6
+2016-01-26,Washington,Seattle,2,3,http://www.gunviolencearchive.org/incident/493536,5
+2016-01-25,California,Perris,1,4,http://www.gunviolencearchive.org/incident/493085,5
+2016-01-23,California,Los Angeles,2,2,http://www.gunviolencearchive.org/incident/491312,4
+2016-01-17,Virginia,Ware Neck (Gloucester Courthouse),1,3,http://www.gunviolencearchive.org/incident/486728,4
+2016-01-11,Delaware,Wilmington,1,4,http://www.gunviolencearchive.org/incident/483750,5
+2016-01-08,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/481849,4
+2016-01-08,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/481900,5
+2016-01-07,Tennessee,Memphis,1,3,http://www.gunviolencearchive.org/incident/481429,4
+2016-01-06,Florida,Lakeland,3,1,http://www.gunviolencearchive.org/incident/479613,4
+2017-12-31,Colorado,Littleton (Highlands Ranch),2,6,http://www.gunviolencearchive.org/incident/1017372,8
+2017-12-31,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/1017422,4
+2017-12-31,New Jersey,Long Branch,4,0,http://www.gunviolencearchive.org/incident/1018118,4
+2017-12-27,Nevada,Las Vegas,2,2,http://www.gunviolencearchive.org/incident/1015666,4
+2017-12-26,Florida,Miami,0,5,http://www.gunviolencearchive.org/incident/1015336,5
+2017-12-24,Mississippi,Vicksburg,0,5,http://www.gunviolencearchive.org/incident/1013983,5
+2017-12-24,Alabama,Troy,1,4,http://www.gunviolencearchive.org/incident/1014052,5
+2017-12-23,Louisiana,Eunice,1,3,http://www.gunviolencearchive.org/incident/1014971,4
+2017-12-23,Alabama,Birmingham,0,4,http://www.gunviolencearchive.org/incident/1013377,4
+2017-12-21,Louisiana,Lafayette,0,4,http://www.gunviolencearchive.org/incident/1012704,4
+2017-12-21,Pennsylvania,Philadelphia,1,3,http://www.gunviolencearchive.org/incident/1011953,4
+2017-12-16,Mississippi,Mc Cool (Mccool),0,4,http://www.gunviolencearchive.org/incident/1009629,4
+2017-12-15,California,Pacoima,0,5,http://www.gunviolencearchive.org/incident/1008310,5
+2017-12-13,Ohio,Columbus,1,3,http://www.gunviolencearchive.org/incident/1007054,4
+2017-12-12,Kentucky,Louisville,0,4,http://www.gunviolencearchive.org/incident/1006150,4
+2017-12-12,Texas,Garland,0,4,http://www.gunviolencearchive.org/incident/1006446,4
+2017-12-09,Massachusetts,Boston,0,4,http://www.gunviolencearchive.org/incident/1004454,4
+2017-12-06,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/1002514,4
+2017-12-04,Pennsylvania,Pittsburgh,2,2,http://www.gunviolencearchive.org/incident/1001566,4
+2017-12-03,Tennessee,Memphis,1,3,http://www.gunviolencearchive.org/incident/1000479,4
+2017-12-02,Michigan,Detroit,0,4,http://www.gunviolencearchive.org/incident/999969,4
+2017-11-30,Michigan,Detroit,1,4,http://www.gunviolencearchive.org/incident/998843,5
+2017-11-24,Ohio,Cleveland,1,5,http://www.gunviolencearchive.org/incident/995015,6
+2017-11-24,Mississippi,Brookhaven,1,6,http://www.gunviolencearchive.org/incident/994323,7
+2017-11-18,Minnesota,Minneapolis,0,4,http://www.gunviolencearchive.org/incident/991017,4
+2017-11-17,Louisiana,New Iberia,0,4,http://www.gunviolencearchive.org/incident/990974,4
+2017-11-16,Georgia,Columbus,0,7,http://www.gunviolencearchive.org/incident/989838,7
+2017-11-14,California,Corning,6,12,http://www.gunviolencearchive.org/incident/987611,18
+2017-11-14,California,Richmond,2,2,http://www.gunviolencearchive.org/incident/988824,4
+2017-11-12,Indiana,Gary,0,7,http://www.gunviolencearchive.org/incident/986236,7
+2017-11-12,California,Fresno,0,5,http://www.gunviolencearchive.org/incident/987134,5
+2017-11-12,Georgia,Atlanta,2,2,http://www.gunviolencearchive.org/incident/986816,4
+2017-11-11,Texas,Dallas,1,3,http://www.gunviolencearchive.org/incident/985582,4
+2017-11-11,Louisiana,New Orleans,1,5,http://www.gunviolencearchive.org/incident/986092,6
+2017-11-11,North Carolina,Fayetteville,1,5,http://www.gunviolencearchive.org/incident/985832,6
+2017-11-10,Ohio,Dayton (Trotwood),0,4,http://www.gunviolencearchive.org/incident/984822,4
+2017-11-09,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/984455,4
+2017-11-05,Texas,Sutherland Springs,27,20,http://www.gunviolencearchive.org/incident/980577,47
+2017-11-04,Texas,Austin,0,4,http://www.gunviolencearchive.org/incident/980269,4
+2017-11-04,Ohio,Youngstown,0,4,http://www.gunviolencearchive.org/incident/980192,4
+2017-11-04,California,Santa Monica,1,3,http://www.gunviolencearchive.org/incident/980060,4
+2017-11-03,Minnesota,Minneapolis,0,4,http://www.gunviolencearchive.org/incident/979651,4
+2017-11-03,California,Gardena,0,4,http://www.gunviolencearchive.org/incident/980258,4
+2017-11-03,New York,Buffalo,0,4,http://www.gunviolencearchive.org/incident/980004,4
+2017-11-03,Louisiana,Lacombe,1,4,http://www.gunviolencearchive.org/incident/980401,5
+2017-10-29,Texas,Austin,1,3,http://www.gunviolencearchive.org/incident/975600,4
+2017-10-28,Ohio,Toledo,0,4,http://www.gunviolencearchive.org/incident/975817,4
+2017-10-28,Virginia,Petersburg,1,3,http://www.gunviolencearchive.org/incident/974704,4
+2017-10-27,Kentucky,Louisville,0,6,http://www.gunviolencearchive.org/incident/974051,6
+2017-10-27,California,San Francisco,0,4,http://www.gunviolencearchive.org/incident/974411,4
+2017-10-23,California,Clearlake Oaks,2,3,http://www.gunviolencearchive.org/incident/966895,5
+2017-10-22,Connecticut,Hartford,0,4,http://www.gunviolencearchive.org/incident/966153,4
+2017-10-22,Alabama,Lanett,2,7,http://www.gunviolencearchive.org/incident/966178,9
+2017-10-21,Florida,Jacksonville,0,4,http://www.gunviolencearchive.org/incident/965077,4
+2017-10-21,Tennessee,Nashville,0,4,http://www.gunviolencearchive.org/incident/965756,4
+2017-10-21,Pennsylvania,Chester,0,4,http://www.gunviolencearchive.org/incident/965251,4
+2017-10-21,Florida,Tampa,0,4,http://www.gunviolencearchive.org/incident/965066,4
+2017-10-18,Maryland,Edgewood,3,3,http://www.gunviolencearchive.org/incident/962359,6
+2017-10-17,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/962155,4
+2017-10-16,Mississippi,Meridian,1,3,http://www.gunviolencearchive.org/incident/962623,4
+2017-10-15,Texas,Houston,2,2,http://www.gunviolencearchive.org/incident/960036,4
+2017-10-15,Arizona,Phoenix,1,3,http://www.gunviolencearchive.org/incident/959126,4
+2017-10-12,California,Aliso Viejo,2,2,http://www.gunviolencearchive.org/incident/957980,4
+2017-10-11,Ohio,Pedro,4,0,http://www.gunviolencearchive.org/incident/957562,4
+2017-10-10,California,San Francisco,0,4,http://www.gunviolencearchive.org/incident/956942,4
+2017-10-09,Texas,Houston,0,5,http://www.gunviolencearchive.org/incident/955268,5
+2017-10-07,Arizona,Phoenix,0,4,http://www.gunviolencearchive.org/incident/954428,4
+2017-10-06,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/953156,5
+2017-10-05,Arizona,Casa Grande,4,0,http://www.gunviolencearchive.org/incident/952720,4
+2017-10-03,Florida,Miami,0,4,http://www.gunviolencearchive.org/incident/952220,4
+2017-10-01,Kansas,Lawrence,3,2,http://www.gunviolencearchive.org/incident/945990,5
+2017-09-30,Tennessee,Memphis,1,3,http://www.gunviolencearchive.org/incident/946138,4
+2017-09-28,Louisiana,New Orleans,1,3,http://www.gunviolencearchive.org/incident/944448,4
+2017-09-26,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/942522,4
+2017-09-26,Maryland,Baltimore,2,2,http://www.gunviolencearchive.org/incident/942830,4
+2017-09-26,Pennsylvania,Philadelphia,1,3,http://www.gunviolencearchive.org/incident/942628,4
+2017-09-24,Maryland,Baltimore,0,4,http://www.gunviolencearchive.org/incident/941144,4
+2017-09-24,Tennessee,Antioch,1,8,http://www.gunviolencearchive.org/incident/940554,9
+2017-09-24,New York,Syracuse,0,4,http://www.gunviolencearchive.org/incident/940644,4
+2017-09-24,New Jersey,Mays Landing,1,3,http://www.gunviolencearchive.org/incident/941257,4
+2017-09-23,California,Bakersfield,1,4,http://www.gunviolencearchive.org/incident/939834,5
+2017-09-23,Illinois,Danville,0,5,http://www.gunviolencearchive.org/incident/940068,5
+2017-09-23,Connecticut,Hartford,2,2,http://www.gunviolencearchive.org/incident/940142,4
+2017-09-20,Indiana,Gary,0,5,http://www.gunviolencearchive.org/incident/939482,5
+2017-09-17,Michigan,Detroit,1,3,http://www.gunviolencearchive.org/incident/936028,4
+2017-09-17,Virginia,Petersburg,1,4,http://www.gunviolencearchive.org/incident/935928,5
+2017-09-16,South Carolina,Columbia,0,8,http://www.gunviolencearchive.org/incident/934036,8
+2017-09-13,Washington,Rockford,1,3,http://www.gunviolencearchive.org/incident/932181,4
+2017-09-13,Pennsylvania,York,0,4,http://www.gunviolencearchive.org/incident/932906,4
+2017-09-13,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/932619,4
+2017-09-13,Tennessee,Memphis,1,5,http://www.gunviolencearchive.org/incident/932526,6
+2017-09-10,Louisiana,New Orleans,1,3,http://www.gunviolencearchive.org/incident/930266,4
+2017-09-10,Texas,Plano,9,1,http://www.gunviolencearchive.org/incident/930569,10
+2017-09-09,Alabama,Selma,0,4,http://www.gunviolencearchive.org/incident/931139,4
+2017-09-06,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/928380,4
+2017-09-04,Illinois,Bellwood,0,4,http://www.gunviolencearchive.org/incident/927277,4
+2017-09-03,California,Inglewood,2,3,http://www.gunviolencearchive.org/incident/926766,5
+2017-09-02,Kentucky,Louisville,0,4,http://www.gunviolencearchive.org/incident/925809,4
+2017-09-02,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/925436,4
+2017-08-28,New Mexico,Clovis,2,4,http://www.gunviolencearchive.org/incident/922184,6
+2017-08-27,California,Sacramento,1,4,http://www.gunviolencearchive.org/incident/921733,5
+2017-08-27,Indiana,Evansville,1,3,http://www.gunviolencearchive.org/incident/921653,4
+2017-08-25,Florida,Gainesville,0,4,http://www.gunviolencearchive.org/incident/921289,4
+2017-08-24,Missouri,Saint Louis,4,0,http://www.gunviolencearchive.org/incident/920513,4
+2017-08-22,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/918204,4
+2017-08-21,New Jersey,Newark,0,4,http://www.gunviolencearchive.org/incident/917793,4
+2017-08-21,New Jersey,Newark,1,3,http://www.gunviolencearchive.org/incident/918061,4
+2017-08-21,Maryland,Baltimore,1,3,http://www.gunviolencearchive.org/incident/917713,4
+2017-08-21,North Carolina,Whitakers,4,0,http://www.gunviolencearchive.org/incident/917820,4
+2017-08-21,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/917838,4
+2017-08-20,Illinois,Chicago,2,5,http://www.gunviolencearchive.org/incident/916848,7
+2017-08-20,New York,Brooklyn,0,4,http://www.gunviolencearchive.org/incident/916808,4
+2017-08-19,Ohio,Cleveland,1,4,http://www.gunviolencearchive.org/incident/916551,5
+2017-08-16,New York,Wyandanch,0,4,http://www.gunviolencearchive.org/incident/914819,4
+2017-08-14,California,North Hollywood,2,2,http://www.gunviolencearchive.org/incident/913924,4
+2017-08-13,California,Sacramento,0,4,http://www.gunviolencearchive.org/incident/912322,4
+2017-08-13,Virginia,Suffolk,0,4,http://www.gunviolencearchive.org/incident/912375,4
+2017-08-13,Pennsylvania,Philadelphia,0,5,http://www.gunviolencearchive.org/incident/912805,5
+2017-08-12,Missouri,Saint Louis,1,3,http://www.gunviolencearchive.org/incident/912093,4
+2017-08-08,Illinois,Chicago,1,6,http://www.gunviolencearchive.org/incident/909423,7
+2017-08-06,New York,Bronx,0,6,http://www.gunviolencearchive.org/incident/907555,6
+2017-08-06,New York,Bronx,0,4,http://www.gunviolencearchive.org/incident/907546,4
+2017-08-06,California,Oakland,0,7,http://www.gunviolencearchive.org/incident/907857,7
+2017-08-05,New Jersey,Lakewood,0,4,http://www.gunviolencearchive.org/incident/907247,4
+2017-08-05,South Carolina,Allendale,1,3,http://www.gunviolencearchive.org/incident/907611,4
+2017-08-05,Florida,Tallahassee,1,3,http://www.gunviolencearchive.org/incident/906568,4
+2017-08-04,Montana,Lodge Grass,3,2,http://www.gunviolencearchive.org/incident/906509,5
+2017-08-03,District of Columbia,Washington,1,3,http://www.gunviolencearchive.org/incident/906126,4
+2017-08-02,Maryland,Baltimore,0,4,http://www.gunviolencearchive.org/incident/904329,4
+2017-08-01,Washington,Toppenish,0,6,http://www.gunviolencearchive.org/incident/904106,6
+2017-08-01,California,Fresno,0,7,http://www.gunviolencearchive.org/incident/904026,7
+2017-08-01,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/903853,4
+2017-07-31,Illinois,Decatur,0,4,http://www.gunviolencearchive.org/incident/903090,4
+2017-07-30,Virginia,Norfolk,1,5,http://www.gunviolencearchive.org/incident/901549,6
+2017-07-30,Texas,El Paso,1,3,http://www.gunviolencearchive.org/incident/902187,4
+2017-07-29,New York,Buffalo,1,4,http://www.gunviolencearchive.org/incident/901083,5
+2017-07-29,North Carolina,Salisbury,2,3,http://www.gunviolencearchive.org/incident/901000,5
+2017-07-28,Delaware,Wilmington,0,4,http://www.gunviolencearchive.org/incident/900963,4
+2017-07-27,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/900387,5
+2017-07-26,North Carolina,High Point,1,6,http://www.gunviolencearchive.org/incident/898631,7
+2017-07-25,Florida,Jacksonville,1,3,http://www.gunviolencearchive.org/incident/898448,4
+2017-07-23,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/896444,4
+2017-07-23,Louisiana,Baton Rouge,0,4,http://www.gunviolencearchive.org/incident/896889,4
+2017-07-22,Ohio,Cincinnati,0,5,http://www.gunviolencearchive.org/incident/896149,5
+2017-07-19,Virginia,Richmond,0,5,http://www.gunviolencearchive.org/incident/893690,5
+2017-07-19,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/894504,4
+2017-07-18,New Jersey,Trenton,1,3,http://www.gunviolencearchive.org/incident/893712,4
+2017-07-18,Wisconsin,Milwaukee,0,4,http://www.gunviolencearchive.org/incident/893726,4
+2017-07-18,Arizona,El Mirage,0,4,http://www.gunviolencearchive.org/incident/893752,4
+2017-07-15,Pennsylvania,Philadelphia,1,3,http://www.gunviolencearchive.org/incident/891291,4
+2017-07-15,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/891092,4
+2017-07-09,Virginia,Lawrenceville,0,7,http://www.gunviolencearchive.org/incident/886564,7
+2017-07-08,Illinois,Alton,0,4,http://www.gunviolencearchive.org/incident/886002,4
+2017-07-08,Ohio,Cincinnati,1,8,http://www.gunviolencearchive.org/incident/886220,9
+2017-07-06,Mississippi,Meridian,0,4,http://www.gunviolencearchive.org/incident/884764,4
+2017-07-05,Georgia,Savannah,0,4,http://www.gunviolencearchive.org/incident/883052,4
+2017-07-05,Illinois,Chicago (Roseland),2,2,http://www.gunviolencearchive.org/incident/883282,4
+2017-07-05,Maine,Madison,4,1,http://www.gunviolencearchive.org/incident/883058,5
+2017-07-04,Florida,Orlando (Pine Castle),0,4,http://www.gunviolencearchive.org/incident/882665,4
+2017-07-04,Virginia,Hampton,1,4,http://www.gunviolencearchive.org/incident/882321,5
+2017-07-04,North Carolina,Raleigh,1,3,http://www.gunviolencearchive.org/incident/883489,4
+2017-07-03,Alabama,Prattville,3,1,http://www.gunviolencearchive.org/incident/882422,4
+2017-07-03,Michigan,Pontiac,1,3,http://www.gunviolencearchive.org/incident/881921,4
+2017-07-02,New Jersey,Jersey City,0,4,http://www.gunviolencearchive.org/incident/881700,4
+2017-07-02,South Carolina,Greenwood,0,4,http://www.gunviolencearchive.org/incident/880738,4
+2017-07-01,Illinois,Momence,0,4,http://www.gunviolencearchive.org/incident/883656,4
+2017-07-01,New Jersey,Newark,2,2,http://www.gunviolencearchive.org/incident/880808,4
+2017-07-01,California,Oakland,0,4,http://www.gunviolencearchive.org/incident/880813,4
+2017-07-01,Arkansas,Little Rock,0,25,http://www.gunviolencearchive.org/incident/879953,25
+2017-06-30,New York,Bronx,2,6,http://www.gunviolencearchive.org/incident/879412,8
+2017-06-27,Illinois,Chicago,0,5,http://www.gunviolencearchive.org/incident/877295,5
+2017-06-25,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/876010,4
+2017-06-25,Missouri,Saint Louis,1,3,http://www.gunviolencearchive.org/incident/875886,4
+2017-06-24,Florida,Fort Lauderdale,1,4,http://www.gunviolencearchive.org/incident/874613,5
+2017-06-24,New York,New York (Manhattan),0,5,http://www.gunviolencearchive.org/incident/875322,5
+2017-06-24,New Jersey,Willingboro,0,4,http://www.gunviolencearchive.org/incident/876076,4
+2017-06-22,Georgia,Atlanta,1,6,http://www.gunviolencearchive.org/incident/873847,7
+2017-06-18,Missouri,Saint Louis,3,2,http://www.gunviolencearchive.org/incident/870095,5
+2017-06-18,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/870222,4
+2017-06-18,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/869877,4
+2017-06-18,South Carolina,Myrtle Beach,0,7,http://www.gunviolencearchive.org/incident/869968,7
+2017-06-17,Ohio,Columbus,1,4,http://www.gunviolencearchive.org/incident/869357,5
+2017-06-17,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/869838,4
+2017-06-15,Virginia,Richmond,1,3,http://www.gunviolencearchive.org/incident/868042,4
+2017-06-15,New Mexico,La Madera,5,0,http://www.gunviolencearchive.org/incident/868363,5
+2017-06-14,Ohio,Canton,0,4,http://www.gunviolencearchive.org/incident/868147,4
+2017-06-14,Virginia,Alexandria,1,5,http://www.gunviolencearchive.org/incident/866739,6
+2017-06-14,California,San Francisco,4,2,http://www.gunviolencearchive.org/incident/866933,6
+2017-06-13,Maryland,Baltimore,0,4,http://www.gunviolencearchive.org/incident/866412,4
+2017-06-13,Maryland,Baltimore,2,2,http://www.gunviolencearchive.org/incident/866448,4
+2017-06-13,Missouri,Saint Louis (University City),0,4,http://www.gunviolencearchive.org/incident/869474,4
+2017-06-11,Illinois,Chicago,0,9,http://www.gunviolencearchive.org/incident/864743,9
+2017-06-11,Tennessee,Chattanooga,0,4,http://www.gunviolencearchive.org/incident/864852,4
+2017-06-11,Texas,Houston,0,4,http://www.gunviolencearchive.org/incident/865371,4
+2017-06-10,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/865186,4
+2017-06-09,Texas,Fort Worth,2,5,http://www.gunviolencearchive.org/incident/864370,7
+2017-06-08,Louisiana,New Orleans,0,6,http://www.gunviolencearchive.org/incident/863075,6
+2017-06-06,Utah,Sandy,3,2,http://www.gunviolencearchive.org/incident/861307,5
+2017-06-05,Florida,Orlando,6,0,http://www.gunviolencearchive.org/incident/859875,6
+2017-06-03,Missouri,Saint Louis,2,2,http://www.gunviolencearchive.org/incident/858810,4
+2017-06-03,Louisiana,New Orleans,3,2,http://www.gunviolencearchive.org/incident/858719,5
+2017-06-02,Texas,Laredo,2,3,http://www.gunviolencearchive.org/incident/858378,5
+2017-06-02,California,Los Angeles,1,3,http://www.gunviolencearchive.org/incident/858877,4
+2017-06-01,Missouri,Saint Louis,3,1,http://www.gunviolencearchive.org/incident/857443,4
+2017-05-30,Ohio,Middletown,1,3,http://www.gunviolencearchive.org/incident/855764,4
+2017-05-29,Kentucky,Louisville,1,3,http://www.gunviolencearchive.org/incident/855113,4
+2017-05-28,Alabama,Phenix City,0,12,http://www.gunviolencearchive.org/incident/853901,12
+2017-05-28,New Jersey,Paterson,1,5,http://www.gunviolencearchive.org/incident/853796,6
+2017-05-28,Mississippi,Moss Point,0,5,http://www.gunviolencearchive.org/incident/853920,5
+2017-05-27,Mississippi,Bogue Chitto,8,1,http://www.gunviolencearchive.org/incident/853756,9
+2017-05-27,New York,New York (Manhattan),0,4,http://www.gunviolencearchive.org/incident/853032,4
+2017-05-27,District of Columbia,Washington,1,7,http://www.gunviolencearchive.org/incident/853119,8
+2017-05-26,Florida,Miami,0,4,http://www.gunviolencearchive.org/incident/852676,4
+2017-05-21,Iowa,Des Moines,1,3,http://www.gunviolencearchive.org/incident/848680,4
+2017-05-21,Arizona,Mesa,0,4,http://www.gunviolencearchive.org/incident/849215,4
+2017-05-20,Pennsylvania,Philadelphia,0,10,http://www.gunviolencearchive.org/incident/848292,10
+2017-05-16,South Carolina,Ruffin,3,1,http://www.gunviolencearchive.org/incident/845364,4
+2017-05-14,Arkansas,Jonesboro,1,6,http://www.gunviolencearchive.org/incident/843078,7
+2017-05-14,Illinois,Dolton,0,5,http://www.gunviolencearchive.org/incident/843045,5
+2017-05-14,Florida,Avon Park,0,5,http://www.gunviolencearchive.org/incident/843172,5
+2017-05-14,Texas,Fort Worth,0,4,http://www.gunviolencearchive.org/incident/843590,4
+2017-05-10,New Jersey,Trenton,1,3,http://www.gunviolencearchive.org/incident/840339,4
+2017-05-09,Kansas,Kansas City,3,1,http://www.gunviolencearchive.org/incident/839846,4
+2017-05-07,Illinois,Chicago,2,8,http://www.gunviolencearchive.org/incident/838272,10
+2017-05-04,Michigan,Flint,1,3,http://www.gunviolencearchive.org/incident/835961,4
+2017-05-02,Florida,Jacksonville,1,3,http://www.gunviolencearchive.org/incident/834832,4
+2017-05-01,Texas,Dallas,2,3,http://www.gunviolencearchive.org/incident/833152,5
+2017-04-30,California,San Diego,2,6,http://www.gunviolencearchive.org/incident/832679,8
+2017-04-30,Kansas,Topeka,4,1,http://www.gunviolencearchive.org/incident/832528,5
+2017-04-30,Florida,Jacksonville,0,5,http://www.gunviolencearchive.org/incident/833128,5
+2017-04-30,South Carolina,Loris,1,5,http://www.gunviolencearchive.org/incident/832309,6
+2017-04-29,Maryland,Germantown,1,3,http://www.gunviolencearchive.org/incident/831667,4
+2017-04-29,California,Los Angeles (Boyle Heights),1,3,http://www.gunviolencearchive.org/incident/835459,4
+2017-04-29,California,Sacramento,0,5,http://www.gunviolencearchive.org/incident/832290,5
+2017-04-29,California,Whittier,1,5,http://www.gunviolencearchive.org/incident/831800,6
+2017-04-29,California,Compton,0,4,http://www.gunviolencearchive.org/incident/834788,4
+2017-04-29,Virginia,Virginia Beach,0,4,http://www.gunviolencearchive.org/incident/832063,4
+2017-04-28,Pennsylvania,Chester,0,4,http://www.gunviolencearchive.org/incident/831201,4
+2017-04-27,New Jersey,Newark,1,3,http://www.gunviolencearchive.org/incident/830984,4
+2017-04-26,Florida,Miami,0,4,http://www.gunviolencearchive.org/incident/829073,4
+2017-04-21,Florida,Palm Bay,2,2,http://www.gunviolencearchive.org/incident/825694,4
+2017-04-20,Kentucky,Louisville,0,4,http://www.gunviolencearchive.org/incident/825111,4
+2017-04-16,California,Vallejo,0,4,http://www.gunviolencearchive.org/incident/821667,4
+2017-04-16,North Carolina,Elizabeth City,0,4,http://www.gunviolencearchive.org/incident/821723,4
+2017-04-16,Ohio,Columbus,0,9,http://www.gunviolencearchive.org/incident/821371,9
+2017-04-15,Illinois,Rock Falls,0,4,http://www.gunviolencearchive.org/incident/821640,4
+2017-04-15,Indiana,Indianapolis,0,4,http://www.gunviolencearchive.org/incident/820565,4
+2017-04-15,Alabama,Birmingham,0,6,http://www.gunviolencearchive.org/incident/821400,6
+2017-04-15,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/821055,4
+2017-04-15,Illinois,Harvey,0,4,http://www.gunviolencearchive.org/incident/821651,4
+2017-04-15,California,Banning,0,4,http://www.gunviolencearchive.org/incident/822750,4
+2017-04-13,Georgia,Atlanta,1,3,http://www.gunviolencearchive.org/incident/818932,4
+2017-04-09,Texas,San Antonio,1,3,http://www.gunviolencearchive.org/incident/815227,4
+2017-04-09,Indiana,Fort Wayne,1,3,http://www.gunviolencearchive.org/incident/815246,4
+2017-04-07,North Carolina,Hickory,3,1,http://www.gunviolencearchive.org/incident/813877,4
+2017-04-07,Texas,Houston,5,0,http://www.gunviolencearchive.org/incident/813821,5
+2017-04-07,Minnesota,Saint Paul,4,1,http://www.gunviolencearchive.org/incident/813943,5
+2017-04-07,Illinois,Chicago,1,5,http://www.gunviolencearchive.org/incident/814094,6
+2017-04-06,Louisiana,Lake Charles,1,3,http://www.gunviolencearchive.org/incident/813028,4
+2017-04-03,Pennsylvania,Philadelphia,3,1,http://www.gunviolencearchive.org/incident/810756,4
+2017-04-03,Texas,Lubbock,0,7,http://www.gunviolencearchive.org/incident/811089,7
+2017-04-02,Illinois,Chicago,2,4,http://www.gunviolencearchive.org/incident/809978,6
+2017-04-02,Iowa,Des Moines,0,5,http://www.gunviolencearchive.org/incident/809683,5
+2017-04-01,California,Pittsburg,0,5,http://www.gunviolencearchive.org/incident/809815,5
+2017-04-01,Florida,Tampa,1,4,http://www.gunviolencearchive.org/incident/809048,5
+2017-04-01,Oklahoma,Oklahoma City,2,3,http://www.gunviolencearchive.org/incident/809499,5
+2017-03-30,Illinois,Chicago,4,0,http://www.gunviolencearchive.org/incident/807618,4
+2017-03-27,Florida,Sanford,2,4,http://www.gunviolencearchive.org/incident/804115,6
+2017-03-26,Texas,Houston,2,4,http://www.gunviolencearchive.org/incident/803822,6
+2017-03-26,Ohio,Cincinnati,2,15,http://www.gunviolencearchive.org/incident/803054,17
+2017-03-26,Ohio,Cleveland,2,2,http://www.gunviolencearchive.org/incident/803689,4
+2017-03-25,Michigan,Detroit,1,3,http://www.gunviolencearchive.org/incident/803460,4
+2017-03-25,Tennessee,Knoxville,1,4,http://www.gunviolencearchive.org/incident/802926,5
+2017-03-25,Ohio,Cleveland,2,2,http://www.gunviolencearchive.org/incident/802837,4
+2017-03-24,California,Fresno,1,4,http://www.gunviolencearchive.org/incident/802425,5
+2017-03-24,Missouri,Saint Louis,1,6,http://www.gunviolencearchive.org/incident/802240,7
+2017-03-22,Wisconsin,Rothschild,5,0,http://www.gunviolencearchive.org/incident/800363,5
+2017-03-19,Kentucky,Louisville,1,5,http://www.gunviolencearchive.org/incident/797553,6
+2017-03-18,Michigan,Detroit,3,2,http://www.gunviolencearchive.org/incident/797125,5
+2017-03-15,Louisiana,Metairie,3,1,http://www.gunviolencearchive.org/incident/794468,4
+2017-03-10,Illinois,Chicago,2,2,http://www.gunviolencearchive.org/incident/791298,4
+2017-03-10,Louisiana,New Orleans (Gentilly),3,1,http://www.gunviolencearchive.org/incident/791274,4
+2017-03-07,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/789798,4
+2017-03-05,Georgia,Columbus,0,4,http://www.gunviolencearchive.org/incident/789424,4
+2017-03-04,Kansas,Topeka,1,4,http://www.gunviolencearchive.org/incident/787875,5
+2017-03-04,California,Sacramento,0,4,http://www.gunviolencearchive.org/incident/787801,4
+2017-03-03,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/786876,4
+2017-03-03,California,Riverside,0,5,http://www.gunviolencearchive.org/incident/787435,5
+2017-02-28,Ohio,Cincinnati,0,6,http://www.gunviolencearchive.org/incident/785262,6
+2017-02-27,Virginia,Newport News,0,4,http://www.gunviolencearchive.org/incident/783963,4
+2017-02-26,Indiana,Gary,1,4,http://www.gunviolencearchive.org/incident/783623,5
+2017-02-25,Ohio,Warren,2,3,http://www.gunviolencearchive.org/incident/783102,5
+2017-02-25,Florida,Jacksonville,1,4,http://www.gunviolencearchive.org/incident/783090,5
+2017-02-22,New York,Rochester,0,4,http://www.gunviolencearchive.org/incident/780792,4
+2017-02-21,Ohio,Cleveland,0,4,http://www.gunviolencearchive.org/incident/780036,4
+2017-02-21,Mississippi,Toomsuba,4,0,http://www.gunviolencearchive.org/incident/779582,4
+2017-02-20,Ohio,Cleveland,0,5,http://www.gunviolencearchive.org/incident/778941,5
+2017-02-19,Virginia,Norfolk,1,3,http://www.gunviolencearchive.org/incident/778182,4
+2017-02-18,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/777876,4
+2017-02-18,Indiana,South Bend,1,3,http://www.gunviolencearchive.org/incident/777410,4
+2017-02-15,California,Salinas,0,4,http://www.gunviolencearchive.org/incident/775903,4
+2017-02-15,Illinois,Chicago,3,2,http://www.gunviolencearchive.org/incident/775531,5
+2017-02-12,Missouri,Caruthersville,1,6,http://www.gunviolencearchive.org/incident/773002,7
+2017-02-12,New York,Newburgh,1,3,http://www.gunviolencearchive.org/incident/773162,4
+2017-02-12,Florida,Greenville,0,5,http://www.gunviolencearchive.org/incident/773908,5
+2017-02-11,Tennessee,Savannah,0,4,http://www.gunviolencearchive.org/incident/772989,4
+2017-02-11,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/772753,4
+2017-02-10,Louisiana,New Orleans,1,5,http://www.gunviolencearchive.org/incident/772067,6
+2017-02-09,Mississippi,Jackson,4,0,http://www.gunviolencearchive.org/incident/771826,4
+2017-02-08,Ohio,Cleveland,1,4,http://www.gunviolencearchive.org/incident/769889,5
+2017-02-07,South Carolina,Columbia,0,4,http://www.gunviolencearchive.org/incident/769511,4
+2017-02-07,Arkansas,Little Rock,1,4,http://www.gunviolencearchive.org/incident/769859,5
+2017-02-06,Mississippi,Yazoo City,4,0,http://www.gunviolencearchive.org/incident/768243,4
+2017-01-31,Tennessee,Memphis,0,4,http://www.gunviolencearchive.org/incident/765559,4
+2017-01-31,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/765153,4
+2017-01-30,Minnesota,Minneapolis (Crystal),0,4,http://www.gunviolencearchive.org/incident/764020,4
+2017-01-29,Louisiana,Shreveport,1,4,http://www.gunviolencearchive.org/incident/763313,5
+2017-01-27,Washington,Bremerton,4,0,http://www.gunviolencearchive.org/incident/1025158,4
+2017-01-27,Tennessee,Brownsville,0,10,http://www.gunviolencearchive.org/incident/761973,10
+2017-01-26,Georgia,Albany,2,3,http://www.gunviolencearchive.org/incident/760482,5
+2017-01-25,Illinois,Chicago,0,6,http://www.gunviolencearchive.org/incident/760259,6
+2017-01-22,Texas,Manvel,3,2,http://www.gunviolencearchive.org/incident/757158,5
+2017-01-22,Illinois,Chicago (Englewood),0,4,http://www.gunviolencearchive.org/incident/757032,4
+2017-01-22,Georgia,Atlanta,3,1,http://www.gunviolencearchive.org/incident/757001,4
+2017-01-21,Georgia,Jonesboro,0,6,http://www.gunviolencearchive.org/incident/756801,6
+2017-01-21,Florida,Boynton Beach,0,5,http://www.gunviolencearchive.org/incident/756526,5
+2017-01-21,Tennessee,Memphis,2,2,http://www.gunviolencearchive.org/incident/756504,4
+2017-01-20,Mississippi,Como,1,4,http://www.gunviolencearchive.org/incident/757955,5
+2017-01-20,California,Fresno,0,4,http://www.gunviolencearchive.org/incident/756015,4
+2017-01-16,Texas,Houston,0,4,http://www.gunviolencearchive.org/incident/752756,4
+2017-01-16,Florida,Miami,0,8,http://www.gunviolencearchive.org/incident/752222,8
+2017-01-15,Colorado,Capulin,3,1,http://www.gunviolencearchive.org/incident/752249,4
+2017-01-15,Mississippi,Magnolia,1,4,http://www.gunviolencearchive.org/incident/751367,5
+2017-01-12,Missouri,Kansas City,3,2,http://www.gunviolencearchive.org/incident/749361,5
+2017-01-12,California,Salinas,2,2,http://www.gunviolencearchive.org/incident/749769,4
+2017-01-11,New Jersey,Newark,1,3,http://www.gunviolencearchive.org/incident/748152,4
+2017-01-11,Illinois,Chicago,1,3,http://www.gunviolencearchive.org/incident/748348,4
+2017-01-07,Michigan,Flint,1,3,http://www.gunviolencearchive.org/incident/745236,4
+2017-01-06,California,Pasadena,2,2,http://www.gunviolencearchive.org/incident/744799,4
+2017-01-06,Florida,Fort Lauderdale,5,6,http://www.gunviolencearchive.org/incident/743995,11
+2017-01-04,California,Fontana,3,1,http://www.gunviolencearchive.org/incident/742542,4
+2017-01-03,Texas,Allen,0,4,http://www.gunviolencearchive.org/incident/742001,4
+2017-01-01,Mississippi,Winstonville,0,5,http://www.gunviolencearchive.org/incident/743282,5
+2017-01-01,Texas,Dallas,1,3,http://www.gunviolencearchive.org/incident/739451,4
+2017-01-01,Florida,Miami,0,7,http://www.gunviolencearchive.org/incident/739766,7
+2018-05-25,Ohio,Cincinnati,0,4,http://www.gunviolencearchive.org/incident/1124777,4
+2018-05-20,Indiana,Anderson,0,4,http://www.gunviolencearchive.org/incident/1122728,4
+2018-05-20,Mississippi,Hazlehurst,1,7,http://www.gunviolencearchive.org/incident/1121111,8
+2018-05-18,Texas,Santa Fe,10,13,http://www.gunviolencearchive.org/incident/1118785,23
+2018-05-16,Texas,Ponder,5,1,http://www.gunviolencearchive.org/incident/1116705,6
+2018-05-14,Maryland,Baltimore,0,4,http://www.gunviolencearchive.org/incident/1115110,4
+2018-05-13,California,Stockton,3,2,http://www.gunviolencearchive.org/incident/1115051,5
+2018-05-13,Mississippi,Byhalia,0,4,http://www.gunviolencearchive.org/incident/1114402,4
+2018-05-13,California,Los Angeles,2,2,http://www.gunviolencearchive.org/incident/1114725,4
+2018-05-12,Nebraska,Omaha,0,6,http://www.gunviolencearchive.org/incident/1114276,6
+2018-05-12,New Jersey,Paulsboro,0,4,http://www.gunviolencearchive.org/incident/1113538,4
+2018-05-11,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/1113737,4
+2018-05-11,Oklahoma,Talihina,1,4,http://www.gunviolencearchive.org/incident/1112948,5
+2018-05-09,Nebraska,Omaha,0,4,http://www.gunviolencearchive.org/incident/1111649,4
+2018-05-09,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/1111950,4
+2018-05-07,California,San Diego,0,5,http://www.gunviolencearchive.org/incident/1110399,5
+2018-05-06,Oklahoma,Stillwater,0,4,http://www.gunviolencearchive.org/incident/1108856,4
+2018-05-06,Tennessee,Memphis,2,4,http://www.gunviolencearchive.org/incident/1109322,6
+2018-05-05,Georgia,Columbus,0,5,http://www.gunviolencearchive.org/incident/1108879,5
+2018-05-04,North Carolina,Henderson,0,4,http://www.gunviolencearchive.org/incident/1110773,4
+2018-05-04,Illinois,Chicago Heights,0,4,http://www.gunviolencearchive.org/incident/1109928,4
+2018-05-02,Illinois,Chicago,1,4,http://www.gunviolencearchive.org/incident/1106451,5
+2018-05-02,Minnesota,Minneapolis,0,6,http://www.gunviolencearchive.org/incident/1106557,6
+2018-05-02,New York,Brooklyn,1,4,http://www.gunviolencearchive.org/incident/1106432,5
+2018-05-01,Louisiana,New Orleans,0,5,http://www.gunviolencearchive.org/incident/1105061,5
+2018-04-30,Florida,Pompano Beach,0,4,http://www.gunviolencearchive.org/incident/1103454,4
+2018-04-30,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/1103465,4
+2018-04-29,Tennessee,Wartburg,0,4,http://www.gunviolencearchive.org/incident/1103423,4
+2018-04-29,Washington,Seattle (Skyway),2,2,http://www.gunviolencearchive.org/incident/1102808,4
+2018-04-29,North Carolina,Monroe,1,3,http://www.gunviolencearchive.org/incident/1103045,4
+2018-04-29,Florida,West Palm Beach,1,3,http://www.gunviolencearchive.org/incident/1102900,4
+2018-04-28,North Carolina,Maxton,0,5,http://www.gunviolencearchive.org/incident/1102559,5
+2018-04-25,Arkansas,Pine Bluff,0,4,http://www.gunviolencearchive.org/incident/1100691,4
+2018-04-25,Missouri,Saint Louis (Spanish Lake),3,1,http://www.gunviolencearchive.org/incident/1100852,4
+2018-04-24,Michigan,Flint,0,4,http://www.gunviolencearchive.org/incident/1099516,4
+2018-04-22,Tennessee,Antioch,4,3,http://www.gunviolencearchive.org/incident/1096826,7
+2018-04-22,Louisiana,New Orleans,1,5,http://www.gunviolencearchive.org/incident/1097700,6
+2018-04-21,Pennsylvania,Philadelphia,2,2,http://www.gunviolencearchive.org/incident/1096232,4
+2018-04-20,California,San Francisco,1,5,http://www.gunviolencearchive.org/incident/1096388,6
+2018-04-18,North Carolina,Asheville,4,3,http://www.gunviolencearchive.org/incident/1095043,7
+2018-04-15,Louisiana,Shreveport,0,6,http://www.gunviolencearchive.org/incident/1092279,6
+2018-04-09,California,Vallejo,0,4,http://www.gunviolencearchive.org/incident/1088778,4
+2018-04-08,North Carolina,Hickory,1,3,http://www.gunviolencearchive.org/incident/1087153,4
+2018-04-08,Florida,Miami,2,2,http://www.gunviolencearchive.org/incident/1087021,4
+2018-04-06,Florida,Jacksonville,0,4,http://www.gunviolencearchive.org/incident/1086773,4
+2018-04-06,Virginia,Virginia Beach,1,3,http://www.gunviolencearchive.org/incident/1086966,4
+2018-04-04,Louisiana,New Orleans,2,2,http://www.gunviolencearchive.org/incident/1084847,4
+2018-04-02,Texas,Houston,1,3,http://www.gunviolencearchive.org/incident/1083552,4
+2018-04-01,Alabama,Mobile,1,4,http://www.gunviolencearchive.org/incident/1083011,5
+2018-04-01,Michigan,Saginaw,0,5,http://www.gunviolencearchive.org/incident/1082835,5
+2018-03-31,New Jersey,Asbury Park,0,5,http://www.gunviolencearchive.org/incident/1082273,5
+2018-03-29,Texas,Plano,1,3,http://www.gunviolencearchive.org/incident/1080234,4
+2018-03-29,New Jersey,Camden,0,4,http://www.gunviolencearchive.org/incident/1080442,4
+2018-03-24,Utah,Salt Lake City (West Valley City),0,4,http://www.gunviolencearchive.org/incident/1077180,4
+2018-03-21,California,San Francisco,1,5,http://www.gunviolencearchive.org/incident/1074886,6
+2018-03-17,Kentucky,Louisville,0,7,http://www.gunviolencearchive.org/incident/1071427,7
+2018-03-17,Illinois,Harvey,0,4,http://www.gunviolencearchive.org/incident/1071381,4
+2018-03-13,Florida,Macclenny,0,4,http://www.gunviolencearchive.org/incident/1078612,4
+2018-03-12,California,Modesto,0,4,http://www.gunviolencearchive.org/incident/1068615,4
+2018-03-11,Illinois,Champaign,1,3,http://www.gunviolencearchive.org/incident/1067264,4
+2018-03-11,Indiana,South Bend,0,6,http://www.gunviolencearchive.org/incident/1067061,6
+2018-03-11,Michigan,Saginaw,0,5,http://www.gunviolencearchive.org/incident/1067296,5
+2018-03-09,North Carolina,Wadesboro,3,1,http://www.gunviolencearchive.org/incident/1066594,4
+2018-03-07,Alabama,Hurtsboro,2,2,http://www.gunviolencearchive.org/incident/1064514,4
+2018-03-04,Illinois,Rockford,1,4,http://www.gunviolencearchive.org/incident/1062466,5
+2018-03-03,Florida,Miami,0,4,http://www.gunviolencearchive.org/incident/1062123,4
+2018-03-03,New York,Brooklyn,1,3,http://www.gunviolencearchive.org/incident/1061748,4
+2018-02-27,Connecticut,Bridgeport,0,4,http://www.gunviolencearchive.org/incident/1059559,4
+2018-02-26,Michigan,Detroit,5,0,http://www.gunviolencearchive.org/incident/1057518,5
+2018-02-23,Florida,Palm Beach Gardens (Riviera Beach),1,3,http://www.gunviolencearchive.org/incident/1056240,4
+2018-02-18,Texas,San Antonio,0,5,http://www.gunviolencearchive.org/incident/1052372,5
+2018-02-17,Kansas,Kansas City,1,7,http://www.gunviolencearchive.org/incident/1052035,8
+2018-02-17,Tennessee,Memphis,0,5,http://www.gunviolencearchive.org/incident/1051407,5
+2018-02-16,Oklahoma,Oklahoma City,1,3,http://www.gunviolencearchive.org/incident/1051291,4
+2018-02-14,Florida,Pompano Beach (Parkland),17,17,http://www.gunviolencearchive.org/incident/1049217,34
+2018-02-13,Louisiana,New Orleans,3,3,http://www.gunviolencearchive.org/incident/1049024,6
+2018-02-11,Michigan,Detroit,4,3,http://www.gunviolencearchive.org/incident/1047761,7
+2018-02-10,Kentucky,Paintsville,5,0,http://www.gunviolencearchive.org/incident/1046961,5
+2018-02-07,Florida,Lake Worth (Lantana),3,3,http://www.gunviolencearchive.org/incident/1044234,6
+2018-02-05,Colorado,Colorado Springs,2,4,http://www.gunviolencearchive.org/incident/1043447,6
+2018-02-03,Ohio,Cleveland (Garfield Heights),1,5,http://www.gunviolencearchive.org/incident/1042280,6
+2018-01-31,Missouri,Saint Louis,0,4,http://www.gunviolencearchive.org/incident/1040815,4
+2018-01-28,Pennsylvania,Melcroft,5,0,http://www.gunviolencearchive.org/incident/1037529,5
+2018-01-28,Pennsylvania,Reading,4,0,http://www.gunviolencearchive.org/incident/1038429,4
+2018-01-28,Indiana,Indianapolis,2,3,http://www.gunviolencearchive.org/incident/1037515,5
+2018-01-27,California,Los Angeles,0,5,http://www.gunviolencearchive.org/incident/1037541,5
+2018-01-27,Kentucky,Bowling Green,0,4,http://www.gunviolencearchive.org/incident/1037438,4
+2018-01-25,District of Columbia,Washington,0,4,http://www.gunviolencearchive.org/incident/1035803,4
+2018-01-23,Pennsylvania,Philadelphia,0,4,http://www.gunviolencearchive.org/incident/1034205,4
+2018-01-23,Kentucky,Benton,2,14,http://www.gunviolencearchive.org/incident/1033262,16
+2018-01-21,Florida,Orlando,0,4,http://www.gunviolencearchive.org/incident/1032393,4
+2018-01-21,Illinois,Chicago,0,4,http://www.gunviolencearchive.org/incident/1031851,4
+2018-01-17,District of Columbia,Washington,1,3,http://www.gunviolencearchive.org/incident/1029095,4
+2018-01-16,South Carolina,York,1,4,http://www.gunviolencearchive.org/incident/1027999,5
+2018-01-15,Florida,Alachua,0,5,http://www.gunviolencearchive.org/incident/1042072,5
+2018-01-14,Alabama,Eutaw,1,4,http://www.gunviolencearchive.org/incident/1026804,5
+2018-01-14,Alabama,Madison,0,4,http://www.gunviolencearchive.org/incident/1027013,4
+2018-01-12,Tennessee,Nashville,3,2,http://www.gunviolencearchive.org/incident/1025673,5
+2018-01-11,Missouri,Saint Robert (St Robert),2,2,http://www.gunviolencearchive.org/incident/1025272,4
+2018-01-07,Alabama,Union Springs,1,5,http://www.gunviolencearchive.org/incident/1022067,6
+2018-01-07,Florida,Plantation,0,4,http://www.gunviolencearchive.org/incident/1022055,4
+2018-01-05,Mississippi,Hattiesburg,0,6,http://www.gunviolencearchive.org/incident/1021788,6
+2018-01-04,Arkansas,Brinkley,1,3,http://www.gunviolencearchive.org/incident/1020574,4
+2018-01-01,Alabama,Huntsville,1,3,http://www.gunviolencearchive.org/incident/1018295,4

@@ -2,36 +2,42 @@ library(tidyverse)
 library(mapdata)
 
 import <- read_csv("data/df_clean_scrape.csv")
-
 congress_clean <- DGT %R% optional(DGT)
-
 import$congresional_district <- str_extract(import$congresional_district, congress_clean)
+
 import$assault_rifle <- (!is.na(import$rifle))
 import$handgun <- (!is.na(import$handgun_general) | !is.na(import$handgun_specific))
 
-
-df_clean <- import %>%
-        select(date:city, geolocation:congresional_district, assault_rifle:handgun)
-
-
 df_clean_assault <- subset(import, assault_rifle == TRUE)
+df_clean_assault$gun_type <- "assault_rifle"
 df_clean_handgun <- subset(import, assault_rifle == FALSE & handgun == TRUE)
-df_positive_gun_type <- bind_rows(df_clean_assault, df_clean_handgun) %>% distinct()
+df_clean_handgun$gun_type <- "handgun"
+df_positive_gun_type <- bind_rows(df_clean_assault, df_clean_handgun) %>%
+        select(-incident, -(assault_weapon:handgun))
+
+ggplot(df_positive_gun_type, aes(gun_type, victims)) +
+        geom_boxplot(alpha = 0.2, outlier.colour = NA) +
+        geom_jitter(aes(color = gun_type)) +
+        
+
+ggplot(df_positive_gun_type, aes(gun_type, injured)) + geom_boxplot()
+ggplot(df_positive_gun_type, aes(gun_type, killed)) + geom_boxplot()
+
 
 # t-test showing more victims, more killed with assault rifles
 t.test(df_clean_assault$victims, df_clean_handgun$victims)
 t.test(df_clean_assault$killed, df_clean_handgun$killed)
 t.test(df_clean_assault$injured, df_clean_handgun$injured)
 
-sum(!is.na(import$assault_weapon))
-sum(!is.na(import$rifle))
-sum(!is.na(import$assault_weapon) | !is.na(import$rifle))
 
-sum(!is.na(import$handgun_general))
-sum(!is.na(import$handgun_specific))
-sum(!is.na(import$handgun_general) | !is.na(import$handgun_specific))
 
-congress_summary <- df_clean %>%
+
+congress_summary_assault <- df_clean_assault %>%
+        group_by(state, congresional_district) %>%
+        summarise(incidents = n(),
+                  victims = sum(victims))
+
+congress_summary_handgun <- df_clean_handgun %>%
         group_by(state, congresional_district) %>%
         summarise(incidents = n(),
                   victims = sum(victims))

@@ -30,7 +30,7 @@ table(month(df$date))
 table(day(df$date))
 
 #victims by year
-victims_by_year <- df %>%
+victims_by_year <- import %>%
         group_by(year = year(date)) %>%
         summarise(number_incidents = n(),
                   number_killed = sum(killed),
@@ -41,7 +41,7 @@ victims_by_year <- df %>%
                victims_per_incident = number_victims / number_incidents)
 
 #victims by month
-victims_by_month <- df %>%
+victims_by_month <- import %>%
         group_by(month = month(date)) %>%
         summarise(number_incidents = n(),
                   number_killed = sum(killed),
